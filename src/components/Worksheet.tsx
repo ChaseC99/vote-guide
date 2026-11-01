@@ -11,13 +11,15 @@ interface Props {
   state: WorksheetState;
   status: SaveStatus;
   onPrivacy: () => void;
+  onPrint: () => void;
 }
 
-export function Worksheet({ ballot, currentId, lastVisited, state, status, onPrivacy }: Props) {
+export function Worksheet({ ballot, currentId, lastVisited, state, status, onPrivacy, onPrint }: Props) {
   const compact = !!currentId;
   const last = ballot.contests.find(({ id }) => id === lastVisited);
   const marked = ballot.contests.filter(({ id }) => selectionCount(state.selections[id])).length;
-  return <aside className={`worksheet ${compact ? 'compact' : ''}`} aria-label="Ballot worksheet">
+  const Container = compact ? 'aside' : 'main';
+  return <Container className={`worksheet ${compact ? 'compact' : ''}`} aria-label="Ballot worksheet">
     <div className="worksheet-inner">
       <header className="worksheet-header">
         <p className="eyebrow election-line">{ballot.election} · {ballot.date} · {ballot.jurisdiction}</p>
@@ -25,7 +27,7 @@ export function Worksheet({ ballot, currentId, lastVisited, state, status, onPri
         <div className="worksheet-title-row">
           {compact ? <h2>Ballot worksheet</h2> : <h1 id="page-title" tabIndex={-1}>Ballot worksheet</h1>}
           {compact && <a className="button expand-button" href="/" data-route title="Expand worksheet (Esc)">⤢ Expand</a>}
-          <div className="worksheet-actions"><div className="save-status"><SaveIndicator status={status} compact={compact} onClick={onPrivacy} /><span>· {marked} of {ballot.contests.length} marked</span></div></div>
+          <div className="worksheet-actions"><div className="save-status"><SaveIndicator status={status} compact={compact} onClick={onPrivacy} /><span>· {marked} of {ballot.contests.length} marked</span></div><button className={compact ? 'text-button compact-print' : 'button primary print-button'} onClick={onPrint}>{compact ? 'Print' : 'Print / PDF'}</button></div>
         </div>
       </header>
       <div className="worksheet-body">
@@ -54,5 +56,6 @@ export function Worksheet({ ballot, currentId, lastVisited, state, status, onPri
         </footer>}
       </div>
     </div>
-  </aside>;
+    {!compact && <div className="mobile-worksheet-bar"><div><SaveIndicator status={status} compact onClick={onPrivacy} /><span className="mobile-marked">{marked} of {ballot.contests.length} marked</span></div><button className="button primary" onClick={onPrint}>Print / PDF</button></div>}
+  </Container>;
 }
