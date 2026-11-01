@@ -1,0 +1,8 @@
+---
+import Layout from '../layouts/Layout.astro';
+import BallotApp from '../components/BallotApp';
+import { ballot } from '../data/ballot';
+---
+<Layout title="End of ballot · Ballot worksheet">
+  <BallotApp ballot={ballot} initialPath="/complete/" client:load />
+</Layout>

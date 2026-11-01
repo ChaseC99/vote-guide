@@ -1,12 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { ballot, sections } from '../data/ballot';
+import { ballot } from '../data/ballot';
+import BallotApp from '../components/BallotApp';
 ---
 <Layout>
-  <main class="starter">
-    <p class="eyebrow">{ballot.election} · {ballot.date} · {ballot.jurisdiction}</p>
-    <h1>Ballot worksheet</h1>
-    <p class="muted">Sample ballot · Fictional contests for demonstration</p>
-    {sections.map((section) => <section><h2>{section}</h2>{ballot.contests.filter((contest) => contest.section === section).map((contest) => <p>{contest.title} <span class="muted">— {contest.rule}</span></p>)}</section>)}
-  </main>
+  <BallotApp ballot={ballot} client:load />
+  <noscript><p class="noscript-message">Enable JavaScript to make selections and save your worksheet on this device.</p></noscript>
 </Layout>
