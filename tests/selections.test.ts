@@ -13,7 +13,7 @@ import {
 } from '../src/lib/selections.ts';
 
 const ballot = ballotSchema.parse(
-  JSON.parse(readFileSync(new URL('../src/data/ballot.json', import.meta.url), 'utf8')),
+  JSON.parse(readFileSync(new URL('./fixtures/mock-ballot.json', import.meta.url), 'utf8')),
 );
 const yesno = ballot.contests.find((contest) => contest.type === 'yesno')!;
 const single = ballot.contests.find((contest) => contest.type === 'single')!;

@@ -222,6 +222,17 @@ h1[tabindex='-1']:focus {
   border: 1px solid var(--line);
   padding: 4px 6px;
 }
+.ballot-provenance {
+  margin-top: 14px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+.ballot-provenance summary {
+  color: var(--ink);
+}
 .section-heading {
   display: flex;
   justify-content: space-between;
@@ -1118,8 +1129,9 @@ textarea::placeholder {
     text-transform: uppercase;
   }
   .progress-ticks {
-    display: flex;
-    gap: 4px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(4px, 1fr));
+    gap: 3px;
   }
   .progress-tick {
     flex: 1;
@@ -1369,6 +1381,12 @@ textarea::placeholder {
   }
   .print-section {
     margin-top: 15pt;
+  }
+  .print-districts {
+    font-size: 8pt;
+  }
+  .print-section tr {
+    break-inside: avoid;
   }
   .print-section h2 {
     margin: 0;

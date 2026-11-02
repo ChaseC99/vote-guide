@@ -1,768 +1,2378 @@
 {
-  "id": "sf-2026-mock-v1",
+  "id": "sf-2026-11-03-cd11-ad19-sd7-bart8-v1",
   "election": "Consolidated General Election",
   "date": "Nov 3, 2026",
   "dateShort": "Nov 3",
   "jurisdiction": "City & County of San Francisco",
   "locationShort": "San Francisco",
-  "isMock": true,
+  "isMock": false,
+  "provenance": {
+    "verifiedOn": "2026-11-01",
+    "districts": {
+      "congressional": 11,
+      "assembly": 19,
+      "senate": 11,
+      "boardOfEqualization": 2,
+      "supervisorial": 7,
+      "bart": 8
+    },
+    "note": "Prepared for these voting districts using official election sources. District 7 has no supervisor contest in this election. Contests are grouped by Federal, State, and Local; candidate order may differ from your printed ballot. Compare with your official ballot before voting.",
+    "sources": [
+      {
+        "label": "San Francisco voter pamphlet",
+        "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+        "group": "sources"
+      },
+      {
+        "label": "California voter guide",
+        "url": "https://voterguide.sos.ca.gov/",
+        "group": "sources"
+      },
+      {
+        "label": "Verify your voting districts",
+        "url": "https://sfelections.org/tools/districts_lookup/",
+        "group": "sources"
+      },
+      {
+        "label": "Your official sample ballot",
+        "url": "https://sfelections.org/tools/portal/",
+        "group": "sources"
+      }
+    ]
+  },
   "contests": [
     {
-      "id": "rep",
+      "id": "us-representative-district-11",
+      "slug": "us-representative-district-11",
       "section": "Federal",
       "title": "U.S. Representative, District 11",
       "shortTitle": "U.S. Rep., D11",
       "type": "single",
       "rule": "Vote for 1",
-      "summary": "Represents San Francisco's 11th District in the U.S. House of Representatives. Two-year term.",
-      "slug": "us-representative-district-11",
+      "summary": "Represents Congressional District 11 in the U.S. House of Representatives. Two-year term.",
       "candidates": [
         {
-          "id": "dana-whitfield",
-          "name": "Dana Whitfield",
-          "occupation": "Housing Attorney",
+          "id": "connie-chan",
+          "name": "Connie Chan",
+          "occupation": "San Francisco Supervisor",
+          "party": "Democratic",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=6",
               "group": "sources"
             }
-          ],
-          "party": "Democratic"
+          ]
         },
         {
-          "id": "theo-mercado",
-          "name": "Theo Mercado",
-          "occupation": "Retired Firefighter",
+          "id": "scott-wiener",
+          "name": "Scott Wiener",
+          "occupation": "State Senator",
+          "party": "Democratic",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=6",
               "group": "sources"
             }
-          ],
-          "party": "Republican"
+          ]
         }
       ],
       "links": [
         {
-          "label": "Candidate statements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Official voter guide",
-          "url": null,
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=6",
           "group": "sources"
+        },
+        {
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=26",
+          "group": "arguments"
         }
       ]
     },
     {
-      "id": "gov",
+      "id": "governor",
+      "slug": "governor",
       "section": "State",
       "title": "Governor",
       "shortTitle": "Governor",
       "type": "single",
       "rule": "Vote for 1",
-      "summary": "California's chief executive. Signs or vetoes bills, proposes the annual budget, and appoints judges and agency heads. Four-year term.",
-      "slug": "governor",
+      "summary": "Leads California’s executive branch, proposes the state budget, and signs or vetoes legislation. Four-year term.",
       "candidates": [
         {
-          "id": "helen-castellanos",
-          "name": "Helen Castellanos",
-          "occupation": "State Treasurer",
+          "id": "xavier-becerra",
+          "name": "Xavier Becerra",
+          "occupation": "Voting Rights Attorney",
+          "party": "Democratic",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/governor-candidate-statements.htm",
               "group": "sources"
             }
-          ],
-          "party": "Democratic"
+          ]
         },
         {
-          "id": "marcus-bell",
-          "name": "Marcus Bell",
+          "id": "steve-hilton",
+          "name": "Steve Hilton",
           "occupation": "Small Business Owner",
+          "party": "Republican",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/governor-candidate-statements.htm",
               "group": "sources"
             }
-          ],
-          "party": "Republican"
-        },
-        {
-          "id": "wen-okafor",
-          "name": "Wen Okafor",
-          "occupation": "Climate Scientist",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ],
-          "party": "Green"
-        },
-        {
-          "id": "gil-stroud",
-          "name": "Gil Stroud",
-          "occupation": "Rancher",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ],
-          "party": "No party preference"
+          ]
         }
       ],
       "links": [
         {
-          "label": "Candidate statements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Official voter guide",
-          "url": null,
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
           "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/governor-candidate-statements.htm",
+          "group": "arguments"
         }
       ]
     },
     {
-      "id": "sos",
+      "id": "lieutenant-governor",
+      "slug": "lieutenant-governor",
+      "section": "State",
+      "title": "Lieutenant Governor",
+      "shortTitle": "Lieutenant Governor",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Serves as acting governor when necessary, presides over the State Senate, and serves on state commissions and university boards. Four-year term.",
+      "candidates": [
+        {
+          "id": "fiona-ma",
+          "name": "Fiona Ma",
+          "occupation": "State Treasurer/CPA",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "gloria-romero",
+          "name": "Gloria Romero",
+          "occupation": "Educator/Businesswoman",
+          "party": "Republican",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "slug": "secretary-of-state",
       "section": "State",
       "title": "Secretary of State",
       "shortTitle": "Secretary of State",
       "type": "single",
       "rule": "Vote for 1",
-      "summary": "Oversees state elections, voter registration, and business filings. Four-year term.",
-      "slug": "secretary-of-state",
+      "summary": "Oversees California elections and maintains state business filings and official records. Four-year term.",
       "candidates": [
         {
-          "id": "priya-raman",
-          "name": "Priya Raman",
-          "occupation": "County Registrar",
+          "id": "shirley-n-weber",
+          "name": "Shirley N. Weber",
+          "occupation": "California Secretary of State",
+          "party": "Democratic",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
               "group": "sources"
             }
-          ],
-          "party": "Democratic"
+          ]
         },
         {
-          "id": "douglas-hart",
-          "name": "Douglas Hart",
-          "occupation": "Election Attorney",
+          "id": "donald-p-don-wagner",
+          "name": "Donald P. (Don) Wagner",
+          "occupation": "Orange County Supervisor",
+          "party": "Republican",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
               "group": "sources"
             }
-          ],
-          "party": "Republican"
-        },
-        {
-          "id": "elena-voss",
-          "name": "Elena Voss",
-          "occupation": "Software Engineer",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ],
-          "party": "Libertarian"
+          ]
         }
       ],
       "links": [
         {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "controller",
+      "slug": "controller",
+      "section": "State",
+      "title": "Controller",
+      "shortTitle": "Controller",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Serves as California’s chief fiscal officer, overseeing state accounting, payroll, audits, and unclaimed property. Four-year term.",
+      "candidates": [
+        {
+          "id": "malia-m-cohen",
+          "name": "Malia M. Cohen",
+          "occupation": "State Controller/Mother",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "herb-w-morgan",
+          "name": "Herb W Morgan",
+          "occupation": "Chief Investment Officer",
+          "party": "Republican",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "treasurer",
+      "slug": "treasurer",
+      "section": "State",
+      "title": "Treasurer",
+      "shortTitle": "Treasurer",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Manages state investments and the sale of state bonds and notes. Four-year term.",
+      "candidates": [
+        {
+          "id": "eleni-kounalakis",
+          "name": "Eleni Kounalakis",
+          "occupation": "Lieutenant Governor of California",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "jennifer-hawks",
+          "name": "Jennifer Hawks",
+          "occupation": "Retired Business Executive",
+          "party": "Republican",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=2",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "attorney-general",
+      "slug": "attorney-general",
+      "section": "State",
+      "title": "Attorney General",
+      "shortTitle": "Attorney General",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Leads the California Department of Justice and represents the state in legal matters. Four-year term.",
+      "candidates": [
+        {
+          "id": "rob-bonta",
+          "name": "Rob Bonta",
+          "occupation": "California Attorney General",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "michael-e-gates",
+          "name": "Michael E. Gates",
+          "occupation": "Deputy United States Attorney",
+          "party": "Republican",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "insurance-commissioner",
+      "slug": "insurance-commissioner",
+      "section": "State",
+      "title": "Insurance Commissioner",
+      "shortTitle": "Insurance Commissioner",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Regulates insurance companies and enforces California insurance laws. Four-year term.",
+      "candidates": [
+        {
+          "id": "ben-allen",
+          "name": "Ben Allen",
+          "occupation": "California State Senator",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "jane-kim",
+          "name": "Jane Kim",
+          "occupation": "Attorney/Consumer Advocate",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "board-of-equalization-district-2",
+      "slug": "board-of-equalization-district-2",
+      "section": "State",
+      "title": "Board of Equalization, District 2",
+      "shortTitle": "Board of Equalization, D2",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Serves on the state tax board, overseeing county property assessments and specified state taxes. Four-year term.",
+      "candidates": [
+        {
+          "id": "sally-j-lieber",
+          "name": "Sally J. Lieber",
+          "occupation": "Incumbent",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "john-pimentel",
+          "name": "John Pimentel",
+          "occupation": "Member, Board of Trustees, San Mateo County Community College District",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "state-assembly-district-19",
+      "slug": "state-assembly-district-19",
+      "section": "State",
+      "title": "State Assembly Member, District 19",
+      "shortTitle": "Assembly, D19",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Represents Assembly District 19 in the California Legislature, voting on state laws and the budget. Two-year term.",
+      "candidates": [
+        {
+          "id": "catherine-stefani",
+          "name": "Catherine Stefani",
+          "occupation": "Assemblymember",
+          "party": "Democratic",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=22",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "philip-louis-wing",
+          "name": "Philip Louis Wing",
+          "occupation": "Retired Financial Advisor",
+          "party": "Republican",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=22",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=22",
+          "group": "sources"
+        },
+        {
           "label": "Candidate statements",
-          "url": null,
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=29",
           "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "retain-kelli-m-evans",
+      "slug": "retain-kelli-m-evans",
+      "section": "State",
+      "title": "Kelli M. Evans — Supreme Court",
+      "shortTitle": "Retain Kelli M. Evans",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Kelli M. Evans be retained on the California Supreme Court for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Kelli M. Evans in this office for the term provided by law.",
+      "no": "Do not retain Kelli M. Evans in this office.",
+      "yesShort": "Retain Kelli M. Evans.",
+      "noShort": "Do not retain Kelli M. Evans.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/supreme-court-justices/index.htm",
+          "group": "sources"
         },
         {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Official voter guide",
-          "url": null,
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
           "group": "sources"
         }
       ]
     },
     {
-      "id": "p2",
+      "id": "retain-joshua-groban",
+      "slug": "retain-joshua-groban",
       "section": "State",
-      "title": "Proposition 2 — Clean Water Infrastructure Bond",
-      "shortTitle": "Prop 2 — Clean Water",
+      "title": "Joshua Groban — Supreme Court",
+      "shortTitle": "Retain Joshua Groban",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Joshua Groban be retained on the California Supreme Court for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Joshua Groban in this office for the term provided by law.",
+      "no": "Do not retain Joshua Groban in this office.",
+      "yesShort": "Retain Joshua Groban.",
+      "noShort": "Do not retain Joshua Groban.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/supreme-court-justices/index.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-charles-a-smiley",
+      "slug": "retain-charles-a-smiley",
+      "section": "State",
+      "title": "Charles A. Smiley — Court of Appeal, Division 1",
+      "shortTitle": "Retain Charles A. Smiley",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Charles A. Smiley be retained on the Court of Appeal, First District, Division 1 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Charles A. Smiley in this office for the term provided by law.",
+      "no": "Do not retain Charles A. Smiley in this office.",
+      "yesShort": "Retain Charles A. Smiley.",
+      "noShort": "Do not retain Charles A. Smiley.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-kathleen-m-banke",
+      "slug": "retain-kathleen-m-banke",
+      "section": "State",
+      "title": "Kathleen M. Banke — Court of Appeal, Division 1",
+      "shortTitle": "Retain Kathleen M. Banke",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Kathleen M. Banke be retained on the Court of Appeal, First District, Division 1 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Kathleen M. Banke in this office for the term provided by law.",
+      "no": "Do not retain Kathleen M. Banke in this office.",
+      "yesShort": "Retain Kathleen M. Banke.",
+      "noShort": "Do not retain Kathleen M. Banke.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-monique-langhorne-wilson",
+      "slug": "retain-monique-langhorne-wilson",
+      "section": "State",
+      "title": "Monique Langhorne Wilson — Court of Appeal, Division 1",
+      "shortTitle": "Retain Monique Langhorne Wilson",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Monique Langhorne Wilson be retained on the Court of Appeal, First District, Division 1 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Monique Langhorne Wilson in this office for the term provided by law.",
+      "no": "Do not retain Monique Langhorne Wilson in this office.",
+      "yesShort": "Retain Monique Langhorne Wilson.",
+      "noShort": "Do not retain Monique Langhorne Wilson.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-therese-m-stewart",
+      "slug": "retain-therese-m-stewart",
+      "section": "State",
+      "title": "Therese M. Stewart — Court of Appeal, Division 2",
+      "shortTitle": "Retain Therese M. Stewart",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Presiding Justice Therese M. Stewart be retained on the Court of Appeal, First District, Division 2 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Therese M. Stewart in this office for the term provided by law.",
+      "no": "Do not retain Therese M. Stewart in this office.",
+      "yesShort": "Retain Therese M. Stewart.",
+      "noShort": "Do not retain Therese M. Stewart.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-tara-m-desautels",
+      "slug": "retain-tara-m-desautels",
+      "section": "State",
+      "title": "Tara M. Desautels — Court of Appeal, Division 2",
+      "shortTitle": "Retain Tara M. Desautels",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Tara M. Desautels be retained on the Court of Appeal, First District, Division 2 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Tara M. Desautels in this office for the term provided by law.",
+      "no": "Do not retain Tara M. Desautels in this office.",
+      "yesShort": "Retain Tara M. Desautels.",
+      "noShort": "Do not retain Tara M. Desautels.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=34",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-ioana-petrou",
+      "slug": "retain-ioana-petrou",
+      "section": "State",
+      "title": "Ioana Petrou — Court of Appeal, Division 3",
+      "shortTitle": "Retain Ioana Petrou",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Ioana Petrou be retained on the Court of Appeal, First District, Division 3 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Ioana Petrou in this office for the term provided by law.",
+      "no": "Do not retain Ioana Petrou in this office.",
+      "yesShort": "Retain Ioana Petrou.",
+      "noShort": "Do not retain Ioana Petrou.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-victor-a-rodriguez",
+      "slug": "retain-victor-a-rodriguez",
+      "section": "State",
+      "title": "Victor A. Rodriguez — Court of Appeal, Division 3",
+      "shortTitle": "Retain Victor A. Rodriguez",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Victor A. Rodriguez be retained on the Court of Appeal, First District, Division 3 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Victor A. Rodriguez in this office for the term provided by law.",
+      "no": "Do not retain Victor A. Rodriguez in this office.",
+      "yesShort": "Retain Victor A. Rodriguez.",
+      "noShort": "Do not retain Victor A. Rodriguez.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-tracie-l-brown",
+      "slug": "retain-tracie-l-brown",
+      "section": "State",
+      "title": "Tracie L. Brown — Court of Appeal, Division 4",
+      "shortTitle": "Retain Tracie L. Brown",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Presiding Justice Tracie L. Brown be retained on the Court of Appeal, First District, Division 4 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Tracie L. Brown in this office for the term provided by law.",
+      "no": "Do not retain Tracie L. Brown in this office.",
+      "yesShort": "Retain Tracie L. Brown.",
+      "noShort": "Do not retain Tracie L. Brown.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-mark-simons",
+      "slug": "retain-mark-simons",
+      "section": "State",
+      "title": "Mark Simons — Court of Appeal, Division 5",
+      "shortTitle": "Retain Mark Simons",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Mark Simons be retained on the Court of Appeal, First District, Division 5 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Mark Simons in this office for the term provided by law.",
+      "no": "Do not retain Mark Simons in this office.",
+      "yesShort": "Retain Mark Simons.",
+      "noShort": "Do not retain Mark Simons.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-danny-y-chou",
+      "slug": "retain-danny-y-chou",
+      "section": "State",
+      "title": "Danny Y. Chou — Court of Appeal, Division 5",
+      "shortTitle": "Retain Danny Y. Chou",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Danny Y. Chou be retained on the Court of Appeal, First District, Division 5 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Danny Y. Chou in this office for the term provided by law.",
+      "no": "Do not retain Danny Y. Chou in this office.",
+      "yesShort": "Retain Danny Y. Chou.",
+      "noShort": "Do not retain Danny Y. Chou.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-gordon-burns",
+      "slug": "retain-gordon-burns",
+      "section": "State",
+      "title": "Gordon Burns — Court of Appeal, Division 5",
+      "shortTitle": "Retain Gordon Burns",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Gordon Burns be retained on the Court of Appeal, First District, Division 5 for the term provided by law? This is a nonpartisan retention vote.",
+      "yes": "Retain Gordon Burns in this office for the term provided by law.",
+      "no": "Do not retain Gordon Burns in this office.",
+      "yesShort": "Retain Gordon Burns.",
+      "noShort": "Do not retain Gordon Burns.",
+      "links": [
+        {
+          "label": "Official judicial information",
+          "url": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district1.htm",
+          "group": "sources"
+        },
+        {
+          "label": "Certified retention question",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=35",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "superintendent-public-instruction",
+      "slug": "superintendent-public-instruction",
+      "section": "State",
+      "title": "Superintendent of Public Instruction",
+      "shortTitle": "Superintendent of Public Instruction",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Leads the California Department of Education and oversees state public-school programs. This is a nonpartisan office with a four-year term.",
+      "candidates": [
+        {
+          "id": "richard-barrera",
+          "name": "Richard Barrera",
+          "occupation": "State Superintendent Advisor",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "sonja-shaw",
+          "name": "Sonja Shaw",
+          "occupation": "School District President",
+          "links": [
+            {
+              "label": "Certified candidate list",
+              "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+              "group": "sources"
+            },
+            {
+              "label": "Official candidate information",
+              "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Certified candidate list",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf#page=3",
+          "group": "sources"
+        },
+        {
+          "label": "Official candidate information",
+          "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-1",
+      "slug": "proposition-1",
+      "section": "State",
+      "title": "Proposition 1 — Housing Affordability Bonds",
+      "shortTitle": "Prop 1 — Housing Bonds",
       "type": "yesno",
       "rule": "Yes / No",
-      "summary": "Authorizes $6.2 billion in state bonds for drinking-water treatment, groundwater cleanup, and drought storage.",
+      "summary": "Authorizes $11.25 billion in bonds for affordable housing and veterans’ home loans. The state General Fund would repay $10 billion; participating veterans would repay $1.25 billion through their mortgage payments.",
+      "yes": "The state could issue these bonds to fund housing programs and veterans’ home loans.",
+      "no": "The state could not issue these bonds. Existing housing programs would continue without this additional bond funding.",
+      "yesShort": "Authorize $11.25 billion in housing bonds.",
+      "noShort": "Do not authorize these housing bonds.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/1/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/1/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/1/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-2",
       "slug": "proposition-2",
-      "yes": "The state may sell $6.2 billion in bonds for water projects, repaid from the General Fund over about 35 years.",
-      "no": "The state may not sell these bonds. Water projects would rely on existing funds.",
-      "yesShort": "Authorize $6.2B in bonds for water projects.",
-      "noShort": "Do not authorize these water-project bonds.",
+      "section": "State",
+      "title": "Proposition 2 — State Rainy Day Fund",
+      "shortTitle": "Prop 2 — Rainy Day Fund",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Raises the required rainy day reserve target from 10% to 20% of General Fund taxes, changes how reserve deposits count toward the state spending limit, and extends required extra debt payments through 2040.",
+      "yes": "The state would build larger reserves and continue required extra debt payments for longer, under revised budgeting rules.",
+      "no": "Existing rules for state reserves, the spending limit, and extra debt payments would remain.",
+      "yesShort": "Change reserve and debt-payment rules.",
+      "noShort": "Keep current reserve and debt-payment rules.",
       "links": [
         {
-          "label": "Arguments for",
-          "url": null,
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
           "group": "arguments"
-        },
-        {
-          "label": "Arguments against",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Fiscal statement",
-          "url": null,
-          "group": "sources"
-        },
-        {
-          "label": "Legal text",
-          "url": null,
-          "group": "sources"
         },
         {
           "label": "Official voter guide",
-          "url": null,
+          "url": "https://voterguide.sos.ca.gov/propositions/2/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/2/analysis.htm",
           "group": "sources"
         }
       ]
     },
     {
-      "id": "sup",
-      "section": "Local",
-      "title": "Board of Supervisors, District 5",
-      "shortTitle": "Supervisor, D5",
-      "type": "ranked",
-      "rule": "Rank up to 5",
-      "summary": "One of 11 members of the city's legislative body. Uses ranked-choice voting: rank candidates in order of preference.",
-      "slug": "supervisor-district-5",
-      "candidates": [
-        {
-          "id": "ana-liu",
-          "name": "Ana Liu",
-          "occupation": "Tenant Organizer",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ]
-        },
-        {
-          "id": "rafael-moreno",
-          "name": "Rafael Moreno",
-          "occupation": "Small Business Owner",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ]
-        },
-        {
-          "id": "jordan-pike",
-          "name": "Jordan Pike",
-          "occupation": "Incumbent Supervisor",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ]
-        },
-        {
-          "id": "simone-achebe",
-          "name": "Simone Achebe",
-          "occupation": "Public School Teacher",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ]
-        },
-        {
-          "id": "kenji-watanabe",
-          "name": "Kenji Watanabe",
-          "occupation": "Transit Planner",
-          "links": [
-            {
-              "label": "Statement",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
-              "group": "sources"
-            }
-          ]
-        }
-      ],
-      "max": 5,
+      "id": "state-prop-3",
+      "slug": "proposition-3",
+      "section": "State",
+      "title": "Proposition 3 — Permanent Tax on High Incomes",
+      "shortTitle": "Prop 3 — High-Income Tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Makes the existing temporary income tax increase on high-income earners permanent instead of allowing it to expire in 2031. The Legislative Analyst estimates it would maintain $5 billion to $15 billion in annual revenue.",
+      "yes": "The higher income tax rates in place since 2012 for high-income earners would become permanent.",
+      "no": "The higher income tax rates would expire in 2031 as currently scheduled.",
+      "yesShort": "Make the existing high-income tax permanent.",
+      "noShort": "Let the tax increase expire in 2031.",
       "links": [
         {
-          "label": "Candidate statements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
           "group": "arguments"
         },
         {
           "label": "Official voter guide",
-          "url": null,
+          "url": "https://voterguide.sos.ca.gov/propositions/3/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/3/analysis.htm",
           "group": "sources"
         }
       ]
     },
     {
-      "id": "edu",
+      "id": "state-prop-4",
+      "slug": "proposition-4",
+      "section": "State",
+      "title": "Proposition 4 — Public Funding of Election Campaigns",
+      "shortTitle": "Prop 4 — Campaign Funding",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Repeals the ban on state and most local public campaign financing programs. New programs would have restrictions on eligible candidates and uses of funds, and could not use money earmarked for education, transportation, or public safety.",
+      "yes": "State and local governments could establish public campaign financing programs under the measure’s restrictions.",
+      "no": "The state and most local governments would remain prohibited from establishing these programs.",
+      "yesShort": "Allow public campaign financing programs.",
+      "noShort": "Keep the existing public-financing ban.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/4/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/4/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-5",
+      "slug": "proposition-5",
+      "section": "State",
+      "title": "Proposition 5 — State Recall Election Process",
+      "shortTitle": "Prop 5 — Recall Process",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Removes the replacement-candidate question from state recall elections. Most vacancies would be filled by appointment or a separate special election. For a recalled Governor, the Lieutenant Governor would serve, with a later election in some circumstances.",
+      "yes": "State recall ballots would ask only whether to remove an official, with replacements determined through the new vacancy rules.",
+      "no": "State recall ballots would continue to let voters choose a replacement at the same election.",
+      "yesShort": "Select recall replacements separately.",
+      "noShort": "Keep replacement choices on recall ballots.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/5/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/5/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-37",
+      "slug": "proposition-37",
+      "section": "State",
+      "title": "Proposition 37 — Homebuyer Loan Program",
+      "shortTitle": "Prop 37 — Homebuyer Loans",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Creates assistance for eligible middle-income buyers of newly built homes, financed with up to $25 billion in revenue bonds. Homeowners’ loan payments would repay the bonds; the Legislative Analyst identifies no direct state or local costs.",
+      "yes": "The state would create the loan program and could issue up to $25 billion in revenue bonds to finance it.",
+      "no": "The state would not be required to create this new homebuying assistance program.",
+      "yesShort": "Create the bond-funded homebuyer loan program.",
+      "noShort": "Do not require this new loan program.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/37/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/37/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/37/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-38",
+      "slug": "proposition-38",
+      "section": "State",
+      "title": "Proposition 38 — Immunology Medical Research Bonds",
+      "shortTitle": "Prop 38 — Medical Research Bonds",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Authorizes $8.4 billion in bonds for immunology and immunotherapy research. Half would go to a University of California-affiliated nonprofit institute and half to research grants. Estimated annual repayment costs are $500 million to $600 million for about 20 years, potentially offset by research revenue.",
+      "yes": "The state could borrow $8.4 billion for immunology and immunotherapy research.",
+      "no": "The state could not issue these research bonds.",
+      "yesShort": "Authorize $8.4 billion in research bonds.",
+      "noShort": "Do not authorize these research bonds.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/38/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/38/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-39",
+      "slug": "proposition-39",
+      "section": "State",
+      "title": "Proposition 39 — Government Identification for Voting",
+      "shortTitle": "Prop 39 — Voter Identification",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Requires government-issued identification for in-person voting and the last four digits of a designated identification number on mail-ballot envelopes. Also requires efforts to verify registered voters’ citizenship and provides a free state voter identification card.",
+      "yes": "Voters would have to provide the additional identifying information each time they vote.",
+      "no": "Existing voter identification and signature requirements would remain in place.",
+      "yesShort": "Require additional identification to vote.",
+      "noShort": "Keep existing voter identification rules.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/39/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/39/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-40",
+      "slug": "proposition-40",
+      "section": "State",
+      "title": "Proposition 40 — One-Time Tax on Billionaires",
+      "shortTitle": "Prop 40 — Billionaire Tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Imposes a one-time 5% wealth tax on billionaires who were California residents on January 1, 2026, generally excluding real estate, pensions, and retirement accounts. Ninety percent of revenue would fund health care; the rest would fund education, food assistance, and administration.",
+      "yes": "The state would levy the one-time wealth tax. If Proposition 41 or 42 receives more yes votes, a court could find a conflict that prevents this measure from taking effect.",
+      "no": "The state would not levy this one-time wealth tax.",
+      "yesShort": "Levy the one-time 5% billionaire wealth tax.",
+      "noShort": "Do not levy this wealth tax.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/40/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/40/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-41",
+      "slug": "proposition-41",
+      "section": "State",
+      "title": "Proposition 41 — Special Tax Audits and Spending Limits",
+      "shortTitle": "Prop 41 — Tax Audits",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Requires audits before voter initiatives proposing special taxes reach the ballot and recurring audits of programs funded by new or increased special taxes. It also restricts exclusions of new special-tax spending from the state spending limit.",
+      "yes": "The new audit and spending-limit rules would apply. If this measure receives more yes votes than Proposition 40, a court could find a conflict that prevents Proposition 40 from taking effect.",
+      "no": "Existing State Auditor responsibilities and state spending-limit rules would remain.",
+      "yesShort": "Add special-tax audits and spending-limit rules.",
+      "noShort": "Keep existing audit and spending-limit rules.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/41/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/41/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/41/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-42",
+      "slug": "proposition-42",
+      "section": "State",
+      "title": "Proposition 42 — Limits on Personal Property and Retroactive Taxes",
+      "shortTitle": "Prop 42 — Tax Restrictions",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Prohibits new state taxes on ownership of financial assets and other personal property, and limits retroactive state taxes. Conflicting taxes enacted after January 1, 2026 would be invalidated.",
+      "yes": "The new tax restrictions would apply. If this measure receives more yes votes than Proposition 40, a court could find a conflict that prevents Proposition 40 from taking effect.",
+      "no": "The state would retain its existing authority to establish taxes on personal property and enact retroactive taxes.",
+      "yesShort": "Restrict new personal-property and retroactive taxes.",
+      "noShort": "Keep the state’s existing taxing authority.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/42/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/42/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-43",
+      "slug": "proposition-43",
+      "section": "State",
+      "title": "Proposition 43 — Two-Thirds Vote for Local Special Taxes",
+      "shortTitle": "Prop 43 — Local Tax Vote Threshold",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Beginning January 1, 2027, raises the approval threshold for voter-proposed local special taxes from a majority to two-thirds. These taxes dedicate revenue to specified local government services.",
+      "yes": "Voter-proposed local special taxes would need two-thirds approval.",
+      "no": "These local special taxes could continue to pass with a majority vote.",
+      "yesShort": "Require two-thirds approval for these local taxes.",
+      "noShort": "Keep majority approval for these local taxes.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/43/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/43/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-44",
+      "slug": "proposition-44",
+      "section": "State",
+      "title": "Proposition 44 — Community Health Clinic Spending",
+      "shortTitle": "Prop 44 — Clinic Spending",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Requires nonprofit Federally Qualified Health Centers to spend at least 90% of annual revenue on program services advancing their charitable purpose. Establishes penalties for noncompliance, with state enforcement costs covered by fees.",
+      "yes": "Affected nonprofit health clinics would have to meet the 90% program-services spending requirement.",
+      "no": "This new clinic spending requirement would not take effect.",
+      "yesShort": "Require 90% of clinic revenue for program services.",
+      "noShort": "Do not impose this spending requirement.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/44/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/44/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/44/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "state-prop-45",
+      "slug": "proposition-45",
+      "section": "State",
+      "title": "Proposition 45 — Environmental Review Procedures",
+      "shortTitle": "Prop 45 — Environmental Review",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Changes California Environmental Quality Act procedures for eligible housing, transportation, water, health, and other projects. Sets tighter review and lawsuit deadlines and narrows what courts may consider in challenges to approvals.",
+      "yes": "Eligible projects could use the new environmental review and court challenge procedures.",
+      "no": "Projects would continue under the existing review and court challenge procedures.",
+      "yesShort": "Adopt new review procedures for eligible projects.",
+      "noShort": "Keep existing project review procedures.",
+      "links": [
+        {
+          "label": "Arguments & rebuttals",
+          "url": "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm",
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": "https://voterguide.sos.ca.gov/propositions/45/",
+          "group": "sources"
+        },
+        {
+          "label": "Legislative Analyst’s analysis",
+          "url": "https://voterguide.sos.ca.gov/propositions/45/analysis.htm",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "board-of-education",
+      "slug": "board-of-education",
       "section": "Local",
       "title": "Board of Education",
       "shortTitle": "Board of Education",
       "type": "multi",
+      "max": 3,
       "rule": "Vote for up to 3",
-      "summary": "Seven members set San Francisco Unified School District policy and budget. Three seats are open.",
-      "slug": "board-of-education",
+      "summary": "Elect three members of the San Francisco Board of Education, which sets school district policy and approves its budget. Four-year terms.",
       "candidates": [
         {
-          "id": "lena-park",
-          "name": "Lena Park",
-          "occupation": "Parent Advocate",
+          "id": "autumn-brown-garibay",
+          "name": "Autumn Brown Garibay",
+          "occupation": "Public School Parent",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=30",
               "group": "sources"
             }
           ]
         },
         {
-          "id": "grace-abernathy",
-          "name": "Grace Abernathy",
-          "occupation": "Retired Principal",
+          "id": "virginia-cheung",
+          "name": "Virginia Cheung",
+          "occupation": "Nonprofit Executive / Mother",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=30",
               "group": "sources"
             }
           ]
         },
         {
-          "id": "omar-haddad",
-          "name": "Omar Haddad",
-          "occupation": "Nonprofit Director",
+          "id": "alida-fisher",
+          "name": "Alida Fisher",
+          "occupation": "School Board Member",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=31",
               "group": "sources"
             }
           ]
         },
         {
-          "id": "ruth-delgado",
-          "name": "Ruth Delgado",
-          "occupation": "Incumbent Commissioner",
+          "id": "ryan-hazelton",
+          "name": "Ryan Hazelton",
+          "occupation": "Children’s Nonprofit Director",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
-              "group": "sources"
-            },
-            {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=31",
               "group": "sources"
             }
           ]
         },
         {
-          "id": "sam-whitaker",
-          "name": "Sam Whitaker",
-          "occupation": "Accountant",
+          "id": "phil-kim",
+          "name": "Phil Kim",
+          "occupation": "School Board President",
           "links": [
             {
-              "label": "Statement",
-              "url": null,
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Campaign site",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=32",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "laurance-lee",
+          "name": "Laurance Lee",
+          "occupation": "General Contractor",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
               "group": "sources"
             },
             {
-              "label": "Endorsements",
-              "url": null,
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=32",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "reina-tello",
+          "name": "Reina Tello",
+          "occupation": "Community Organizer / Parent",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=33",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "tim-tung",
+          "name": "Tim Tung",
+          "occupation": "Public Finance Analyst",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=33",
               "group": "sources"
             }
           ]
         }
       ],
-      "max": 3,
       "links": [
+        {
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
+          "group": "sources"
+        },
+        {
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+          "group": "sources"
+        },
         {
           "label": "Candidate statements",
-          "url": null,
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=30",
           "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Official voter guide",
-          "url": null,
-          "group": "sources"
         }
       ]
     },
     {
-      "id": "pa",
+      "id": "community-college-board-full-term",
+      "slug": "community-college-board-full-term",
       "section": "Local",
-      "title": "Proposition A — School Modernization Bond",
-      "shortTitle": "Prop A — School Bond",
-      "type": "yesno",
-      "rule": "Yes / No · needs 55%",
-      "summary": "Lets SFUSD borrow up to $790 million to repair, seismically upgrade, and modernize school buildings, repaid through property taxes over about 30 years.",
-      "slug": "proposition-a",
-      "yes": "The district may issue the bonds. Property owners pay an estimated $18 per $100,000 of assessed value each year.",
-      "no": "The district may not issue these bonds. Repairs would rely on existing funds or a future measure.",
-      "yesShort": "The district may issue the $790M in bonds.",
-      "noShort": "The district may not issue these bonds.",
-      "threshold": "Requires 55% to pass",
+      "title": "Community College Board — Full Term",
+      "shortTitle": "City College — Full Term",
+      "type": "multi",
+      "max": 3,
+      "rule": "Vote for up to 3",
+      "summary": "Elect three trustees to oversee City College of San Francisco. This contest is for full terms ending January 8, 2031; the partial term is a separate contest.",
+      "candidates": [
+        {
+          "id": "elijah-ball",
+          "name": "Elijah Ball",
+          "occupation": "College Campus Planner",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=34",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "rome-moses-jones",
+          "name": "Rome Moses Jones",
+          "occupation": "Non-profit Executive",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=34",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "monroe-lace",
+          "name": "Monroe Lace",
+          "occupation": "Public School Teacher",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=35",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "leah-lacroix",
+          "name": "Leah LaCroix",
+          "occupation": "Administrative Analyst",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=35",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "jeremy-lee",
+          "name": "Jeremy Lee",
+          "occupation": "Asset Manager",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=36",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "bunny-mcfadden",
+          "name": "Bunny McFadden",
+          "occupation": "Nonprofit Manager / Writer",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=36",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "erwin-tam",
+          "name": "Erwin Tam",
+          "occupation": "Municipal Financial Advisor",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=37",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "lisa-p-wynn-ii",
+          "name": "Lisa P Wynn II",
+          "occupation": "Health Equity Researcher",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=37",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
       "links": [
         {
-          "label": "Arguments for",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Arguments against",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Fiscal statement",
-          "url": null,
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
           "group": "sources"
         },
         {
-          "label": "Legal text",
-          "url": null,
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
           "group": "sources"
         },
         {
-          "label": "Official voter guide",
-          "url": null,
-          "group": "sources"
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=34",
+          "group": "arguments"
         }
       ]
     },
     {
-      "id": "pb",
+      "id": "community-college-board-partial-term",
+      "slug": "community-college-board-partial-term",
       "section": "Local",
-      "title": "Proposition B — Library Hours Charter Amendment",
-      "shortTitle": "Prop B — Library Hours",
+      "title": "Community College Board — Partial Term",
+      "shortTitle": "City College — Partial Term",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect one City College trustee for the remainder of the term ending January 8, 2029. This is separate from the three full-term seats.",
+      "candidates": [
+        {
+          "id": "ruth-ferguson",
+          "name": "Ruth Ferguson",
+          "occupation": "Appointed Trustee, Community College Board",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=38",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
+          "group": "sources"
+        },
+        {
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+          "group": "sources"
+        },
+        {
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=38",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "bart-director-district-8",
+      "slug": "bart-director-district-8",
+      "section": "Local",
+      "title": "BART Director, District 8",
+      "shortTitle": "BART Director, D8",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect the District 8 member of the BART Board of Directors, which sets transit policy, fares, and budgets. Four-year term.",
+      "candidates": [
+        {
+          "id": "sara-barz",
+          "name": "Sara Barz",
+          "occupation": "Transportation Planning Manager",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=39",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
+          "group": "sources"
+        },
+        {
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+          "group": "sources"
+        },
+        {
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=39",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "assessor-recorder",
+      "slug": "assessor-recorder",
+      "section": "Local",
+      "title": "Assessor-Recorder",
+      "shortTitle": "Assessor-Recorder",
+      "type": "ranked",
+      "max": 1,
+      "rule": "Rank your choice · 1 listed candidate",
+      "summary": "Oversees property assessments and records property documents for San Francisco. Four-year term. Uses ranked-choice voting; one candidate is listed for this office.",
+      "candidates": [
+        {
+          "id": "joaquin-torres",
+          "name": "Joaquín Torres",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=40",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
+          "group": "sources"
+        },
+        {
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+          "group": "sources"
+        },
+        {
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=40",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "public-defender",
+      "slug": "public-defender",
+      "section": "Local",
+      "title": "Public Defender",
+      "shortTitle": "Public Defender",
+      "type": "ranked",
+      "max": 1,
+      "rule": "Rank your choice · 1 listed candidate",
+      "summary": "Leads the office providing legal representation to people who cannot afford counsel in covered cases. Four-year term. Uses ranked-choice voting; one candidate is listed for this office.",
+      "candidates": [
+        {
+          "id": "mano-raju",
+          "name": "Mano Raju",
+          "occupation": "Public Defender",
+          "links": [
+            {
+              "label": "Official ballot designation",
+              "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+              "group": "sources"
+            },
+            {
+              "label": "Candidate statement",
+              "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=41",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Qualified candidates",
+          "url": "https://www.sf.gov/candidates-november-3-2026-general-election",
+          "group": "sources"
+        },
+        {
+          "label": "Official ballot designations",
+          "url": "https://api.sf.gov/documents/63094/November_2026_Local_Office_Names_and_Ballot_Designations.pdf",
+          "group": "sources"
+        },
+        {
+          "label": "Candidate statements",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=41",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "regional-rtm",
+      "slug": "regional-transit-measure",
+      "section": "Local",
+      "title": "Regional Measure RTM — Regional Transit Measure",
+      "shortTitle": "RTM — Regional Transit",
       "type": "yesno",
       "rule": "Yes / No",
-      "summary": "Requires every branch library to be open at least 60 hours per week starting July 2027.",
-      "slug": "proposition-b",
-      "yes": "The City Charter would set minimum library hours, paid for from the Library Preservation Fund.",
-      "no": "The Library Commission would keep setting branch hours each year.",
-      "yesShort": "Set minimum hours for every branch library.",
-      "noShort": "Keep the current process for setting library hours.",
+      "summary": "Adds a sales tax for 14 years to fund Bay Area public transit and related transportation programs: 1% in San Francisco and 0.5% in Alameda, Contra Costa, San Mateo, and Santa Clara counties. Estimated revenue is $980 million annually across the five counties.",
+      "yes": "Approve the new sales tax, with revenues allocated to transit agencies and transportation programs under the measure’s funding formula and oversight requirements.",
+      "no": "Do not impose this additional regional sales tax.",
+      "yesShort": "Approve a 14-year regional transit sales tax; 1% in San Francisco.",
+      "noShort": "Do not impose this regional sales tax.",
+      "threshold": "Requires a simple majority of votes cast on the measure across the five-county district to pass.",
       "links": [
         {
-          "label": "Arguments for",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Arguments against",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Fiscal statement",
-          "url": null,
+          "label": "Official impartial analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=54",
           "group": "sources"
         },
         {
           "label": "Legal text",
-          "url": null,
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=58",
           "group": "sources"
         },
         {
-          "label": "Official voter guide",
-          "url": null,
-          "group": "sources"
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=57",
+          "group": "arguments"
         }
       ]
     },
     {
-      "id": "pc",
+      "id": "local-prop-a",
+      "slug": "san-francisco-proposition-a",
       "section": "Local",
-      "title": "Proposition C — Vacant Storefront Tax",
-      "shortTitle": "Prop C — Storefront Tax",
+      "title": "Proposition A — Charter Changes Affecting Various City Departments and Commissions",
+      "shortTitle": "Prop A — City Departments & Commissions",
       "type": "yesno",
       "rule": "Yes / No",
-      "summary": "Raises the annual tax on ground-floor commercial spaces left vacant for more than 182 days in a year.",
-      "slug": "proposition-c",
-      "yes": "The vacancy tax would rise from $250 to $1,000 per linear foot of frontage, phased in over three years.",
-      "no": "Current vacancy tax rates would stay in place.",
-      "yesShort": "Raise the tax on vacant commercial storefronts.",
-      "noShort": "Keep the current vacancy tax rates.",
+      "summary": "Changes the City Charter to update departmental duties and procedures and eliminate or reorganize certain commissions and advisory bodies. Requires a commission-review task force every ten years.",
+      "yes": "Approve the Charter changes and require the Board of Supervisors to amend specified voter-approved laws to carry out some of them.",
+      "no": "Keep the existing Charter provisions and voter-approved laws covered by this measure.",
+      "yesShort": "Approve the departmental, procedural, and commission changes.",
+      "noShort": "Keep the existing provisions.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
       "links": [
         {
-          "label": "Arguments for",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Arguments against",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Endorsements",
-          "url": null,
-          "group": "arguments"
-        },
-        {
-          "label": "Fiscal statement",
-          "url": null,
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66",
           "group": "sources"
         },
         {
           "label": "Legal text",
-          "url": null,
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=150",
           "group": "sources"
         },
         {
-          "label": "Official voter guide",
-          "url": null,
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=68",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=69",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-b",
+      "slug": "san-francisco-proposition-b",
+      "section": "Local",
+      "title": "Proposition B — Establishing a Municipal Finance Corporation and a Public Bank",
+      "shortTitle": "Prop B — Municipal Finance & Public Bank",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Authorizes a City-owned nonprofit lending corporation if sufficient funding and resources are available. After at least three years, it could seek to become a public bank, subject to financial sustainability and regulatory approval.",
+      "yes": "Allow the City to establish the lending corporation and a public bank, with boards and oversight commissions specified in the measure.",
+      "no": "Do not grant this Charter authorization to establish the lending corporation and public bank.",
+      "yesShort": "Authorize a municipal finance corporation and public bank.",
+      "noShort": "Do not authorize them through this measure.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=72",
           "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=183",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=74",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=75",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-c",
+      "slug": "san-francisco-proposition-c",
+      "section": "Local",
+      "title": "Proposition C — Contributions to the Housing Trust Fund",
+      "shortTitle": "Prop C — Housing Trust Fund",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Changes the formula for City contributions to the Housing Trust Fund to increase funding, expands eligible housing programs, and extends the fund’s expiration from 2043 to 2058. Allows temporary funding freezes or reductions under specified budget conditions.",
+      "yes": "Approve the new funding formula and program changes, including a higher income limit for downpayment assistance, and extend the fund to 2058.",
+      "no": "Keep the existing funding formula, program rules, and 2043 expiration date.",
+      "yesShort": "Increase and expand housing funding; extend the fund to 2058.",
+      "noShort": "Keep the current Housing Trust Fund rules.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=80",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=189",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=82",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=83",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-d",
+      "slug": "san-francisco-proposition-d",
+      "section": "Local",
+      "title": "Proposition D — Changes to Ballot Measure Process",
+      "shortTitle": "Prop D — Ballot Measure Process",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Raises the signature requirement for local initiatives from 2% to 8% of registered voters and raises the requirement for calling special elections. Removes the Mayor’s and a minority of supervisors’ independent power to place measures on the ballot.",
+      "yes": "Approve the higher signature requirements and placement changes, and allow proponents to withdraw signature initiatives until 102 days before an election. A majority of the Board could still place measures on the ballot.",
+      "no": "Keep current signature requirements and the existing ways for the Mayor and supervisors to place measures on the ballot.",
+      "yesShort": "Raise initiative requirements and change ballot-placement rules.",
+      "noShort": "Keep current ballot-placement rules.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=86",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=192",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=88",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=89",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-e",
+      "slug": "san-francisco-proposition-e",
+      "section": "Local",
+      "title": "Proposition E — City Administrator’s Authority and Changes to City Contracting",
+      "shortTitle": "Prop E — City Contracting",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Centralizes purchasing authority under the City Administrator, changes approval of purchasing rules, raises contract thresholds for Board of Supervisors review, and extends the administrator’s term from five to ten years.",
+      "yes": "Approve the contracting changes, including raising Board-review thresholds from $1 million to $4.5 million for revenue agreements and from $10 million to $25 million for spending contracts, with later inflation adjustments.",
+      "no": "Keep the existing division of contracting authority, review thresholds, and five-year administrator term.",
+      "yesShort": "Expand administrator authority and change contracting rules.",
+      "noShort": "Keep existing contracting and term rules.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=96",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=195",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=98",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=99",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-f",
+      "slug": "san-francisco-proposition-f",
+      "section": "Local",
+      "title": "Proposition F — Changes to Executive Branch Management",
+      "shortTitle": "Prop F — Executive Branch Management",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Expands the Mayor’s authority over departmental responsibilities and leadership, permits deputy mayors, and allows appointing officials to remove most commissioners without cause. Specified departments and commissions are exempt.",
+      "yes": "Allow the Mayor to reorganize responsibilities subject to Board objection, hire deputy mayors, and hire some and fire most department heads; allow at-will removal of most commissioners by their appointing officials.",
+      "no": "Keep current limits on departmental reorganization, deputy mayors, and removal or appointment of department heads and commissioners.",
+      "yesShort": "Expand executive-management and commissioner-removal authority.",
+      "noShort": "Keep the current management rules.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=102",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=203",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=104",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=105",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-g",
+      "slug": "san-francisco-proposition-g",
+      "section": "Local",
+      "title": "Proposition G — Allowing Private Vehicles on the Upper Great Highway in Sunset Dunes Park",
+      "shortTitle": "Prop G — Upper Great Highway",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Would reopen the Upper Great Highway between Lincoln Way and Sloat Boulevard to private vehicles from Monday at 4 a.m. through Friday at 6 p.m., except weekday holidays. Reopening requires necessary government approvals and permits.",
+      "yes": "Close Sunset Dunes Park during those weekday hours to allow private vehicles on the roadway; retain recreational use on weekends and holidays.",
+      "no": "Keep Sunset Dunes Park closed to private vehicles at all times, with existing access for emergency and other authorized vehicles.",
+      "yesShort": "Reopen the roadway to private vehicles on weekdays, except holidays.",
+      "noShort": "Keep the park closed to private vehicles.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=110",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=222",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=112",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=113",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-h",
+      "slug": "san-francisco-proposition-h",
+      "section": "Local",
+      "title": "Proposition H — Parcel Tax to Fund Muni Operations",
+      "shortTitle": "Prop H — Muni Parcel Tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Creates an annual property parcel tax for Muni from July 1, 2027, through June 30, 2042, adjusted for inflation. Rates vary with property type and size, with exemptions and senior discounts; estimated revenue is $177 million annually.",
+      "yes": "Approve the 15-year tax dedicated to Muni and its administration. Initial base rates include $129 for single-family parcels, $249 for multifamily parcels, and $799 for nonresidential or mixed-use parcels, plus applicable size-based charges.",
+      "no": "Do not create this parcel tax; Muni would continue relying on its other funding sources.",
+      "yesShort": "Approve a 15-year parcel tax for Muni.",
+      "noShort": "Do not impose this Muni parcel tax.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=126",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=224",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=129",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-i",
+      "slug": "san-francisco-proposition-i",
+      "section": "Local",
+      "title": "Proposition I — Changes to Real Property Transfer Tax",
+      "shortTitle": "Prop I — Transfer Tax for Housing",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Dedicates half of transfer-tax revenue from specified property transfers in the $10 million-and-up brackets to affordable housing and housing assistance, without increasing current combined rates. Adds an exemption for certain newly built multifamily property sales.",
+      "yes": "Create the dedicated housing tax and fund, replacing half of the current general-purpose tax in those brackets, with specified spending requirements and limits on future tax changes.",
+      "no": "Keep current transfer-tax rules and allow the City to continue spending that revenue for general governmental purposes.",
+      "yesShort": "Dedicate half of specified high-value transfer taxes to housing.",
+      "noShort": "Keep the current transfer-tax rules.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=134",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=235",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=136",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137",
+          "group": "arguments"
+        }
+      ]
+    },
+    {
+      "id": "local-prop-j",
+      "slug": "san-francisco-proposition-j",
+      "section": "Local",
+      "title": "Proposition J — Removal of Foreclosure Exemption for Real Property Transfer Tax",
+      "shortTitle": "Prop J — Foreclosure Transfer Tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Removes the partial transfer-tax exemption for most commercial, industrial, and larger residential properties transferred to lenders through or instead of foreclosure. Starting March 1, 2027, covered transfers would be taxed on full market value.",
+      "yes": "Apply the existing 0.5%–6% transfer-tax rates to the full value of covered foreclosed properties. Retain the exemption for single-family homes and qualifying residential or mixed-use properties with fewer than five residential units.",
+      "no": "Keep the current partial exemption for transfers to lenders through or instead of foreclosure.",
+      "yesShort": "Remove the foreclosure tax exemption for covered properties.",
+      "noShort": "Keep the existing foreclosure exemption.",
+      "threshold": "Requires a simple majority of votes cast on the measure to pass.",
+      "links": [
+        {
+          "label": "Official digest & fiscal analysis",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=146",
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=241",
+          "group": "sources"
+        },
+        {
+          "label": "Proponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=148",
+          "group": "arguments"
+        },
+        {
+          "label": "Opponent argument & rebuttal",
+          "url": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=149",
+          "group": "arguments"
         }
       ]
     }

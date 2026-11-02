@@ -22,6 +22,14 @@ export function PrintWorksheet({
         </div>
         {ballot.isMock && <span>Sample ballot · Fictional contests</span>}
       </header>
+      {ballot.provenance && (
+        <p className="print-districts">
+          Congressional {ballot.provenance.districts.congressional} · Assembly{' '}
+          {ballot.provenance.districts.assembly} · Supervisor{' '}
+          {ballot.provenance.districts.supervisorial} · BART {ballot.provenance.districts.bart} ·
+          Sources checked {ballot.provenance.verifiedOn}
+        </p>
+      )}
       {sectionNames.map((section) => (
         <section key={section} className="print-section">
           <h2>{section}</h2>

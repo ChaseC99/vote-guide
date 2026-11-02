@@ -3,6 +3,7 @@ import { contestPath, numberLabel, sectionNames } from '../lib/navigation';
 import { selectionCount, selectionSummary, type WorksheetState } from '../lib/selections';
 import type { SaveStatus } from '../lib/useWorksheet';
 import { SaveIndicator } from './SaveIndicator';
+import { SourceLinks } from './SourceLinks';
 
 interface Props {
   ballot: Ballot;
@@ -77,6 +78,25 @@ export function Worksheet({
               <span className="sample-label">SAMPLE BALLOT</span> Fictional contests for
               demonstration.
             </p>
+          )}
+          {!compact && ballot.provenance && (
+            <details className="ballot-provenance resource-group">
+              <summary>
+                Your districts & official sources <span aria-hidden="true">+</span>
+              </summary>
+              <p>
+                Congressional District {ballot.provenance.districts.congressional} · Assembly{' '}
+                {ballot.provenance.districts.assembly} · Supervisor{' '}
+                {ballot.provenance.districts.supervisorial} · BART{' '}
+                {ballot.provenance.districts.bart}
+              </p>
+              <p>{ballot.provenance.note}</p>
+              <SourceLinks links={ballot.provenance.sources} />
+              <p className="source-note">
+                Sources checked {ballot.provenance.verifiedOn}. Your street address is not stored in
+                this app.
+              </p>
+            </details>
           )}
           {sectionNames.map((section) => {
             const contests = ballot.contests.filter((contest) => contest.section === section);

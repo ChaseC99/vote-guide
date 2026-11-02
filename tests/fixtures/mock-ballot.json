@@ -1,0 +1,770 @@
+{
+  "id": "sf-2026-mock-v1",
+  "election": "Consolidated General Election",
+  "date": "Nov 3, 2026",
+  "dateShort": "Nov 3",
+  "jurisdiction": "City & County of San Francisco",
+  "locationShort": "San Francisco",
+  "isMock": true,
+  "contests": [
+    {
+      "id": "rep",
+      "section": "Federal",
+      "title": "U.S. Representative, District 11",
+      "shortTitle": "U.S. Rep., D11",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Represents San Francisco's 11th District in the U.S. House of Representatives. Two-year term.",
+      "slug": "us-representative-district-11",
+      "candidates": [
+        {
+          "id": "dana-whitfield",
+          "name": "Dana Whitfield",
+          "occupation": "Housing Attorney",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "theo-mercado",
+          "name": "Theo Mercado",
+          "occupation": "Retired Firefighter",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        }
+      ],
+      "links": [
+        {
+          "label": "Candidate statements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "gov",
+      "section": "State",
+      "title": "Governor",
+      "shortTitle": "Governor",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "California's chief executive. Signs or vetoes bills, proposes the annual budget, and appoints judges and agency heads. Four-year term.",
+      "slug": "governor",
+      "candidates": [
+        {
+          "id": "helen-castellanos",
+          "name": "Helen Castellanos",
+          "occupation": "State Treasurer",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "marcus-bell",
+          "name": "Marcus Bell",
+          "occupation": "Small Business Owner",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        },
+        {
+          "id": "wen-okafor",
+          "name": "Wen Okafor",
+          "occupation": "Climate Scientist",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Green"
+        },
+        {
+          "id": "gil-stroud",
+          "name": "Gil Stroud",
+          "occupation": "Rancher",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "No party preference"
+        }
+      ],
+      "links": [
+        {
+          "label": "Candidate statements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "sos",
+      "section": "State",
+      "title": "Secretary of State",
+      "shortTitle": "Secretary of State",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Oversees state elections, voter registration, and business filings. Four-year term.",
+      "slug": "secretary-of-state",
+      "candidates": [
+        {
+          "id": "priya-raman",
+          "name": "Priya Raman",
+          "occupation": "County Registrar",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "douglas-hart",
+          "name": "Douglas Hart",
+          "occupation": "Election Attorney",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        },
+        {
+          "id": "elena-voss",
+          "name": "Elena Voss",
+          "occupation": "Software Engineer",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ],
+          "party": "Libertarian"
+        }
+      ],
+      "links": [
+        {
+          "label": "Candidate statements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "section": "State",
+      "title": "Proposition 2 — Clean Water Infrastructure Bond",
+      "shortTitle": "Prop 2 — Clean Water",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Authorizes $6.2 billion in state bonds for drinking-water treatment, groundwater cleanup, and drought storage.",
+      "slug": "proposition-2",
+      "yes": "The state may sell $6.2 billion in bonds for water projects, repaid from the General Fund over about 35 years.",
+      "no": "The state may not sell these bonds. Water projects would rely on existing funds.",
+      "yesShort": "Authorize $6.2B in bonds for water projects.",
+      "noShort": "Do not authorize these water-project bonds.",
+      "links": [
+        {
+          "label": "Arguments for",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Arguments against",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Fiscal statement",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "sup",
+      "section": "Local",
+      "title": "Board of Supervisors, District 5",
+      "shortTitle": "Supervisor, D5",
+      "type": "ranked",
+      "rule": "Rank up to 5",
+      "summary": "One of 11 members of the city's legislative body. Uses ranked-choice voting: rank candidates in order of preference.",
+      "slug": "supervisor-district-5",
+      "candidates": [
+        {
+          "id": "ana-liu",
+          "name": "Ana Liu",
+          "occupation": "Tenant Organizer",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "rafael-moreno",
+          "name": "Rafael Moreno",
+          "occupation": "Small Business Owner",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "jordan-pike",
+          "name": "Jordan Pike",
+          "occupation": "Incumbent Supervisor",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "simone-achebe",
+          "name": "Simone Achebe",
+          "occupation": "Public School Teacher",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "kenji-watanabe",
+          "name": "Kenji Watanabe",
+          "occupation": "Transit Planner",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 5,
+      "links": [
+        {
+          "label": "Candidate statements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "edu",
+      "section": "Local",
+      "title": "Board of Education",
+      "shortTitle": "Board of Education",
+      "type": "multi",
+      "rule": "Vote for up to 3",
+      "summary": "Seven members set San Francisco Unified School District policy and budget. Three seats are open.",
+      "slug": "board-of-education",
+      "candidates": [
+        {
+          "id": "lena-park",
+          "name": "Lena Park",
+          "occupation": "Parent Advocate",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "grace-abernathy",
+          "name": "Grace Abernathy",
+          "occupation": "Retired Principal",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "omar-haddad",
+          "name": "Omar Haddad",
+          "occupation": "Nonprofit Director",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "ruth-delgado",
+          "name": "Ruth Delgado",
+          "occupation": "Incumbent Commissioner",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "sam-whitaker",
+          "name": "Sam Whitaker",
+          "occupation": "Accountant",
+          "links": [
+            {
+              "label": "Statement",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Campaign site",
+              "url": null,
+              "group": "sources"
+            },
+            {
+              "label": "Endorsements",
+              "url": null,
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3,
+      "links": [
+        {
+          "label": "Candidate statements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "pa",
+      "section": "Local",
+      "title": "Proposition A — School Modernization Bond",
+      "shortTitle": "Prop A — School Bond",
+      "type": "yesno",
+      "rule": "Yes / No · needs 55%",
+      "summary": "Lets SFUSD borrow up to $790 million to repair, seismically upgrade, and modernize school buildings, repaid through property taxes over about 30 years.",
+      "slug": "proposition-a",
+      "yes": "The district may issue the bonds. Property owners pay an estimated $18 per $100,000 of assessed value each year.",
+      "no": "The district may not issue these bonds. Repairs would rely on existing funds or a future measure.",
+      "yesShort": "The district may issue the $790M in bonds.",
+      "noShort": "The district may not issue these bonds.",
+      "threshold": "Requires 55% to pass",
+      "links": [
+        {
+          "label": "Arguments for",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Arguments against",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Fiscal statement",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "pb",
+      "section": "Local",
+      "title": "Proposition B — Library Hours Charter Amendment",
+      "shortTitle": "Prop B — Library Hours",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Requires every branch library to be open at least 60 hours per week starting July 2027.",
+      "slug": "proposition-b",
+      "yes": "The City Charter would set minimum library hours, paid for from the Library Preservation Fund.",
+      "no": "The Library Commission would keep setting branch hours each year.",
+      "yesShort": "Set minimum hours for every branch library.",
+      "noShort": "Keep the current process for setting library hours.",
+      "links": [
+        {
+          "label": "Arguments for",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Arguments against",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Fiscal statement",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "pc",
+      "section": "Local",
+      "title": "Proposition C — Vacant Storefront Tax",
+      "shortTitle": "Prop C — Storefront Tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Raises the annual tax on ground-floor commercial spaces left vacant for more than 182 days in a year.",
+      "slug": "proposition-c",
+      "yes": "The vacancy tax would rise from $250 to $1,000 per linear foot of frontage, phased in over three years.",
+      "no": "Current vacancy tax rates would stay in place.",
+      "yesShort": "Raise the tax on vacant commercial storefronts.",
+      "noShort": "Keep the current vacancy tax rates.",
+      "links": [
+        {
+          "label": "Arguments for",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Arguments against",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Endorsements",
+          "url": null,
+          "group": "arguments"
+        },
+        {
+          "label": "Fiscal statement",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Legal text",
+          "url": null,
+          "group": "sources"
+        },
+        {
+          "label": "Official voter guide",
+          "url": null,
+          "group": "sources"
+        }
+      ]
+    }
+  ]
+}

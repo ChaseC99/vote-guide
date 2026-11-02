@@ -62,9 +62,40 @@ export const ballotSchema = z
     jurisdiction: z.string().min(1),
     locationShort: z.string().min(1),
     isMock: z.boolean(),
+    provenance: z
+      .object({
+        verifiedOn: z.iso.date(),
+        districts: z.object({
+          congressional: z.number().int().positive(),
+          assembly: z.number().int().positive(),
+          senate: z.number().int().positive(),
+          boardOfEqualization: z.number().int().positive(),
+          supervisorial: z.number().int().positive(),
+          bart: z.number().int().positive(),
+        }),
+        note: z.string().min(1),
+        sources: z.array(linkSchema).min(1),
+      })
+      .optional(),
     contests: z.array(contestSchema).min(1),
   })
   .superRefine((ballot, context) => {
+    if (!ballot.isMock) {
+      if (!ballot.provenance)
+        context.addIssue({
+          code: 'custom',
+          message: 'Real ballots require provenance',
+          path: ['provenance'],
+        });
+      ballot.contests.forEach((contest, index) => {
+        if (!contest.links.some((link) => link.group === 'sources' && link.url))
+          context.addIssue({
+            code: 'custom',
+            message: 'Real contests require an official source',
+            path: ['contests', index, 'links'],
+          });
+      });
+    }
     for (const field of ['id', 'slug'] as const) {
       const values = ballot.contests.map((contest) => contest[field]);
       if (new Set(values).size !== values.length)

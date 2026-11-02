@@ -29,7 +29,7 @@ export function PrintDialog({
           </button>
         </div>
         <p>
-          A compact list of your selections, in ballot order. In the print dialog, choose your
+          A compact list of your selections, in worksheet order. In the print dialog, choose your
           printer or “Save as PDF.”
         </p>
         <fieldset className="print-options">

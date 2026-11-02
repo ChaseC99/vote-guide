@@ -92,18 +92,26 @@ export function ContestPane({
           </>
         )}
         <div className="contest-resources">
-          {(['arguments', 'sources'] as const).map((group) => (
-            <details key={group} className="resource-group">
-              <summary>
-                {group === 'arguments' ? 'Arguments & endorsements' : 'Sources'}
-                <span aria-hidden="true">+</span>
-              </summary>
-              <SourceLinks links={contest.links.filter((link) => link.group === group)} />
-              {contest.links.filter((link) => link.group === group).some((link) => !link.url) && (
-                <p className="source-note">Source links will be added with the official ballot.</p>
-              )}
-            </details>
-          ))}
+          {(['arguments', 'sources'] as const)
+            .filter((group) => contest.links.some((link) => link.group === group))
+            .map((group) => (
+              <details key={group} className="resource-group">
+                <summary>
+                  {group === 'arguments'
+                    ? contest.type === 'yesno'
+                      ? 'Arguments & rebuttals'
+                      : 'Candidate statements'
+                    : 'Sources'}
+                  <span aria-hidden="true">+</span>
+                </summary>
+                <SourceLinks links={contest.links.filter((link) => link.group === group)} />
+                {contest.links.filter((link) => link.group === group).some((link) => !link.url) && (
+                  <p className="source-note">
+                    Source links will be added with the official ballot.
+                  </p>
+                )}
+              </details>
+            ))}
         </div>
         {contest.type !== 'yesno' &&
           contest.candidates.some((candidate) => candidate.links.some((link) => link.url)) && (
