@@ -3,7 +3,12 @@ import Layout from '../layouts/Layout.astro';
 import { ballot } from '../data/ballot';
 import BallotApp from '../components/BallotApp';
 ---
+
 <Layout>
   <BallotApp ballot={ballot} client:load />
-  <noscript><p class="noscript-message">Enable JavaScript to make selections and save your worksheet on this device.</p></noscript>
+  <noscript
+    ><p class="noscript-message">
+      Enable JavaScript to make selections and save your worksheet on this device.
+    </p></noscript
+  >
 </Layout>

@@ -2,9 +2,19 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { ballotSchema } from '../src/data/schema.ts';
-import { emptyState, hasSkippedRank, normalizeSelection, restoreState, selectionLines, toggleChoice, toggleRank } from '../src/lib/selections.ts';
+import {
+  emptyState,
+  hasSkippedRank,
+  normalizeSelection,
+  restoreState,
+  selectionLines,
+  toggleChoice,
+  toggleRank,
+} from '../src/lib/selections.ts';
 
-const ballot = ballotSchema.parse(JSON.parse(readFileSync(new URL('../src/data/ballot.json', import.meta.url), 'utf8')));
+const ballot = ballotSchema.parse(
+  JSON.parse(readFileSync(new URL('../src/data/ballot.json', import.meta.url), 'utf8')),
+);
 const yesno = ballot.contests.find((contest) => contest.type === 'yesno')!;
 const single = ballot.contests.find((contest) => contest.type === 'single')!;
 const multi = ballot.contests.find((contest) => contest.type === 'multi')!;
@@ -23,9 +33,16 @@ test('single choice replaces the existing candidate', () => {
 
 test('multi choice enforces the cap but allows removing and replacing choices', () => {
   const atLimit = ['lena-park', 'grace-abernathy', 'omar-haddad'];
-  assert.deepEqual(toggleChoice(multi, atLimit, 'ruth-delgado'), { selection: atLimit, limited: true });
+  assert.deepEqual(toggleChoice(multi, atLimit, 'ruth-delgado'), {
+    selection: atLimit,
+    limited: true,
+  });
   const removed = toggleChoice(multi, atLimit, 'grace-abernathy').selection;
-  assert.deepEqual(toggleChoice(multi, removed, 'ruth-delgado').selection, ['lena-park', 'omar-haddad', 'ruth-delgado']);
+  assert.deepEqual(toggleChoice(multi, removed, 'ruth-delgado').selection, [
+    'lena-park',
+    'omar-haddad',
+    'ruth-delgado',
+  ]);
 });
 
 test('moving a taken rank removes its old occupant and the candidate’s old rank', () => {
@@ -44,20 +61,46 @@ test('selected ranks can be cleared and skipped ranks are kept', () => {
 });
 
 test('restoring storage removes invalid choices, duplicate ranks, and other ballots', () => {
-  const state = { ...emptyState(ballot.id), selections: { sup: { 'ana-liu': 1, 'rafael-moreno': 1, ghost: 2, 'jordan-pike': 9 }, edu: ['lena-park', 'lena-park', 'ghost'], rep: 'ghost' }, notes: { rep: 'Remember this\nSecond line', ghost: 'ignore' } };
+  const state = {
+    ...emptyState(ballot.id),
+    selections: {
+      sup: { 'ana-liu': 1, 'rafael-moreno': 1, ghost: 2, 'jordan-pike': 9 },
+      edu: ['lena-park', 'lena-park', 'ghost'],
+      rep: 'ghost',
+    },
+    notes: { rep: 'Remember this\nSecond line', ghost: 'ignore' },
+  };
   const restored = restoreState(JSON.stringify(state), ballot.id, ballot.contests);
   assert.deepEqual(restored.selections, { sup: { 'ana-liu': 1 }, edu: ['lena-park'] });
   assert.deepEqual(restored.notes, { rep: 'Remember this\nSecond line' });
-  assert.deepEqual(restoreState(JSON.stringify(state), 'another-ballot', ballot.contests), emptyState('another-ballot'));
+  assert.deepEqual(
+    restoreState(JSON.stringify(state), 'another-ballot', ballot.contests),
+    emptyState('another-ballot'),
+  );
   assert.throws(() => restoreState('{broken', ballot.id, ballot.contests));
 });
 
 test('multiple selections print in ballot order, regardless of click order', () => {
-  assert.deepEqual(selectionLines(multi, ['omar-haddad', 'lena-park']), ['Lena Park', 'Omar Haddad']);
+  assert.deepEqual(selectionLines(multi, ['omar-haddad', 'lena-park']), [
+    'Lena Park',
+    'Omar Haddad',
+  ]);
   assert.equal(normalizeSelection(single, ['dana-whitfield']), undefined);
 });
 
 test('content validation rejects ambiguous routes and unsafe source URLs', () => {
-  assert.equal(ballotSchema.safeParse({ ...ballot, contests: [...ballot.contests, ballot.contests[0]] }).success, false);
-  assert.equal(ballotSchema.safeParse({ ...ballot, contests: [{ ...yesno, links: [{ label: 'Bad link', url: 'javascript:alert(1)', group: 'sources' }] }] }).success, false);
+  assert.equal(
+    ballotSchema.safeParse({ ...ballot, contests: [...ballot.contests, ballot.contests[0]] })
+      .success,
+    false,
+  );
+  assert.equal(
+    ballotSchema.safeParse({
+      ...ballot,
+      contests: [
+        { ...yesno, links: [{ label: 'Bad link', url: 'javascript:alert(1)', group: 'sources' }] },
+      ],
+    }).success,
+    false,
+  );
 });

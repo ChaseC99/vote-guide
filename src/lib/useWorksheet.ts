@@ -18,8 +18,12 @@ export function useWorksheet(ballot: Ballot) {
         latest.current = restoreState(raw, ballot.id, ballot.contests);
         setState(latest.current);
         setStatus('saved');
-      } catch { setStatus('invalid'); }
-    } catch { setStatus('unavailable'); }
+      } catch {
+        setStatus('invalid');
+      }
+    } catch {
+      setStatus('unavailable');
+    }
     setReady(true);
     function onStorage(event: StorageEvent) {
       if (event.key !== key && event.key !== null) return;
@@ -27,18 +31,27 @@ export function useWorksheet(ballot: Ballot) {
         latest.current = restoreState(event.newValue, ballot.id, ballot.contests);
         setState(latest.current);
         setStatus('saved');
-      } catch { setStatus('invalid'); }
+      } catch {
+        setStatus('invalid');
+      }
     }
     window.addEventListener('storage', onStorage);
     return () => window.removeEventListener('storage', onStorage);
   }, [key, ballot]);
 
-  const write = useCallback((next: WorksheetState) => {
-    latest.current = next;
-    setState(next);
-    try { window.localStorage.setItem(key, JSON.stringify(next)); setStatus('saved'); }
-    catch { setStatus('unavailable'); }
-  }, [key]);
+  const write = useCallback(
+    (next: WorksheetState) => {
+      latest.current = next;
+      setState(next);
+      try {
+        window.localStorage.setItem(key, JSON.stringify(next));
+        setStatus('saved');
+      } catch {
+        setStatus('unavailable');
+      }
+    },
+    [key],
+  );
 
   function setSelection(id: string, selection: Selection | undefined) {
     const selections = { ...latest.current.selections };
@@ -47,7 +60,9 @@ export function useWorksheet(ballot: Ballot) {
     write({ ...latest.current, selections });
   }
 
-  function setNote(id: string, note: string) { write({ ...latest.current, notes: { ...latest.current.notes, [id]: note } }); }
+  function setNote(id: string, note: string) {
+    write({ ...latest.current, notes: { ...latest.current.notes, [id]: note } });
+  }
 
   function erase() {
     try {
@@ -56,7 +71,10 @@ export function useWorksheet(ballot: Ballot) {
       setState(latest.current);
       setStatus('saved');
       return true;
-    } catch { setStatus('unavailable'); return false; }
+    } catch {
+      setStatus('unavailable');
+      return false;
+    }
   }
 
   return { state, status, ready, setSelection, setNote, erase };
