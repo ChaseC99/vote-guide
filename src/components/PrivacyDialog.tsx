@@ -25,7 +25,7 @@ export function PrivacyDialog({
       <div className="dialog-content">
         <div className="dialog-title">
           <h2 id="privacy-title">
-            {confirming ? 'Erase this worksheet?' : 'Saved on this device'}
+            {confirming ? 'Erase this worksheet?' : 'About saving & privacy'}
           </h2>
           <button className="button icon-button" aria-label="Close" onClick={onClose}>
             ×

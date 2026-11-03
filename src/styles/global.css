@@ -27,6 +27,10 @@
   --line: #dcdad5;
   --blue: #2854a1;
   --blue-wash: #edf2fc;
+  --yes: #246746;
+  --yes-wash: #edf6ef;
+  --no: #a53235;
+  --no-wash: #fcf0ee;
   --wash: #f4f3f0;
   --mono: 'IBM Plex Mono', monospace;
   font-family: 'Public Sans', system-ui, sans-serif;
@@ -193,19 +197,9 @@ h1[tabindex='-1']:focus {
   align-items: center;
   gap: 16px;
 }
-.save-status {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
+.worksheet-count {
   color: var(--muted);
   font: 500 10px/1.5 var(--mono);
-}
-.status-dot {
-  width: 6px;
-  height: 6px;
-  background: var(--blue);
-  border-radius: 50%;
-  flex: none;
 }
 .sample-notice {
   display: flex;
@@ -234,17 +228,44 @@ h1[tabindex='-1']:focus {
   color: var(--ink);
 }
 .section-heading {
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
   margin: 0;
-  padding: 25px 0 9px;
+  padding-top: 14px;
   border-bottom: 1px solid var(--ink);
   font: 600 12px/1.4 var(--mono);
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
-.section-heading > span:last-child {
+.section-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  min-height: 44px;
+  border: 0;
+  padding: 10px 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-align: left;
+}
+.section-toggle:hover {
+  color: var(--blue);
+}
+.section-name {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.section-chevron {
+  flex: none;
+}
+.section-toggle[aria-expanded='false'] .section-chevron {
+  transform: rotate(-90deg);
+}
+.section-count {
   color: var(--muted);
   font-size: 10px;
   font-weight: 400;
@@ -257,7 +278,7 @@ h1[tabindex='-1']:focus {
   grid-template-columns: 32px minmax(0, 1fr) minmax(110px, 220px);
   align-items: baseline;
   gap: 12px;
-  min-height: 72px;
+  min-height: 56px;
   padding: 16px 8px;
   margin: 0 -8px;
   border-bottom: 1px solid var(--line);
@@ -280,12 +301,6 @@ h1[tabindex='-1']:focus {
   line-height: 1.4;
   font-weight: 600;
 }
-.row-rule {
-  display: block;
-  margin-top: 3px;
-  color: var(--muted);
-  font: 400 11px/1.5 var(--mono);
-}
 .row-value {
   text-align: right;
   color: var(--blue);
@@ -296,22 +311,62 @@ h1[tabindex='-1']:focus {
 .row-value.unmarked {
   color: var(--muted);
 }
+[data-choice='Yes'] {
+  --choice-accent: var(--yes);
+  --choice-wash: var(--yes-wash);
+}
+[data-choice='No'] {
+  --choice-accent: var(--no);
+  --choice-wash: var(--no-wash);
+}
+.row-value[data-choice] {
+  color: var(--choice-accent);
+}
 .row-value-mobile {
   display: none;
 }
 .worksheet-footer {
-  padding: 22px 0 32px;
+  padding: 24px 0 32px;
 }
-.worksheet-footer p {
-  max-width: 520px;
-  font-size: 12px;
-  line-height: 1.65;
-  color: var(--muted);
-  margin-bottom: 14px;
+.footer-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 24px;
 }
-.worksheet-footer > .eyebrow {
-  font-size: 9px;
+.footer-caption {
+  margin: 0;
   color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0 20px;
+}
+.footer-links a,
+.footer-links button {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 44px;
+  padding: 8px 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+.footer-links a:hover,
+.footer-links button:hover {
+  color: var(--ink);
+}
+.compact .footer-links {
+  display: grid;
+}
+.compact .footer-caption {
+  max-width: 220px;
 }
 .continue-button {
   display: flex;
@@ -360,7 +415,6 @@ h1[tabindex='-1']:focus {
   letter-spacing: -0.025em;
 }
 .compact .election-line,
-.compact .row-rule,
 .compact .full-count {
   display: none;
 }
@@ -373,11 +427,11 @@ h1[tabindex='-1']:focus {
   flex-basis: 100%;
   justify-content: space-between;
 }
-.compact .save-status {
+.compact .worksheet-count {
   font-size: 9px;
 }
 .compact .section-heading {
-  padding-top: 22px;
+  padding-top: 10px;
   font-size: 10px;
 }
 .compact .worksheet-row {
@@ -414,19 +468,6 @@ h1[tabindex='-1']:focus {
   overflow-y: auto;
   background: #fff;
   border-left: 1px solid var(--ink);
-}
-.contest-status {
-  position: sticky;
-  top: 0;
-  z-index: 3;
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 16px 40px;
-  border-bottom: 1px solid var(--line);
-  background: #fff;
-  font: 500 10px/1.5 var(--mono);
-  color: var(--muted);
 }
 .contest-content {
   max-width: 840px;
@@ -479,10 +520,19 @@ h1[tabindex='-1']:focus {
   margin: 10px 0 0;
 }
 .contest-resources {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px 24px;
-  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px 24px;
+  margin-top: 24px;
+}
+.resource-links h2 {
+  margin-bottom: 4px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.resource-links .source-links {
+  display: grid;
+  gap: 4px;
 }
 .resource-group {
   min-width: 0;
@@ -600,28 +650,6 @@ h1[tabindex='-1']:focus {
   padding: 20px;
   border: 1px solid var(--ink);
 }
-.save-indicator {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  min-height: 32px;
-  padding: 0;
-  border: 0;
-  background: none;
-  color: var(--muted);
-  font: 500 10px/1.5 var(--mono);
-  text-align: left;
-  white-space: nowrap;
-}
-.save-indicator:hover {
-  color: var(--ink);
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-.status-dot.not-saved {
-  background: none;
-  border: 1px solid var(--muted);
-}
 .note-marker {
   float: right;
   color: var(--muted);
@@ -630,13 +658,6 @@ h1[tabindex='-1']:focus {
 }
 .row-check {
   font-size: 11px;
-}
-.privacy-link {
-  display: block;
-  padding-top: 0;
-  min-height: 32px;
-  font-size: 11px;
-  margin-bottom: 10px;
 }
 .selection-box {
   margin-top: 25px;
@@ -686,8 +707,11 @@ h1[tabindex='-1']:focus {
   border-color: var(--ink);
 }
 .choice-option.selected {
-  border-color: var(--blue);
-  background: #f7f9ff;
+  border-color: var(--choice-accent, var(--blue));
+  background: var(--choice-wash, #f7f9ff);
+}
+.choice-option[data-choice].selected .option-label {
+  color: var(--choice-accent);
 }
 .choice-mark {
   display: flex;
@@ -706,8 +730,8 @@ h1[tabindex='-1']:focus {
 }
 .selected .choice-mark {
   color: white;
-  background: var(--blue);
-  border-color: var(--blue);
+  background: var(--choice-accent, var(--blue));
+  border-color: var(--choice-accent, var(--blue));
 }
 .option-label {
   display: block;
@@ -734,10 +758,19 @@ h1[tabindex='-1']:focus {
   font-weight: 700;
   margin: 14px 0 10px;
 }
-.notes-label span {
-  font-size: 10px;
-  font-weight: 400;
-  color: var(--muted);
+.notes-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0 12px;
+  margin-top: 14px;
+}
+.notes-heading .notes-label {
+  margin: 0;
+}
+.notes-privacy {
+  font-size: 11px;
 }
 textarea {
   display: block;
@@ -754,9 +787,6 @@ textarea {
 }
 textarea::placeholder {
   color: #6c6d71;
-}
-.selection-box > .source-note {
-  margin-bottom: 0;
 }
 .ranked-options {
   --ranks: 5;
@@ -958,12 +988,6 @@ textarea::placeholder {
   .contest-content {
     padding: 28px;
   }
-  .contest-status {
-    padding: 16px 28px;
-  }
-  .contest-status > span:last-child {
-    display: none;
-  }
   .rank-header,
   .rank-row {
     grid-template-columns: minmax(95px, 1fr) repeat(var(--ranks), 44px);
@@ -1038,7 +1062,7 @@ textarea::placeholder {
     flex: none;
   }
   .section-heading {
-    padding-top: 24px;
+    padding-top: 12px;
   }
   .worksheet-row {
     grid-template-columns: 24px minmax(0, 1fr) minmax(64px, 25%);
@@ -1052,18 +1076,11 @@ textarea::placeholder {
   .row-title {
     font-size: 13px;
   }
-  .row-rule {
-    font-size: 10px;
-    line-height: 1.6;
-  }
   .row-value {
     font-size: 11px;
   }
   .worksheet-footer {
     padding-bottom: 100px;
-  }
-  .worksheet-footer .eyebrow {
-    font-size: 8px;
   }
   .is-split {
     height: auto;
@@ -1075,9 +1092,6 @@ textarea::placeholder {
   .contest-pane {
     border: 0;
     overflow: visible;
-  }
-  .contest-status {
-    display: none;
   }
   .contest-mobile-header {
     display: block;
@@ -1166,10 +1180,10 @@ textarea::placeholder {
     border-top: 1px solid var(--line);
   }
   .contest-resources {
-    display: block;
+    grid-template-columns: 1fr;
     margin-top: 18px;
   }
-  .resource-group {
+  details.resource-group {
     border-bottom: 1px solid var(--line);
   }
   .resource-group summary {
@@ -1221,9 +1235,9 @@ textarea::placeholder {
     border-color: #a9a8a3;
   }
   .pinned-choices .button.selected {
-    border-color: var(--blue);
-    background: var(--blue-wash);
-    color: var(--blue);
+    border-color: var(--choice-accent);
+    background: var(--choice-wash);
+    color: var(--choice-accent);
   }
   .selection-box {
     padding: 18px 14px;
@@ -1283,13 +1297,6 @@ textarea::placeholder {
   }
   .rank-bubble {
     display: none;
-  }
-  .save-indicator {
-    min-height: 44px;
-    font-size: 9px;
-  }
-  .privacy-link {
-    min-height: 44px;
   }
   textarea {
     font-size: 16px;

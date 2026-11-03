@@ -73,6 +73,7 @@ export function SelectionControls({ contest, value, onChange, ready }: Props) {
                 type="button"
                 key={option.id}
                 className={`choice-option ${selected ? 'selected' : ''}`}
+                data-choice={contest.type === 'yesno' ? option.id : undefined}
                 aria-pressed={selected}
                 onClick={() => choose(option.id)}
               >

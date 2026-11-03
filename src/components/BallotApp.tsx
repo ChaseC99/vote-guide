@@ -82,7 +82,6 @@ export default function BallotApp({
             currentId={current?.id}
             lastVisited={lastVisited}
             state={state}
-            status={status}
             onPrivacy={() => setPrivacyOpen(true)}
             onPrint={() => setPrintOpen(true)}
           />
@@ -94,7 +93,6 @@ export default function BallotApp({
             contest={current}
             onNext={next}
             state={state}
-            status={status}
             ready={ready}
             onSelection={(selection) => setSelection(current.id, selection)}
             onNote={(note) => setNote(current.id, note)}

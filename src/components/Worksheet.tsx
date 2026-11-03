@@ -1,8 +1,7 @@
+import { useEffect, useState } from 'react';
 import type { Ballot } from '../data/schema';
 import { contestPath, numberLabel, sectionNames } from '../lib/navigation';
 import { selectionCount, selectionSummary, type WorksheetState } from '../lib/selections';
-import type { SaveStatus } from '../lib/useWorksheet';
-import { SaveIndicator } from './SaveIndicator';
 import { SourceLinks } from './SourceLinks';
 
 interface Props {
@@ -10,23 +9,27 @@ interface Props {
   currentId?: string;
   lastVisited: string | null;
   state: WorksheetState;
-  status: SaveStatus;
   onPrivacy: () => void;
   onPrint: () => void;
 }
 
-export function Worksheet({
-  ballot,
-  currentId,
-  lastVisited,
-  state,
-  status,
-  onPrivacy,
-  onPrint,
-}: Props) {
+export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, onPrint }: Props) {
   const compact = !!currentId;
+  const [collapsedSections, setCollapsedSections] = useState<string[]>([]);
   const last = ballot.contests.find(({ id }) => id === lastVisited);
+  const activeSection = ballot.contests.find(
+    ({ id }) => id === (currentId ?? lastVisited),
+  )?.section;
+  const sampleBallot = ballot.provenance?.sources.find(
+    ({ label }) => label === 'Your official sample ballot',
+  );
   const marked = ballot.contests.filter(({ id }) => selectionCount(state.selections[id])).length;
+  useEffect(() => {
+    // Keep the current contest and the return-to-worksheet marker reachable after navigation.
+    if (activeSection) {
+      setCollapsedSections((sections) => sections.filter((section) => section !== activeSection));
+    }
+  }, [activeSection, currentId]);
   const Container = compact ? 'aside' : 'main';
   return (
     <Container className={`worksheet ${compact ? 'compact' : ''}`} aria-label="Ballot worksheet">
@@ -57,12 +60,9 @@ export function Worksheet({
               </a>
             )}
             <div className="worksheet-actions">
-              <div className="save-status">
-                <SaveIndicator status={status} compact={compact} onClick={onPrivacy} />
-                <span>
-                  · {marked} of {ballot.contests.length} marked
-                </span>
-              </div>
+              <span className="worksheet-count">
+                {marked} of {ballot.contests.length} marked
+              </span>
               <button
                 className={compact ? 'text-button compact-print' : 'button primary print-button'}
                 onClick={onPrint}
@@ -101,17 +101,48 @@ export function Worksheet({
           {sectionNames.map((section) => {
             const contests = ballot.contests.filter((contest) => contest.section === section);
             if (!contests.length) return null;
+            const expanded = !collapsedSections.includes(section);
+            const sectionId = `section-${section.toLowerCase()}`;
             return (
               <section className="worksheet-section" key={section} aria-label={section}>
                 <h2 className="section-heading">
-                  <span>{section}</span>
-                  <span>
-                    {contests.filter(({ id }) => selectionCount(state.selections[id])).length} /{' '}
-                    {contests.length}
-                    <span className="full-count"> marked</span>
-                  </span>
+                  <button
+                    className="section-toggle"
+                    aria-expanded={expanded}
+                    aria-controls={sectionId}
+                    onClick={() =>
+                      setCollapsedSections((sections) =>
+                        sections.includes(section)
+                          ? sections.filter((item) => item !== section)
+                          : [...sections, section],
+                      )
+                    }
+                  >
+                    <span className="section-name">
+                      <svg
+                        className="section-chevron"
+                        width="12"
+                        height="12"
+                        viewBox="0 0 12 12"
+                        aria-hidden="true"
+                      >
+                        <path
+                          d="m3 4.5 3 3 3-3"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="1.5"
+                        />
+                      </svg>
+                      {section}
+                    </span>
+                    <span className="section-count">
+                      {contests.filter(({ id }) => selectionCount(state.selections[id])).length} /{' '}
+                      {contests.length}
+                      <span className="full-count"> marked</span>
+                    </span>
+                  </button>
                 </h2>
-                <div>
+                <div id={sectionId} hidden={!expanded}>
                   {contests.map((contest) => {
                     const here = !compact && lastVisited === contest.id;
                     const selected = !!selectionCount(state.selections[contest.id]);
@@ -141,9 +172,13 @@ export function Worksheet({
                               </span>
                             )}
                           </span>
-                          <span className="row-rule">{contest.rule}</span>
                         </span>
-                        <span className={`row-value ${selected ? '' : 'unmarked'}`}>
+                        <span
+                          className={`row-value ${selected ? '' : 'unmarked'}`}
+                          data-choice={
+                            contest.type === 'yesno' ? state.selections[contest.id] : undefined
+                          }
+                        >
                           {selected && (
                             <span className="row-check" aria-hidden="true">
                               ✓{' '}
@@ -169,30 +204,33 @@ export function Worksheet({
               </section>
             );
           })}
-          {!compact && (
-            <footer className="worksheet-footer">
-              {last && (
-                <a className="button continue-button" href={contestPath(last)} data-route>
-                  Continue at {numberLabel(ballot.contests.indexOf(last))} {last.shortTitle}{' '}
-                  <span aria-hidden="true">→</span>
-                </a>
-              )}
-              <p>
-                Your selections and notes stay in this browser on this device. Nothing is sent
-                anywhere. Clearing your browser data erases them.
-              </p>
-              <button className="text-button privacy-link" onClick={onPrivacy}>
-                About saving & privacy
-              </button>
-              <span className="eyebrow">A personal worksheet · Not an official ballot</span>
-            </footer>
-          )}
+          <footer className="worksheet-footer">
+            {!compact && last && (
+              <a className="button continue-button" href={contestPath(last)} data-route>
+                Continue at {numberLabel(ballot.contests.indexOf(last))} {last.shortTitle}{' '}
+                <span aria-hidden="true">→</span>
+              </a>
+            )}
+            <div className="footer-details">
+              <p className="footer-caption">A personal worksheet · Not an official ballot</p>
+              <nav className="footer-links" aria-label="Worksheet information">
+                <button className="text-button" onClick={onPrivacy} aria-haspopup="dialog">
+                  About saving & privacy
+                </button>
+                {sampleBallot?.url && (
+                  <a href={sampleBallot.url} target="_blank" rel="noopener noreferrer">
+                    Official sample ballot <span aria-hidden="true">↗</span>
+                    <span className="sr-only"> (opens in a new tab)</span>
+                  </a>
+                )}
+              </nav>
+            </div>
+          </footer>
         </div>
       </div>
       {!compact && (
         <div className="mobile-worksheet-bar">
           <div>
-            <SaveIndicator status={status} compact onClick={onPrivacy} />
             <span className="mobile-marked">
               {marked} of {ballot.contests.length} marked
             </span>

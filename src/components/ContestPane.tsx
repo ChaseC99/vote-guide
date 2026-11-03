@@ -3,16 +3,13 @@ import { contestPath, numberLabel } from '../lib/navigation';
 import { Progress } from './Progress';
 import { SourceLinks } from './SourceLinks';
 import { SelectionControls } from './SelectionControls';
-import { SaveIndicator } from './SaveIndicator';
 import type { Selection, WorksheetState } from '../lib/selections';
-import type { SaveStatus } from '../lib/useWorksheet';
 
 interface Props {
   ballot: Ballot;
   contest: Contest;
   onNext: () => void;
   state: WorksheetState;
-  status: SaveStatus;
   ready: boolean;
   onSelection: (value: Selection | undefined) => void;
   onNote: (note: string) => void;
@@ -24,7 +21,6 @@ export function ContestPane({
   contest,
   onNext,
   state,
-  status,
   ready,
   onSelection,
   onNote,
@@ -56,17 +52,9 @@ export function ContestPane({
           <span>
             {numberLabel(index)} / {String(ballot.contests.length).padStart(2, '0')}
           </span>
-          <SaveIndicator status={status} compact onClick={onPrivacy} />
         </div>
         <Progress ballot={ballot} current={contest} selections={state.selections} />
       </header>
-      <div className="contest-status">
-        <span>
-          {numberLabel(index)} of {String(ballot.contests.length).padStart(2, '0')} ·{' '}
-          {contest.section} · {typeLabel}
-        </span>
-        <SaveIndicator status={status} onClick={onPrivacy} />
-      </div>
       <div className="contest-content">
         <p className="eyebrow contest-kicker">
           {contest.section} · {typeLabel}
@@ -95,22 +83,25 @@ export function ContestPane({
           {(['arguments', 'sources'] as const)
             .filter((group) => contest.links.some((link) => link.group === group))
             .map((group) => (
-              <details key={group} className="resource-group">
-                <summary>
+              <section
+                key={group}
+                className="resource-group resource-links"
+                aria-labelledby={`resource-${group}`}
+              >
+                <h2 id={`resource-${group}`}>
                   {group === 'arguments'
                     ? contest.type === 'yesno'
                       ? 'Arguments & rebuttals'
                       : 'Candidate statements'
                     : 'Sources'}
-                  <span aria-hidden="true">+</span>
-                </summary>
+                </h2>
                 <SourceLinks links={contest.links.filter((link) => link.group === group)} />
                 {contest.links.filter((link) => link.group === group).some((link) => !link.url) && (
                   <p className="source-note">
                     Source links will be added with the official ballot.
                   </p>
                 )}
-              </details>
+              </section>
             ))}
         </div>
         {contest.type !== 'yesno' &&
@@ -130,9 +121,18 @@ export function ContestPane({
           )}
         <section className="selection-box" aria-label="Your selections and notes">
           <SelectionControls contest={contest} value={value} onChange={onSelection} ready={ready} />
-          <label id="notes-label" className="notes-label" htmlFor="contest-notes">
-            Notes <span>Just for you</span>
-          </label>
+          <div className="notes-heading">
+            <label id="notes-label" className="notes-label" htmlFor="contest-notes">
+              Notes
+            </label>
+            <button
+              className="text-button notes-privacy"
+              onClick={onPrivacy}
+              aria-haspopup="dialog"
+            >
+              Private thoughts
+            </button>
+          </div>
           <textarea
             id="contest-notes"
             rows={4}
@@ -140,11 +140,7 @@ export function ContestPane({
             value={state.notes[contest.id] ?? ''}
             onChange={(event) => onNote(event.target.value)}
             disabled={!ready}
-            aria-describedby="notes-help"
           />
-          <p id="notes-help" className="source-note">
-            Include these in your printout only if you choose.
-          </p>
         </section>
         <nav className="contest-navigation" aria-label="Contests">
           <a
@@ -167,6 +163,7 @@ export function ContestPane({
             {(['Yes', 'No'] as const).map((choice) => (
               <button
                 className={`button ${value === choice ? 'selected' : ''}`}
+                data-choice={choice}
                 key={choice}
                 aria-pressed={value === choice}
                 disabled={!ready}
