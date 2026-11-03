@@ -2,8 +2,9 @@
 import Layout from '../layouts/Layout.astro';
 import BallotApp from '../components/BallotApp';
 import { ballot } from '../data/ballot';
+import { pageTitle } from '../lib/metadata';
 ---
 
-<Layout title="End of ballot · Ballot worksheet">
+<Layout title={pageTitle('End of ballot')}>
   <BallotApp ballot={ballot} initialPath="/complete/" client:load />
 </Layout>

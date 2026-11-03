@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbfaf7"/>
+  <path d="M76 88h1048" stroke="#dcdad5" stroke-width="2"/>
+  <g transform="translate(980 134) scale(4)">
+    <ellipse cx="8" cy="10" rx="5" ry="3" fill="#2854a1"/>
+    <path d="M17 10h12M17 22h12" stroke="#1b1c1e" stroke-width="2"/>
+    <ellipse cx="8" cy="22" rx="4" ry="2" fill="none" stroke="#1b1c1e" stroke-width="2"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="72" y="252" fill="#1b1c1e" font-size="112" font-weight="700" letter-spacing="-4">Vote Guide</text>
+    <text x="78" y="334" fill="#2854a1" font-size="40">Your personal ballot worksheet.</text>
+    <g fill="#5f6064" font-size="30">
+      <text x="78" y="418">Review your election choices and save selections &amp; thoughts</text>
+      <text x="78" y="462">privately on this device.</text>
+    </g>
+  </g>
+  <path d="M76 548h1048" stroke="#dcdad5" stroke-width="2"/>
+</svg>

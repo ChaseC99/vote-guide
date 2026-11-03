@@ -33,7 +33,7 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
   }, [activeSection, currentId]);
   const Container = compact ? 'aside' : 'main';
   return (
-    <Container className={`worksheet ${compact ? 'compact' : ''}`} aria-label="Ballot worksheet">
+    <Container className={`worksheet ${compact ? 'compact' : ''}`} aria-label="Vote Guide">
       <div className="worksheet-inner">
         <header className="worksheet-header">
           <p className="eyebrow election-line">
@@ -44,10 +44,10 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
           </p>
           <div className="worksheet-title-row">
             {compact ? (
-              <h2>Ballot worksheet</h2>
+              <h2>Vote Guide</h2>
             ) : (
               <h1 id="page-title" tabIndex={-1}>
-                Ballot worksheet
+                Vote Guide
               </h1>
             )}
             <div className="worksheet-actions">

@@ -12,10 +12,10 @@ export function PrintWorksheet({
   includeNotes: boolean;
 }) {
   return (
-    <section className="print-only" aria-label="Printable ballot worksheet">
+    <section className="print-only" aria-label="Printable Vote Guide">
       <header className="print-header">
         <div>
-          <h1>My ballot worksheet · {ballot.locationShort}</h1>
+          <h1>My Vote Guide · {ballot.locationShort}</h1>
           {ballot.provenance && (
             <p className="print-districts">
               Congressional {ballot.provenance.districts.congressional} · Assembly{' '}

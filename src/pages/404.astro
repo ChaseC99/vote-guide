@@ -1,8 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { pageTitle } from '../lib/metadata';
 ---
 
-<Layout title="Page not found · Ballot worksheet">
+<Layout title={pageTitle('Page not found')}>
   <main class="completion">
     <p class="eyebrow">Page not found</p><h1>This contest isn’t in the worksheet.</h1><p>
       Your saved selections haven’t changed.

@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import BallotApp from '../../components/BallotApp';
 import { ballot } from '../../data/ballot';
+import { pageTitle } from '../../lib/metadata';
 
 export function getStaticPaths() {
   return ballot.contests.map((contest) => ({ params: { slug: contest.slug }, props: { contest } }));
@@ -9,7 +10,7 @@ export function getStaticPaths() {
 const { contest } = Astro.props;
 ---
 
-<Layout title={`${contest.shortTitle} · Ballot worksheet`}>
+<Layout title={pageTitle(contest.shortTitle)}>
   <BallotApp ballot={ballot} initialPath={`/contest/${contest.slug}/`} client:load />
   <noscript
     ><p class="noscript-message">

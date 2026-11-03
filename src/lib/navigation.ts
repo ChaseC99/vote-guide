@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import type { Contest } from '../data/schema';
+import { pageTitle } from './metadata';
 
 export const contestPath = (contest: Contest) => `/contest/${contest.slug}/`;
 export const numberLabel = (index: number) => String(index + 1).padStart(2, '0');
@@ -23,7 +24,13 @@ export function useNavigation(initialPath: string, contests: Contest[]) {
 
   useEffect(() => {
     if (current) setLastVisited(current.id);
-    document.title = `${current?.shortTitle ?? (path === '/complete/' ? 'End of ballot' : 'Ballot worksheet')} · San Francisco`;
+    const title = pageTitle(
+      current?.shortTitle ?? (path === '/complete/' ? 'End of ballot' : undefined),
+    );
+    document.title = title;
+    document.querySelector('meta[property="og:title"]')?.setAttribute('content', title);
+    const urlMeta = document.querySelector<HTMLMetaElement>('meta[property="og:url"]');
+    if (urlMeta) urlMeta.content = new URL(path, urlMeta.content).href;
     const frame = requestAnimationFrame(() => {
       const target = current
         ? document.getElementById('contest-title')

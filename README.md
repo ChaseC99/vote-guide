@@ -1,4 +1,4 @@
-# Voter guide worksheet
+# Vote Guide
 
 A personal, neutral ballot worksheet built with Astro, React, and TypeScript. It contains the **November 3, 2026 San Francisco election** for Congressional District 11, Assembly District 19, Supervisorial District 7, and BART District 8. Nothing in this project is an official ballot or a recommendation.
 
@@ -61,5 +61,11 @@ Sources checked November 1, 2026:
 The 55 contests comprise 17 candidate races, 13 judicial retention questions, and 25 measures. `tests/ballot.test.ts` checks the inventory, district exclusions, separate City College terms, real-data selection/restoration, source requirements, and isolation from demo storage. Compare this worksheet with the official ballot before voting; candidate order can differ, and the district lookup does not verify voter registration.
 
 ## Design assets
+
+Site titles and descriptions are defined in `src/lib/metadata.ts`; the production URL is configured in `astro.config.mjs`. Every page includes Open Graph metadata with a shared 1200 × 630 preview image. To regenerate `public/og-image.png` after editing `src/assets/open-graph.svg`, run:
+
+```sh
+node --input-type=module -e "import sharp from 'sharp'; await sharp('src/assets/open-graph.svg').png().toFile('public/og-image.png');"
+```
 
 Public Sans and IBM Plex Mono font files were extracted from the supplied standalone design mock and are served locally. Both font families are distributed under the SIL Open Font License; notices are included in `public/fonts/`. The visual design and sample ballot copy follow the supplied feature spec and mock.
