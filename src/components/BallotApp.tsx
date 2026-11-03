@@ -59,7 +59,7 @@ export default function BallotApp({
     window.print();
   }
   return (
-    <div onClick={handleLink}>
+    <div className={`ballot-app ${current ? 'contest-open' : ''}`} onClick={handleLink}>
       <a className="skip-link" href={current ? '#main-content' : '#page-title'}>
         Skip to content
       </a>
@@ -85,6 +85,18 @@ export default function BallotApp({
             onPrivacy={() => setPrivacyOpen(true)}
             onPrint={() => setPrintOpen(true)}
           />
+        )}
+        {current && (
+          <button
+            className="button worksheet-expand-button"
+            onClick={() => navigate('/')}
+            aria-label="Expand worksheet"
+            title="Expand worksheet (Esc)"
+          >
+            <svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true">
+              <path d="m6 4 4 4-4 4" fill="none" stroke="currentColor" strokeWidth="1.5" />
+            </svg>
+          </button>
         )}
         {current && (
           <ContestPane

@@ -157,10 +157,13 @@ h1[tabindex='-1']:focus {
   font-size: 13px;
 }
 .app-shell {
+  position: relative;
   display: flex;
   min-height: 100dvh;
 }
 .worksheet {
+  /* Contain hidden link labels inside the panel's scrolling area. */
+  position: relative;
   width: 100%;
   flex: 0 0 auto;
   background: var(--paper);
@@ -197,9 +200,46 @@ h1[tabindex='-1']:focus {
   align-items: center;
   gap: 16px;
 }
-.worksheet-count {
+.worksheet-progress {
+  margin-top: 18px;
+}
+.progress-count {
+  margin: 0 0 10px;
   color: var(--muted);
-  font: 500 10px/1.5 var(--mono);
+  font: 500 11px/1.5 var(--mono);
+}
+.section-progress {
+  display: grid;
+  grid-template-columns: 40px minmax(0, 2fr) minmax(0, 1fr);
+  gap: 12px;
+}
+.progress-group {
+  min-width: 0;
+}
+.progress-group > span {
+  display: block;
+  margin: 3px 0 6px;
+  color: var(--muted);
+  font: 500 8px var(--mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.progress-ticks {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 6px);
+  gap: 4px;
+}
+.progress-tick {
+  width: 6px;
+  height: 6px;
+  background: #d5d3cd;
+}
+.progress-tick.marked {
+  background: var(--blue);
+}
+.progress-tick.current {
+  outline: 1px solid var(--blue);
+  outline-offset: 2px;
 }
 .sample-notice {
   display: flex;
@@ -388,11 +428,12 @@ h1[tabindex='-1']:focus {
   background: var(--blue-wash);
 }
 .is-split {
+  --worksheet-width: 340px;
   height: 100dvh;
   overflow: hidden;
 }
 .is-split .worksheet {
-  width: 340px;
+  width: var(--worksheet-width);
   overflow-y: auto;
   scrollbar-width: thin;
 }
@@ -405,6 +446,9 @@ h1[tabindex='-1']:focus {
   z-index: 2;
   padding: 20px 0 12px;
   background: var(--paper);
+  box-shadow:
+    -8px 0 var(--paper),
+    8px 0 var(--paper);
 }
 .compact .worksheet-title-row {
   gap: 8px;
@@ -418,17 +462,20 @@ h1[tabindex='-1']:focus {
 .compact .full-count {
   display: none;
 }
-.expand-button {
-  font-size: 11px;
-  min-height: 36px;
-  padding: 6px 9px;
+.worksheet-expand-button {
+  position: absolute;
+  top: 20px;
+  left: var(--worksheet-width);
+  z-index: 3;
+  width: 26px;
+  min-height: 44px;
+  padding: 0;
+  border: 1px solid var(--ink);
+  border-left: 0;
+  background: var(--paper);
 }
-.compact .worksheet-actions {
-  flex-basis: 100%;
-  justify-content: space-between;
-}
-.compact .worksheet-count {
-  font-size: 9px;
+.compact .worksheet-progress {
+  margin-top: 10px;
 }
 .compact .section-heading {
   padding-top: 10px;
@@ -463,6 +510,8 @@ h1[tabindex='-1']:focus {
   color: var(--blue);
 }
 .contest-pane {
+  /* Keep absolutely positioned screen-reader text from extending the document. */
+  position: relative;
   min-width: 0;
   flex: 1;
   overflow-y: auto;
@@ -478,6 +527,19 @@ h1[tabindex='-1']:focus {
   line-height: 1.2;
   margin-bottom: 13px;
   max-width: 680px;
+  text-wrap: pretty;
+}
+.contest-content .measure-title {
+  margin-bottom: 6px;
+  font-size: 36px;
+}
+.contest-subtitle {
+  max-width: 680px;
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.015em;
   text-wrap: pretty;
 }
 .contest-kicker {
@@ -935,14 +997,18 @@ textarea::placeholder {
   font-size: 13px;
   line-height: 1.6;
 }
-.print-only,
-.mobile-worksheet-bar {
+.print-only {
   display: none;
 }
 .compact-print {
-  font-size: 11px;
-  min-height: 32px;
+  font-size: 13px;
+  min-height: 44px;
   padding: 0;
+  color: var(--ink);
+  text-decoration: none;
+}
+.compact-print:hover {
+  text-decoration: underline;
 }
 .print-button {
   font-size: 13px;
@@ -978,9 +1044,60 @@ textarea::placeholder {
   margin: 0;
   flex: none;
 }
-@media (min-width: 800px) and (max-width: 1100px) {
+@media screen and (min-width: 800px) {
+  /* Bound the desktop workspace before sizing either scrollable column. */
+  .ballot-app.contest-open {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .contest-open > .storage-warning {
+    flex: none;
+  }
+  .is-split {
+    flex: 1;
+    min-height: 0;
+    height: auto;
+  }
+  .is-split .worksheet,
+  .is-split .contest-pane {
+    min-height: 0;
+    height: 100%;
+    max-height: 100%;
+  }
   .is-split .worksheet {
-    width: 290px;
+    overflow: hidden;
+  }
+  .compact .worksheet-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 0;
+  }
+  .compact .worksheet-header {
+    position: static;
+    flex: none;
+    box-shadow: none;
+  }
+  .compact .worksheet-body {
+    position: relative;
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    margin: 0 -8px;
+    padding: 0 8px;
+    scrollbar-width: thin;
+  }
+  .compact .worksheet-body,
+  .is-split .contest-pane {
+    overscroll-behavior-y: contain;
+  }
+}
+@media (min-width: 800px) and (max-width: 1100px) {
+  .is-split {
+    --worksheet-width: 290px;
   }
   .compact .worksheet-inner {
     padding: 0 16px;
@@ -1027,40 +1144,6 @@ textarea::placeholder {
   .worksheet-title-row h1 {
     font-size: 28px;
   }
-  .worksheet-actions {
-    flex-basis: 100%;
-  }
-  .worksheet-header .worksheet-actions {
-    display: none;
-  }
-  .mobile-worksheet-bar {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 5;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    padding: 10px 20px max(10px, env(safe-area-inset-bottom));
-    border-top: 1px solid var(--ink);
-    background: var(--paper);
-  }
-  .mobile-worksheet-bar > div {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0 10px;
-  }
-  .mobile-marked {
-    color: var(--muted);
-    font: 400 9px/1.4 var(--mono);
-  }
-  .mobile-worksheet-bar .button {
-    font-size: 12px;
-    flex: none;
-  }
   .section-heading {
     padding-top: 12px;
   }
@@ -1079,14 +1162,12 @@ textarea::placeholder {
   .row-value {
     font-size: 11px;
   }
-  .worksheet-footer {
-    padding-bottom: 100px;
-  }
   .is-split {
     height: auto;
     overflow: visible;
   }
-  .is-split .worksheet {
+  .is-split .worksheet,
+  .worksheet-expand-button {
     display: none;
   }
   .contest-pane {
@@ -1120,50 +1201,17 @@ textarea::placeholder {
       600 14px 'Public Sans',
       sans-serif;
   }
-  .section-progress {
-    display: flex;
-    gap: 12px;
-  }
-  .progress-group {
-    flex: 1;
-    min-width: 0;
-  }
-  .progress-group:first-child {
-    flex: 0.4;
-  }
-  .progress-group:last-child {
-    flex: 1.4;
-  }
-  .progress-group > span {
-    display: block;
-    margin: 3px 0 6px;
-    color: var(--muted);
-    font: 500 8px var(--mono);
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-  }
-  .progress-ticks {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(4px, 1fr));
-    gap: 3px;
-  }
-  .progress-tick {
-    flex: 1;
-    height: 5px;
-    background: #d5d3cd;
-  }
-  .progress-tick.marked {
-    background: var(--blue);
-  }
-  .progress-tick.current {
-    outline: 1px solid var(--blue);
-    outline-offset: 2px;
-  }
   .contest-content {
     padding: 25px 20px 150px;
   }
   .contest-content h1 {
     font-size: 26px;
+  }
+  .contest-content .measure-title {
+    font-size: 28px;
+  }
+  .contest-subtitle {
+    font-size: 19px;
   }
   .contest-summary {
     font-size: 15px;
@@ -1367,40 +1415,49 @@ textarea::placeholder {
     align-items: baseline;
     justify-content: space-between;
     gap: 20px;
-    border-bottom: 2px solid #000;
+    border-bottom: 1.25pt solid #000;
     padding-bottom: 10pt;
-  }
-  .print-header p {
-    margin: 0 0 5pt;
-    font: 500 9pt var(--mono);
-    text-transform: uppercase;
   }
   .print-header h1 {
     margin: 0;
-    font: 600 9pt var(--mono);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    font:
+      700 14pt/1.2 'Public Sans',
+      sans-serif;
+    letter-spacing: -0.02em;
   }
-  .print-header > span {
-    max-width: 110pt;
+  .print-deadline {
+    flex-shrink: 0;
+    margin: 0;
     text-align: right;
+    white-space: nowrap;
+    font:
+      600 9pt 'Public Sans',
+      sans-serif;
+  }
+  .print-sample {
+    margin: 5pt 0 0;
     font: 8pt/1.4 var(--mono);
   }
   .print-section {
     margin-top: 15pt;
   }
   .print-districts {
+    margin: 5pt 0 0;
     font-size: 8pt;
+    color: #555;
   }
+  .print-section tbody,
   .print-section tr {
     break-inside: avoid;
   }
   .print-section h2 {
     margin: 0;
-    padding: 0 0 5pt;
-    border-bottom: 1px solid #000;
-    font: 600 10pt var(--mono);
+    padding: 0 0 6pt;
+    border-bottom: 0.75pt solid #777;
+    font: 500 9pt var(--mono);
     text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #444;
     break-after: avoid;
   }
   .print-section table {
@@ -1408,22 +1465,42 @@ textarea::placeholder {
     border-collapse: collapse;
     table-layout: fixed;
   }
+  .print-number-column {
+    width: 22pt;
+  }
+  .print-contest-column {
+    width: 48%;
+  }
   .print-section td,
   .print-section th {
     text-align: left;
     vertical-align: top;
-    border-bottom: 1px solid #ccc;
-    padding: 9pt 6pt;
+    border-bottom: 0.5pt solid #ddd;
+    padding: 7pt 6pt;
     overflow-wrap: anywhere;
   }
   .print-section th {
-    width: 52%;
     font-weight: 400;
   }
   .print-section .print-number {
-    width: 28pt;
     padding-left: 0;
-    font: 9pt var(--mono);
+    padding-top: 8pt;
+    font: 8pt var(--mono);
+    color: #666;
+  }
+  .print-section .print-has-note {
+    break-after: avoid;
+  }
+  .print-has-note td,
+  .print-has-note th {
+    border-bottom: 0;
+    padding-bottom: 5pt;
+  }
+  .print-section .print-note-row {
+    break-inside: auto;
+  }
+  .print-note-row td {
+    padding-top: 0;
   }
   .print-selected {
     font-weight: 600;
@@ -1440,15 +1517,25 @@ textarea::placeholder {
     margin-top: 2pt;
   }
   .print-note {
-    margin-top: 7pt;
-    white-space: pre-wrap;
+    border-left: 1pt solid #ddd;
+    padding-left: 8pt;
+    margin: 0 0 2pt;
     font:
-      8.5pt/1.5 'Public Sans',
+      8.5pt/1.4 'Public Sans',
       sans-serif;
-    color: #333;
+    color: #555;
   }
-  .print-note > span {
-    font-weight: 600;
+  .print-note p {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .print-note p + p {
+    margin-top: 5pt;
+  }
+  .print-note-label {
+    font: 500 7pt var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
   }
   .print-footer {
     font: 8pt/1.5 var(--mono);

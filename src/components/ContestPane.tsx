@@ -29,6 +29,10 @@ export function ContestPane({
   const index = ballot.contests.indexOf(contest);
   const previous = ballot.contests[index - 1];
   const next = ballot.contests[index + 1];
+  const measureHeading =
+    contest.type === 'yesno'
+      ? /^(Proposition [A-Z0-9]+|Regional Measure [A-Z0-9]+) — (.+)$/.exec(contest.title)
+      : null;
   const typeLabel = {
     yesno: 'Yes/No',
     single: 'Single choice',
@@ -57,12 +61,22 @@ export function ContestPane({
       </header>
       <div className="contest-content">
         <p className="eyebrow contest-kicker">
-          {contest.section} · {typeLabel}
+          {contest.section} ·{' '}
+          {measureHeading
+            ? measureHeading[1].startsWith('Proposition')
+              ? 'Proposition'
+              : 'Measure'
+            : typeLabel}
           {ballot.isMock ? ' · Sample contest' : ''}
         </p>
-        <h1 id="contest-title" tabIndex={-1}>
-          {contest.title}
+        <h1
+          id="contest-title"
+          className={measureHeading ? 'measure-title' : undefined}
+          tabIndex={-1}
+        >
+          {measureHeading ? measureHeading[1] : contest.title}
         </h1>
+        {measureHeading && <p className="contest-subtitle">{measureHeading[2]}</p>}
         <p className="contest-summary">{contest.summary}</p>
         {contest.type === 'yesno' && (
           <>

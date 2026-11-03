@@ -3,6 +3,7 @@ import type { Ballot } from '../data/schema';
 import { contestPath, numberLabel, sectionNames } from '../lib/navigation';
 import { selectionCount, selectionSummary, type WorksheetState } from '../lib/selections';
 import { SourceLinks } from './SourceLinks';
+import { Progress } from './Progress';
 
 interface Props {
   ballot: Ballot;
@@ -15,6 +16,7 @@ interface Props {
 
 export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, onPrint }: Props) {
   const compact = !!currentId;
+  const current = ballot.contests.find(({ id }) => id === currentId);
   const [collapsedSections, setCollapsedSections] = useState<string[]>([]);
   const last = ballot.contests.find(({ id }) => id === lastVisited);
   const activeSection = ballot.contests.find(
@@ -23,7 +25,6 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
   const sampleBallot = ballot.provenance?.sources.find(
     ({ label }) => label === 'Your official sample ballot',
   );
-  const marked = ballot.contests.filter(({ id }) => selectionCount(state.selections[id])).length;
   useEffect(() => {
     // Keep the current contest and the return-to-worksheet marker reachable after navigation.
     if (activeSection) {
@@ -49,20 +50,7 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
                 Ballot worksheet
               </h1>
             )}
-            {compact && (
-              <a
-                className="button expand-button"
-                href="/"
-                data-route
-                title="Expand worksheet (Esc)"
-              >
-                ⤢ Expand
-              </a>
-            )}
             <div className="worksheet-actions">
-              <span className="worksheet-count">
-                {marked} of {ballot.contests.length} marked
-              </span>
               <button
                 className={compact ? 'text-button compact-print' : 'button primary print-button'}
                 onClick={onPrint}
@@ -70,6 +58,9 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
                 {compact ? 'Print' : 'Print / PDF'}
               </button>
             </div>
+          </div>
+          <div className="worksheet-progress">
+            <Progress ballot={ballot} current={current} selections={state.selections} />
           </div>
         </header>
         <div className="worksheet-body">
@@ -228,18 +219,6 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
           </footer>
         </div>
       </div>
-      {!compact && (
-        <div className="mobile-worksheet-bar">
-          <div>
-            <span className="mobile-marked">
-              {marked} of {ballot.contests.length} marked
-            </span>
-          </div>
-          <button className="button primary" onClick={onPrint}>
-            Print / PDF
-          </button>
-        </div>
-      )}
     </Container>
   );
 }
