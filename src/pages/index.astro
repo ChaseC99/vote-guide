@@ -1,14 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { ballot } from '../data/ballot';
-import BallotApp from '../components/BallotApp';
+import { countyOptions } from '../data/catalog';
+import BallotFinder from '../components/BallotFinder';
 ---
 
 <Layout>
-  <BallotApp ballot={ballot} client:load />
+  <BallotFinder counties={countyOptions} client:load />
   <noscript
     ><p class="noscript-message">
-      Enable JavaScript to make selections and save your worksheet on this device.
+      Enable JavaScript to find your ballot and save your worksheet on this device. You can also
+      visit <a href="https://www.sos.ca.gov/elections/voting-resources/county-elections-offices"
+        >your official county election office</a
+      >.
     </p></noscript
   >
 </Layout>

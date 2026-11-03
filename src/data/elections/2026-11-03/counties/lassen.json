@@ -1,0 +1,882 @@
+{
+  "countyId": "lassen",
+  "countyName": "Lassen",
+  "jurisdiction": "Lassen County, California",
+  "electionId": "2026-11-03",
+  "verifiedOn": "2026-11-02",
+  "coverage": "partial",
+  "coverageNote": "Complete contests are loaded for the six sample ballot groups printed in the county guide: CP1, CP4, CP7, CP16, MB17, and MB29. Other precincts are not verified; only use a listed code or its explicitly listed precinct. Do not assume an unlisted precinct has the same ballot.",
+  "sourceUrl": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+  "lookupUrl": "https://www.lassencounty.gov/194/Elections",
+  "codeHelp": "Look at the bottom-right footer of your November 3 sample ballot for CP1, CP4, CP7, CP16, MB17, or MB29. The precinct numbers printed alongside those codes are also accepted. Other precincts are not yet mapped.",
+  "sharedContestIds": [
+    "governor",
+    "lieutenant-governor",
+    "secretary-of-state",
+    "controller",
+    "treasurer",
+    "attorney-general",
+    "insurance-commissioner",
+    "retain-joshua-groban",
+    "retain-kelli-m-evans",
+    "superintendent-public-instruction",
+    "state-prop-1",
+    "state-prop-2",
+    "state-prop-3",
+    "state-prop-4",
+    "state-prop-5",
+    "state-prop-37",
+    "state-prop-38",
+    "state-prop-39",
+    "state-prop-40",
+    "state-prop-41",
+    "state-prop-42",
+    "state-prop-43",
+    "state-prop-44",
+    "state-prop-45"
+  ],
+  "contests": [
+    {
+      "id": "board-of-equalization-district-1",
+      "slug": "board-of-equalization-district-1",
+      "section": "State",
+      "title": "Board of Equalization, District 1",
+      "shortTitle": "Board of Equalization, District 1",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "shannon-grove",
+          "name": "Shannon Grove",
+          "occupation": "State Senator/Businesswoman",
+          "links": [],
+          "party": "Republican"
+        },
+        {
+          "id": "nelson-esparza",
+          "name": "Nelson Esparza",
+          "occupation": "Teacher/Economist/Councilmember",
+          "links": [],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "retain-laurie-earl",
+      "slug": "retain-laurie-earl",
+      "section": "State",
+      "type": "yesno",
+      "title": "Laurie Earl \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Laurie Earl",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Laurie Earl should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Laurie Earl in this judicial office.",
+      "no": "Do not retain Laurie Earl in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-lauri-damrell",
+      "slug": "retain-lauri-damrell",
+      "section": "State",
+      "type": "yesno",
+      "title": "Lauri Damrell \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Lauri Damrell",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Lauri Damrell should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Lauri Damrell in this judicial office.",
+      "no": "Do not retain Lauri Damrell in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-david-b-sapp",
+      "slug": "retain-david-b-sapp",
+      "section": "State",
+      "type": "yesno",
+      "title": "David B. Sapp \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain David B. Sapp",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether David B. Sapp should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain David B. Sapp in this judicial office.",
+      "no": "Do not retain David B. Sapp in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-stacy-boulware-eurie",
+      "slug": "retain-stacy-boulware-eurie",
+      "section": "State",
+      "type": "yesno",
+      "title": "Stacy Boulware Eurie \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Stacy Boulware Eurie",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Stacy Boulware Eurie should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Stacy Boulware Eurie in this judicial office.",
+      "no": "Do not retain Stacy Boulware Eurie in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-jonathan-renner",
+      "slug": "retain-jonathan-renner",
+      "section": "State",
+      "type": "yesno",
+      "title": "Jonathan Renner \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Jonathan Renner",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Jonathan Renner should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Jonathan Renner in this judicial office.",
+      "no": "Do not retain Jonathan Renner in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-aimee-a-feinberg",
+      "slug": "retain-aimee-a-feinberg",
+      "section": "State",
+      "type": "yesno",
+      "title": "Aimee A. Feinberg \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Aimee A. Feinberg",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Aimee A. Feinberg should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Aimee A. Feinberg in this judicial office.",
+      "no": "Do not retain Aimee A. Feinberg in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-shama-mesiwala",
+      "slug": "retain-shama-mesiwala",
+      "section": "State",
+      "type": "yesno",
+      "title": "Shama Mesiwala \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Shama Mesiwala",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Shama Mesiwala should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Shama Mesiwala in this judicial office.",
+      "no": "Do not retain Shama Mesiwala in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "us-representative-district-1",
+      "slug": "us-representative-district-1",
+      "title": "U.S. Representative, District 1",
+      "shortTitle": "U.S. Representative, District 1",
+      "section": "Federal",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "type": "single",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "james-gallagher",
+          "name": "James Gallagher",
+          "occupation": "United States Representative/Farmer",
+          "links": [],
+          "party": "Republican"
+        },
+        {
+          "id": "mike-mcguire",
+          "name": "Mike McGuire",
+          "occupation": "California State Senator",
+          "links": [],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "state-assembly-district-1",
+      "slug": "state-assembly-district-1",
+      "title": "State Assembly Member, District 1",
+      "shortTitle": "State Assembly Member, District 1",
+      "section": "State",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "type": "single",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "heather-hadwick",
+          "name": "Heather Hadwick",
+          "occupation": "Farmer/Assemblywoman",
+          "links": [],
+          "party": "Republican"
+        },
+        {
+          "id": "dianna-margaret-james",
+          "name": "Dianna Margaret James",
+          "occupation": "Community Organizer",
+          "links": [],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "lassen-community-college-area-1",
+      "slug": "lassen-community-college-area-1",
+      "title": "Lassen Community College Governing Board, Trustee Area 1",
+      "shortTitle": "Lassen Community College Governing Board, Trustee Area 1",
+      "section": "Local",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "type": "multi",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "robin-m-hanson",
+          "name": "Robin M Hanson",
+          "occupation": "Programs Manager/Incumbent",
+          "links": []
+        },
+        {
+          "id": "sophia-a-wages",
+          "name": "Sophia A. Wages",
+          "occupation": "Incumbent",
+          "links": []
+        },
+        {
+          "id": "angela-c-reed",
+          "name": "Angela C Reed",
+          "occupation": "Domestic Violence Advocate",
+          "links": []
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "lassen-westwood-school-board-full-term",
+      "slug": "lassen-westwood-school-board-full-term",
+      "title": "Westwood Joint Unified School Board \u2014 Full Term",
+      "shortTitle": "Westwood Joint Unified School Board \u2014 Full Term",
+      "section": "Local",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "type": "multi",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "jerilyn-cleeves",
+          "name": "Jerilyn Cleeves",
+          "occupation": "Mother/Student",
+          "links": []
+        },
+        {
+          "id": "deborah-debbie-ceaglio",
+          "name": "Deborah \"Debbie\" Ceaglio",
+          "occupation": "Community Member/Grandmother",
+          "links": []
+        },
+        {
+          "id": "clint-berg",
+          "name": "Clint Berg",
+          "occupation": "Retired Veteran",
+          "links": []
+        },
+        {
+          "id": "elizabeth-gurnee",
+          "name": "Elizabeth Gurnee",
+          "occupation": "Registered Nurse",
+          "links": []
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "lassen-westwood-school-board-short-term",
+      "slug": "lassen-westwood-school-board-short-term",
+      "title": "Westwood Joint Unified School Board \u2014 Short Term",
+      "shortTitle": "Westwood Joint Unified School Board \u2014 Short Term",
+      "section": "Local",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "type": "single",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "talina-schier",
+          "name": "Talina Schier",
+          "occupation": "Certified Nurses Assistant",
+          "links": []
+        },
+        {
+          "id": "jodi-griffin",
+          "name": "Jodi Griffin",
+          "occupation": "Mother",
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lassen-shasta-education-area-2",
+      "slug": "lassen-shasta-education-area-2",
+      "title": "Shasta County Board of Education, Area 2",
+      "shortTitle": "Shasta County Board of Education, Area 2",
+      "section": "Local",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "type": "multi",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "shaye-stephens",
+          "name": "Shaye Stephens",
+          "occupation": "Public School Advocate",
+          "links": []
+        },
+        {
+          "id": "lisa-marie-barry",
+          "name": "Lisa Marie Barry",
+          "occupation": "Public Health/Educator/Administrator",
+          "links": []
+        },
+        {
+          "id": "teresa-roberts",
+          "name": "Teresa Roberts",
+          "occupation": "Entrepreneur/Homemaker/Incumbent",
+          "links": []
+        },
+        {
+          "id": "authur-gorman",
+          "name": "Authur Gorman",
+          "occupation": "Father/Nurse/Trustee",
+          "links": []
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "lassen-fall-river-school-board",
+      "slug": "lassen-fall-river-school-board",
+      "title": "Fall River Joint Unified School District Governing Board",
+      "shortTitle": "Fall River Joint Unified School District Governing Board",
+      "section": "Local",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "type": "multi",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "michelle-corder",
+          "name": "Michelle Corder",
+          "occupation": "Farmer/Educator",
+          "links": []
+        },
+        {
+          "id": "richard-doetch",
+          "name": "Richard Doetch",
+          "occupation": "Parent",
+          "links": []
+        },
+        {
+          "id": "jeanne-norris",
+          "name": "Jeanne Norris",
+          "occupation": "Incumbent",
+          "links": []
+        },
+        {
+          "id": "jennifer-imus",
+          "name": "Jennifer Imus",
+          "occupation": "Veterinarian/Business Owner",
+          "links": []
+        },
+        {
+          "id": "ignacio-iggy-venegas",
+          "name": "Ignacio \"Iggy\" Venegas",
+          "occupation": "Cogen Lead Operator",
+          "links": []
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "lassen-measure-c",
+      "slug": "lassen-measure-c",
+      "section": "Local",
+      "type": "yesno",
+      "title": "Measure C \u2014 Shasta-Tehama-Trinity College Bonds",
+      "shortTitle": "Measure C",
+      "rule": "Vote Yes or No",
+      "summary": "Authorize $129.63 million in bonds to improve Shasta-Tehama-Trinity Joint Community College District facilities, including job training, public safety, nursing, veterans\u2019 facilities, accessibility, and classrooms. Estimated average property taxes are $7.76 per $100,000 of assessed value, raising $7.8 million annually while bonds are outstanding, with audits and independent citizen oversight.",
+      "yes": "Authorize the college facilities bonds and property taxes to repay them.",
+      "no": "Do not authorize these bonds or their repayment taxes.",
+      "yesShort": "Approve",
+      "noShort": "Reject",
+      "threshold": "55% approval required",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "lassen-measure-y",
+      "slug": "lassen-measure-y",
+      "section": "Local",
+      "type": "yesno",
+      "title": "Measure Y \u2014 Lassen Union High School Bonds",
+      "shortTitle": "Measure Y",
+      "rule": "Vote Yes or No",
+      "summary": "Authorize $17.5 million in bonds to modernize Lassen Union High School District facilities, repair HVAC systems, improve safety and security, and expand career technical, agriculture, science, and classroom facilities. Estimated average property taxes are $29.55 per $100,000 of assessed value, raising $1.083 million annually while bonds are outstanding, with audits and citizen oversight.",
+      "yes": "Authorize the school facilities bonds and property taxes to repay them.",
+      "no": "Do not authorize these bonds or their repayment taxes.",
+      "yesShort": "Approve",
+      "noShort": "Reject",
+      "threshold": "55% approval required",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "lassen-measure-z",
+      "slug": "lassen-measure-z",
+      "section": "Local",
+      "type": "yesno",
+      "title": "Measure Z \u2014 Lassen Library Parcel Tax",
+      "shortTitle": "Measure Z",
+      "rule": "Vote Yes or No",
+      "summary": "Increase the annual Lassen Library District special tax within Susanville city limits from $28 to $50 per habitable parcel or living unit in a multiple-unit parcel. Funds support library facilities, materials, technology, programs, and staffing, with annual accountability reporting. The tax begins July 1, 2027 and continues until repealed.",
+      "yes": "Increase the annual library tax to $50 per parcel or living unit.",
+      "no": "Keep the existing annual library tax at $28 per parcel or living unit.",
+      "yesShort": "Approve",
+      "noShort": "Reject",
+      "threshold": "Two-thirds approval required",
+      "links": [
+        {
+          "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+          "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+          "group": "sources"
+        }
+      ]
+    }
+  ],
+  "styles": [
+    {
+      "code": "CP1",
+      "aliases": [
+        "110",
+        "111",
+        "112"
+      ],
+      "label": "CP1 \u00b7 Precincts 110, 111, 112 \u2014 Westwood schools and Lassen College",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "lassen-community-college-area-1",
+        "lassen-westwood-school-board-full-term",
+        "lassen-westwood-school-board-short-term"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "CP4",
+      "aliases": [
+        "117"
+      ],
+      "label": "CP4 \u00b7 Precinct 117 \u2014 Lassen College and Measure Y",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "lassen-community-college-area-1",
+        "lassen-measure-y"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "CP7",
+      "aliases": [
+        "215"
+      ],
+      "label": "CP7 \u00b7 Precinct 215 \u2014 Lassen College and Measures Y/Z",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "lassen-community-college-area-1",
+        "lassen-measure-y",
+        "lassen-measure-z"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "CP16",
+      "aliases": [
+        "410",
+        "414"
+      ],
+      "label": "CP16 \u00b7 Precincts 410, 414 \u2014 Lassen College only",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "lassen-community-college-area-1"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "MB17",
+      "aliases": [
+        "412"
+      ],
+      "label": "MB17 \u00b7 Precinct 412 \u2014 Shasta education, Fall River schools and Measure C",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "lassen-shasta-education-area-2",
+        "lassen-fall-river-school-board",
+        "lassen-measure-c"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "MB29",
+      "aliases": [
+        "511"
+      ],
+      "label": "MB29 \u00b7 Precinct 511 \u2014 No local contests",
+      "contestIds": [
+        "us-representative-district-1",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-assembly-district-1",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45"
+      ],
+      "districts": {
+        "congressional": 1,
+        "stateSenate": 1,
+        "stateAssembly": 1,
+        "boardOfEqualization": 1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Lassen County official voter guide and sample ballots (pages 4\u201315)",
+      "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+      "group": "sources"
+    },
+    {
+      "label": "Lassen County official election page",
+      "url": "https://www.lassencounty.gov/194/Elections",
+      "group": "sources"
+    }
+  ]
+}

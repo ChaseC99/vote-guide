@@ -1,0 +1,855 @@
+{
+  "reportSource": "https://voteinfo.net/sites/g/files/aldnop371/files/2026-10/ElectionSummaryReportRPT%20%285%29.pdf",
+  "reportSha256": "2104393857e8998c59764c0d1084eb6fde9896961ea41eee0f1b6441fe1a7233",
+  "reportContests": 188,
+  "importedContests": 188,
+  "candidateContests": 140,
+  "judicialRetentions": 17,
+  "statePropositions": 14,
+  "localMeasures": 17,
+  "candidateSetsAndVoteLimitsMatch": true,
+  "compositeBoxUnionMatches": true,
+  "knownWriteInOnly": "City of Beaumont Treasurer",
+  "matchedCandidateContests": [
+    {
+      "contestId": "governor",
+      "reportTitle": "Governor",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "lieutenant-governor",
+      "reportTitle": "Lieutenant Governor",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "secretary-of-state",
+      "reportTitle": "Secretary of State",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "controller",
+      "reportTitle": "Controller",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "treasurer",
+      "reportTitle": "Treasurer",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "attorney-general",
+      "reportTitle": "Attorney General",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "insurance-commissioner",
+      "reportTitle": "Insurance Commissioner",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-member-state-board-of-equalization-district-4",
+      "reportTitle": "Member, State Board of Equalization District 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-39th-congressional-district",
+      "reportTitle": "United States Representative 39th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-58th-assembly-district",
+      "reportTitle": "State Assembly 58th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-judicial-judge-of-the-superior-court-office-10",
+      "reportTitle": "Judge of the Superior Court Office #10",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "superintendent-public-instruction",
+      "reportTitle": "State Superintendent Public Instruction",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-jurupa-valley-member-city-council-district-1",
+      "reportTitle": "Jurupa Valley City Council, District 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-jurupa-unified-school-district-governing-board-member-trustee-area-5",
+      "reportTitle": "Mbr Gov Bd Jurupa USD, TA 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-jurupa-valley-member-city-council-district-3",
+      "reportTitle": "Jurupa Valley City Council, District 3",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-jurupa-unified-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Jurupa USD, TA 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-jurupa-area-recreation-and-park-district-director-division-4",
+      "reportTitle": "Dir, Jurupa Area Rec & Park Div 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-jurupa-area-recreation-and-park-district-director-division-5",
+      "reportTitle": "Dir, Jurupa Area Rec & Park Div 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-jurupa-valley-member-city-council-district-5",
+      "reportTitle": "Jurupa Valley City Council, District 5",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-32nd-senatorial-district",
+      "reportTitle": "State Senator 32nd District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-63rd-assembly-district",
+      "reportTitle": "State Assembly 63rd District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-western-municipal-water-district-director-division-2",
+      "reportTitle": "Dir, Western Muni Water Dist Div 2",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-60th-assembly-district",
+      "reportTitle": "State Assembly 60th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-val-verde-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Val Verde USD, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-40th-congressional-district",
+      "reportTitle": "United States Representative 40th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-riverside-unified-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Riverside USD, TA 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-33rd-congressional-district",
+      "reportTitle": "United States Representative 33rd District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-riverside-member-city-council-ward-2",
+      "reportTitle": "Riverside City Council, Ward 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-eastern-municipal-water-district-director-division-5",
+      "reportTitle": "Dir, Eastern Muni Water Dist Div 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-riverside-member-city-council-ward-4",
+      "reportTitle": "Riverside City Council, Ward 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-alvord-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Alvord USD, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-perris-member-city-council-district-1",
+      "reportTitle": "Perris City Council, District 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-perris-city-clerk",
+      "reportTitle": "Perris City Clerk",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-eastern-municipal-water-district-director-division-1",
+      "reportTitle": "Dir, Eastern Muni Water Dist Div 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-val-verde-unified-school-district-governing-board-member-trustee-area-5",
+      "reportTitle": "Mbr Gov Bd Val Verde USD, TA 5",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-perris-member-city-council-district-3",
+      "reportTitle": "Perris City Council, District 3",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-romoland-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Romoland School, TA 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-mt-san-jacinto-community-college-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd, Mt San Jacinto Comm College TA3",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-elsinore-valley-municipal-water-district-director-division-1",
+      "reportTitle": "Dir, Elsinore Vly Muni Water Dist Div 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-jurupa-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Jurupa USD, TA 3",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-35th-congressional-district",
+      "reportTitle": "United States Representative 35th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-corona-norco-unified-school-district-governing-board-member-trustee-area-2",
+      "reportTitle": "Mbr Gov Bd Corona-Norco USD, TA 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-eastvale-member-city-council-district-1",
+      "reportTitle": "Eastvale City Council, District 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-eastvale-member-city-council-district-4",
+      "reportTitle": "Eastvale City Council, District 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-71st-assembly-district",
+      "reportTitle": "State Assembly 71st District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-lake-elsinore-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Lake Elsinore USD, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-murrieta-valley-unified-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Murrieta Valley USD, TA 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-corona-member-city-council-district-1",
+      "reportTitle": "Corona City Council, District 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-corona-member-city-council-district-4",
+      "reportTitle": "Corona City Council, District 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-corona-member-city-council-district-5",
+      "reportTitle": "Corona City Council, District 5",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-lake-elsinore-member-city-council-district-1-full-term",
+      "reportTitle": "Lake Elsinore City Council, District 1, FT",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-lake-elsinore-member-city-council-district-3-full-term",
+      "reportTitle": "Lake Elsinore City Council, District 3, FT",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-lake-elsinore-member-city-council-district-4-short-term",
+      "reportTitle": "Lake Elsinore City Council, District 4, ST",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-canyon-lake-member-city-council",
+      "reportTitle": "Canyon Lake City Council",
+      "choices": 3,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-city-of-menifee-member-city-council-district-2",
+      "reportTitle": "Menifee City Council, District 2",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-perris-union-high-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Perris Union High, TA 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-menifee-union-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Menifee Union School, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-romoland-school-district-governing-board-member-trustee-area-5",
+      "reportTitle": "Mbr Gov Bd Romoland School, TA 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-menifee-member-city-council-district-4",
+      "reportTitle": "Menifee City Council, District 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-48th-congressional-district",
+      "reportTitle": "United States Representative 48th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-temecula-valley-unified-school-district-governing-board-member-trustee-area-2",
+      "reportTitle": "Mbr Gov Bd Temecula Valley USD, TA 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-temecula-valley-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Temecula Valley USD, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-wildomar-member-city-council-district-5",
+      "reportTitle": "Wildomar City Council, District 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-23rd-congressional-district",
+      "reportTitle": "United States Representative 23rd District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-36th-assembly-district",
+      "reportTitle": "State Assembly 36th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-romoland-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Romoland School, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-murrieta-valley-unified-school-district-governing-board-member-trustee-area-2",
+      "reportTitle": "Mbr Gov Bd Murrieta Valley USD, TA 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-rancho-california-water-district-director",
+      "reportTitle": "Dir, Rancho California Water Dist",
+      "choices": 5,
+      "voteLimit": 4
+    },
+    {
+      "contestId": "riverside-city-of-murrieta-member-city-council-district-2",
+      "reportTitle": "Murrieta City Council, District 2",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-murrieta-member-city-council-district-5",
+      "reportTitle": "Murrieta City Council, District 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-hemet-unified-school-district-governing-board-member-trustee-area-7",
+      "reportTitle": "Mbr Gov Bd Hemet USD, TA 7",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-temecula-valley-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Temecula Valley USD, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-temecula-member-city-council-district-5",
+      "reportTitle": "Temecula City Council, District 5",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-25th-congressional-district",
+      "reportTitle": "United States Representative 25th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-47th-assembly-district",
+      "reportTitle": "State Assembly 47th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-hemet-unified-school-district-governing-board-member-trustee-area-5",
+      "reportTitle": "Mbr Gov Bd Hemet USD, TA 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-palm-springs-unified-school-district-governing-board-member-trustee-area-5",
+      "reportTitle": "Mbr Gov Bd Palm Springs USD, TA 5",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-desert-hot-springs-member-city-council-district-1",
+      "reportTitle": "Desert Hot Springs City Council District 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-desert-healthcare-district-director-zone-2-full-term",
+      "reportTitle": "Dir, Desert Healthcare, Zone 2, FT",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-coachella-valley-water-district-director-division-1-full-term",
+      "reportTitle": "Dir, Coachella Valley Water Dist Div 1, FT",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-palm-springs-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Palm Springs USD, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-desert-hot-springs-member-city-council-district-3",
+      "reportTitle": "Desert Hot Springs City Council District 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-san-gorgonio-pass-water-agency-director-at-large-2",
+      "reportTitle": "Dir, San Gorgonio Pass Water Agency At Large 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-palm-springs-member-city-council-district-1",
+      "reportTitle": "Palm Springs City Council, District 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-desert-healthcare-district-director-zone-1-short-term",
+      "reportTitle": "Dir, Desert Healthcare, Zone 1, ST",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-palm-springs-member-city-council-district-2",
+      "reportTitle": "Palm Springs City Council, District 2",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-palm-springs-member-city-council-district-3",
+      "reportTitle": "Palm Springs City Council, District 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-cathedral-city-treasurer",
+      "reportTitle": "Cathedral City Treasurer",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-cathedral-city-member-city-council-district-3",
+      "reportTitle": "Cathedral City Council, District 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-cathedral-city-member-city-council-district-4",
+      "reportTitle": "Cathedral City Council, District 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-cathedral-city-member-city-council-district-5",
+      "reportTitle": "Cathedral City Council, District 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-desert-recreation-district-director-division-4",
+      "reportTitle": "Dir, Desert Rec Div 4",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-18th-senatorial-district",
+      "reportTitle": "State Senator 18th District",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-desert-healthcare-district-director-zone-5-short-term",
+      "reportTitle": "Dir, Desert Healthcare, Zone 5, ST",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-coachella-valley-water-district-director-division-4-short-term",
+      "reportTitle": "Dir, Coachella Valley Water Dist Div 4, ST",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-rancho-mirage-member-city-council",
+      "reportTitle": "Rancho Mirage City Council",
+      "choices": 3,
+      "voteLimit": 3
+    },
+    {
+      "contestId": "riverside-city-of-palm-desert-member-city-council-district-4",
+      "reportTitle": "Palm Desert City Council, District 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-palm-desert-member-city-council-district-5",
+      "reportTitle": "Palm Desert City Council, District 5",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-indian-wells-member-city-council",
+      "reportTitle": "Indian Wells City Council",
+      "choices": 3,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-city-of-la-quinta-mayor",
+      "reportTitle": "La Quinta Mayor",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-la-quinta-member-city-council",
+      "reportTitle": "La Quinta City Council",
+      "choices": 4,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-coachella-valley-unified-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Coachella Valley USD, TA 1",
+      "choices": 4,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-city-of-indio-member-city-council-district-2",
+      "reportTitle": "Indio City Council, District 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-indio-member-city-council-district-3",
+      "reportTitle": "Indio City Council, District 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-indio-member-city-council-district-4",
+      "reportTitle": "Indio City Council, District 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-coachella-mayor",
+      "reportTitle": "Coachella City Mayor",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-coachella-member-city-council",
+      "reportTitle": "Coachella City Council",
+      "choices": 5,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-palo-verde-community-college-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Palo Verde Comm College, TA 1",
+      "choices": 8,
+      "voteLimit": 3
+    },
+    {
+      "contestId": "riverside-palo-verde-unified-school-district-governing-board-member",
+      "reportTitle": "Mbr Gov Bd Palo Verde USD",
+      "choices": 5,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-city-of-blythe-member-city-council",
+      "reportTitle": "Blythe City Council",
+      "choices": 6,
+      "voteLimit": 3
+    },
+    {
+      "contestId": "riverside-city-of-blythe-city-clerk",
+      "reportTitle": "Blythe City Clerk",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-blythe-treasurer",
+      "reportTitle": "Blythe City Treasurer",
+      "choices": 1,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-palo-verde-healthcare-district-director",
+      "reportTitle": "Dir, Palo Verde Healthcare",
+      "choices": 6,
+      "voteLimit": 3
+    },
+    {
+      "contestId": "riverside-city-of-moreno-valley-mayor",
+      "reportTitle": "Moreno Valley City Mayor",
+      "choices": 6,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-moreno-valley-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Moreno Valley USD, TA 4",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-moreno-valley-member-city-council-district-2",
+      "reportTitle": "Moreno Valley City Council, District 2",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-moreno-valley-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Moreno Valley USD, TA 3",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-moreno-valley-member-city-council-district-4",
+      "reportTitle": "Moreno Valley City Council, District 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-beaumont-unified-school-district-governing-board-member-trustee-area-2",
+      "reportTitle": "Mbr Gov Bd Beaumont USD, TA 2",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-san-gorgonio-pass-water-agency-director-division-4",
+      "reportTitle": "Dir, San Gorgonio Pass Water Agency Div 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-beaumont-cherry-valley-water-district-director-division-3",
+      "reportTitle": "Dir, Beaumont-Cherry Vly Water Dist Div 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-beaumont-unified-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Beaumont USD, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-san-gorgonio-pass-water-agency-director-division-3",
+      "reportTitle": "Dir, San Gorgonio Pass Water Agency Div 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-nuview-union-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Nuview Union School, TA 1",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-nuview-union-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Nuview Union School, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-nuview-union-school-district-governing-board-member-trustee-area-4",
+      "reportTitle": "Mbr Gov Bd Nuview Union School, TA 4",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-colton-joint-unified-school-district-governing-board-member-trustee-area-1",
+      "reportTitle": "Mbr Gov Bd Colton Joint USD, TA 1",
+      "choices": 4,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-colton-joint-unified-school-district-governing-board-member-trustee-area-2",
+      "reportTitle": "Mbr Gov Bd Colton Joint USD, TA 2",
+      "choices": 3,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-colton-joint-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Colton Joint USD, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-beaumont-member-city-council",
+      "reportTitle": "Beaumont City Council",
+      "choices": 6,
+      "voteLimit": 3
+    },
+    {
+      "contestId": "riverside-city-of-beaumont-city-clerk",
+      "reportTitle": "Beaumont City Clerk",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-beaumont-treasurer",
+      "reportTitle": "Beaumont City Treasurer",
+      "choices": 0,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-beaumont-cherry-valley-recreation-and-park-district-director-division-1",
+      "reportTitle": "Dir, Beaumont-Cherry Valley Rec & Park Div 1",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-beaumont-unified-school-district-governing-board-member-trustee-area-3",
+      "reportTitle": "Mbr Gov Bd Beaumont USD, TA 3",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-banning-member-city-council-district-4",
+      "reportTitle": "Banning City Council, District 4",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-banning-member-city-council-district-5",
+      "reportTitle": "Banning City Council, District 5",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-san-jacinto-member-city-council",
+      "reportTitle": "San Jacinto City Council",
+      "choices": 4,
+      "voteLimit": 2
+    },
+    {
+      "contestId": "riverside-city-of-hemet-member-city-council-district-1-short-term",
+      "reportTitle": "Hemet City Council, District 1, ST",
+      "choices": 3,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-hemet-member-city-council-district-2-full-term",
+      "reportTitle": "Hemet City Council, District 2, FT",
+      "choices": 2,
+      "voteLimit": 1
+    },
+    {
+      "contestId": "riverside-city-of-hemet-member-city-council-district-5-full-term",
+      "reportTitle": "Hemet City Council, District 5, FT",
+      "choices": 2,
+      "voteLimit": 1
+    }
+  ]
+}

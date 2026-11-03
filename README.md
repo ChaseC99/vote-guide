@@ -1,6 +1,8 @@
 # Voter guide worksheet
 
-A personal, neutral ballot worksheet built with Astro, React, and TypeScript. It contains the **November 3, 2026 San Francisco election** for Congressional District 11, Assembly District 19, Supervisorial District 7, and BART District 8. Nothing in this project is an official ballot or a recommendation.
+A personal, neutral California ballot worksheet built with Astro, React, and TypeScript. Users choose a county, enter an official ballot-type code or match contests from their sample ballot, confirm the complete contest list, then open a private worksheet. Everything is served statically; no backend, API key, address collection, or account is required. Nothing in this project is an official ballot or a recommendation.
+
+**Current coverage:** 3,109 ballot types across 15 counties: 11 counties have complete published ballot-type coverage; Alameda, Lassen, Marin, and San Francisco have partial coverage. The other 43 counties link to their official elections office. **This is not yet full statewide coverage.** Run `npm run data:coverage` for the current report across all 58 counties. See the [county import notes](src/data/elections/2026-11-03/README.md) for sources and known gaps.
 
 ## Local development
 
@@ -24,19 +26,44 @@ npm run preview
 
 ## Implemented flows
 
+- County selection downloads only that county's small matching catalog. Fetch failures offer retry and an official-office link; changing counties cancels the previous load and resets matching.
+- Ballot codes are exact county/election-scoped identifiers, with surrounding whitespace ignored. No fuzzy matching, precinct-number substitution, or guessed code aliases.
+- Guided matching first checks a common contest, then asks balanced questions that distinguish the remaining ballot types. “I'm not sure” skips without filtering. Previous/start-over controls allow corrections; unresolved differences never open a worksheet.
+- Several printed codes may contain identical contests. The UI explains this and offers their shared worksheet without claiming to know the exact printed code. Every result requires reviewing the full contest list and confirming it matches the official ballot.
 - A full worksheet becomes a desktop side panel when a contest opens. Escape or Expand returns to all contests.
-- Each contest has a statically generated URL under `/contest/`. Browser Back and direct-link refresh work without a server-side routing fallback.
+- Each ballot has a static page under `/ballot/2026-11-03/<county>/<code>/`. Contests use bookmarkable `#contest/<slug>` fragments and completion uses `#complete`. Browser Back and direct-link refresh work without a routing fallback or thousands of duplicated HTML pages. Original `/contest/` links redirect to the corresponding personal worksheet.
 - Yes/No and single-choice contests toggle one selection. Multiple choice enforces its declared limit. Ranked choice moves an occupied rank to the new candidate and retains skipped ranks.
 - On phones, the header has section progress ticks and All navigation; the bottom bar has Previous, Notes, Next, and quick Yes/No controls. The final contest leads to `/complete/`.
-- Selections and notes save immediately in `localStorage`, using a versioned key specific to the ballot. No initial write happens before restoration. Invalid candidate IDs and ranks are discarded during restoration; unavailable storage produces a visible warning.
+- Selections and notes save immediately in `localStorage`, using an election/county/contest-set key. Equivalent ballot codes share choices; different contest sets stay separate. The existing personal worksheet key is preserved for types 1, 19, 25, and 26. No initial write happens before restoration. Invalid candidate IDs and ranks are discarded during restoration; unavailable storage produces a visible warning.
 - About saving & privacy explains storage and offers an erase action with confirmation. Erasing affects this ballot only.
-- Print / PDF offers selections alone or selections with notes. The print stylesheet hides application controls and formats the 55-contest worksheet as a compact list across pages. Long notes can extend beyond one page without truncation.
+- Print / PDF offers selections alone or selections with notes, labeled with ballot type(s). Long notes can extend beyond one page without truncation.
+
+## Static election data
+
+`src/data/counties.json` contains the 58 office links published in the [California Secretary of State directory](https://www.sos.ca.gov/elections/voting-resources/county-elections-offices). Four links remain HTTP exactly as published. `src/data/catalog.ts` discovers and validates county imports and builds both the small public matching catalogs and the full worksheet pages. The homepage contains only county metadata, not all candidate content. The matching JSON endpoint is pre-rendered during `astro build`; it is not a running API.
+
+`src/data/elections/2026-11-03/` contains the official SF cross-reference snapshot, the official-to-app contest ID map, generated ballot styles, and the additional district contests. The [SF datasets page](https://sfelections.org/tools/election_data/datasets.php) publishes the source files. Candidate names and designations for added contests come from `CFMJ001_ContestCandidateData.txt`; full raw candidate exports (which can contain contact/address fields) are not checked in. Only public ballot fields are used.
+
+Refresh the ballot-type mapping offline:
+
+```sh
+npm run import:sf -- /path/to/EWMJ014_ContestBalTypeXref.txt
+npm run check
+npm test
+npm run build
+```
+
+Without an argument, the importer uses the checked-in snapshot. Unknown contest IDs, duplicate entries, and other elections fail the import. Review the data diff, refresh candidate/measure content as needed, replace the source snapshot, and update the verification date before publishing. Do not infer ballot types from a ZIP code or from incomplete district lists.
+
+For another county, add a verified bundle under `src/data/elections/2026-11-03/counties/`. It is registered automatically. The bundle includes full contests, code-to-contest mappings, verified aliases, official links, and explicit coverage. Shared statewide content is reused only through explicit verified references; SF local contests cannot leak into other counties. See the [import contract and checks](src/data/elections/2026-11-03/README.md). Future primary elections also need party/ballot eligibility distinctions in their imported styles.
+
+Ranked contests support up to ten listed candidates. Verified write-in-only offices provide a private name field that saves and prints with the worksheet; the app does not determine write-in eligibility. Other contests do not add unnamed write-in entries. Candidate rotation is not reproduced; compare the worksheet with the official ballot.
 
 ## Source layout and verification
 
 `src/pages/` provides static Astro entry points, `src/components/` contains the React interface, `src/lib/selections.ts` holds voting and restoration rules, and `src/styles/global.css` contains responsive and print styles. Use `npm run format` for consistent formatting.
 
-`npm test` covers choice replacement, selection limits, rank reassignment, skipped ranks, restoration, print ordering, and invalid content. Type checking and a static production build are available through `npm run check` and `npm run build`.
+`npm test` covers every imported county ballot and guided-match outcome, exact code aliases, source requirements, choice replacement, selection limits, rank reassignment, skipped ranks, write-in-only restoration/printing, and invalid content. Type checking and a static production build are available through `npm run check` and `npm run build`.
 
 Browser checks cover desktop and 320px phone layouts, saved selections and notes after refresh, browser Back, the worksheet return marker, Notes navigation, and the print-options dialog. Native print-preview rendering still needs a manual check in your preferred browser; the automated browser could not inspect that system dialog.
 

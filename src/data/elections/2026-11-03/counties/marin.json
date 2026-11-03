@@ -1,0 +1,1469 @@
+{
+  "countyId": "marin",
+  "countyName": "Marin",
+  "jurisdiction": "Marin County",
+  "electionId": "2026-11-03",
+  "verifiedOn": "2026-11-02",
+  "coverage": "partial",
+  "coverageNote": "Includes Marin ballot types 10, 53, 56, and 84 only. Other Marin ballot types are not loaded; use your county voter information guide for your ballot type.",
+  "sourceUrl": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election",
+  "lookupUrl": "https://www.marincounty.gov/departments/elections",
+  "codeHelp": "Enter ballot type 10, 53, 56, or 84 if it appears on your official Marin County sample ballot. Other ballot types are not yet supported.",
+  "screeningContestId": "governor",
+  "styles": [
+    {
+      "code": "10",
+      "aliases": [
+        "0010",
+        "BT10",
+        "BT 10"
+      ],
+      "label": "Ballot type 10",
+      "contestIds": [
+        "us-representative-district-2",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-2",
+        "state-senate-district-2",
+        "state-assembly-district-12",
+        "retain-kelli-m-evans",
+        "retain-joshua-groban",
+        "retain-charles-a-smiley",
+        "retain-kathleen-m-banke",
+        "retain-monique-langhorne-wilson",
+        "retain-therese-m-stewart",
+        "retain-tara-m-desautels",
+        "retain-ioana-petrou",
+        "retain-victor-a-rodriguez",
+        "retain-tracie-l-brown",
+        "retain-mark-simons",
+        "retain-danny-y-chou",
+        "retain-gordon-burns",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "marin-county-board-of-education-area-3",
+        "marin-san-rafael-council-district-2",
+        "marin-healthcare-district-division-1",
+        "marin-measure-p",
+        "marin-measure-w",
+        "marin-measure-cc"
+      ],
+      "districts": {
+        "congressional": 2,
+        "senate": 2,
+        "assembly": 12,
+        "boardOfEqualization": 2
+      }
+    },
+    {
+      "code": "53",
+      "aliases": [
+        "0053",
+        "BT53",
+        "BT 53"
+      ],
+      "label": "Ballot type 53",
+      "contestIds": [
+        "us-representative-district-2",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-2",
+        "state-senate-district-2",
+        "state-assembly-district-12",
+        "retain-kelli-m-evans",
+        "retain-joshua-groban",
+        "retain-charles-a-smiley",
+        "retain-kathleen-m-banke",
+        "retain-monique-langhorne-wilson",
+        "retain-therese-m-stewart",
+        "retain-tara-m-desautels",
+        "retain-ioana-petrou",
+        "retain-victor-a-rodriguez",
+        "retain-tracie-l-brown",
+        "retain-mark-simons",
+        "retain-danny-y-chou",
+        "retain-gordon-burns",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "marin-county-board-of-education-area-6",
+        "marin-tamalpais-union-high-school-board",
+        "marin-sausalito-marin-city-school-board",
+        "marin-measure-p",
+        "marin-measure-cc"
+      ],
+      "districts": {
+        "congressional": 2,
+        "senate": 2,
+        "assembly": 12,
+        "boardOfEqualization": 2
+      }
+    },
+    {
+      "code": "56",
+      "aliases": [
+        "0056",
+        "BT56",
+        "BT 56"
+      ],
+      "label": "Ballot type 56",
+      "contestIds": [
+        "us-representative-district-2",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-2",
+        "state-senate-district-2",
+        "state-assembly-district-12",
+        "retain-kelli-m-evans",
+        "retain-joshua-groban",
+        "retain-charles-a-smiley",
+        "retain-kathleen-m-banke",
+        "retain-monique-langhorne-wilson",
+        "retain-therese-m-stewart",
+        "retain-tara-m-desautels",
+        "retain-ioana-petrou",
+        "retain-victor-a-rodriguez",
+        "retain-tracie-l-brown",
+        "retain-mark-simons",
+        "retain-danny-y-chou",
+        "retain-gordon-burns",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "marin-county-board-of-education-area-5",
+        "marin-tamalpais-union-high-school-board",
+        "marin-southern-marin-fire-protection-director",
+        "marin-strawberry-recreation-director-short-term",
+        "marin-strawberry-recreation-director",
+        "marin-richardson-bay-sanitary-director",
+        "marin-measure-p",
+        "marin-measure-cc"
+      ],
+      "districts": {
+        "congressional": 2,
+        "senate": 2,
+        "assembly": 12,
+        "boardOfEqualization": 2
+      }
+    },
+    {
+      "code": "84",
+      "aliases": [
+        "0084",
+        "BT84",
+        "BT 84"
+      ],
+      "label": "Ballot type 84",
+      "contestIds": [
+        "us-representative-district-2",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-2",
+        "state-senate-district-2",
+        "state-assembly-district-12",
+        "retain-kelli-m-evans",
+        "retain-joshua-groban",
+        "retain-charles-a-smiley",
+        "retain-kathleen-m-banke",
+        "retain-monique-langhorne-wilson",
+        "retain-therese-m-stewart",
+        "retain-tara-m-desautels",
+        "retain-ioana-petrou",
+        "retain-victor-a-rodriguez",
+        "retain-tracie-l-brown",
+        "retain-mark-simons",
+        "retain-danny-y-chou",
+        "retain-gordon-burns",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "marin-bel-marin-keys-community-services-director",
+        "marin-measure-p"
+      ],
+      "districts": {
+        "congressional": 2,
+        "senate": 2,
+        "assembly": 12,
+        "boardOfEqualization": 2
+      }
+    }
+  ],
+  "sharedContestIds": [
+    "governor",
+    "lieutenant-governor",
+    "secretary-of-state",
+    "controller",
+    "treasurer",
+    "attorney-general",
+    "insurance-commissioner",
+    "board-of-equalization-district-2",
+    "retain-kelli-m-evans",
+    "retain-joshua-groban",
+    "retain-charles-a-smiley",
+    "retain-kathleen-m-banke",
+    "retain-monique-langhorne-wilson",
+    "retain-therese-m-stewart",
+    "retain-tara-m-desautels",
+    "retain-ioana-petrou",
+    "retain-victor-a-rodriguez",
+    "retain-tracie-l-brown",
+    "retain-mark-simons",
+    "retain-danny-y-chou",
+    "retain-gordon-burns",
+    "superintendent-public-instruction",
+    "state-prop-1",
+    "state-prop-2",
+    "state-prop-3",
+    "state-prop-4",
+    "state-prop-5",
+    "state-prop-37",
+    "state-prop-38",
+    "state-prop-39",
+    "state-prop-40",
+    "state-prop-41",
+    "state-prop-42",
+    "state-prop-43",
+    "state-prop-44",
+    "state-prop-45"
+  ],
+  "contests": [
+    {
+      "id": "us-representative-district-2",
+      "slug": "us-representative-district-2",
+      "type": "single",
+      "section": "Federal",
+      "title": "U.S. Representative, District 2",
+      "shortTitle": "U.S. Representative, District 2",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 84 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "jared-huffman",
+          "name": "Jared Huffman",
+          "occupation": "U.S. Representative",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "robin-littau",
+          "name": "Robin Littau",
+          "occupation": "Enterprise Elementary School Board Member",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "state-senate-district-2",
+      "slug": "state-senate-district-2",
+      "type": "single",
+      "section": "State",
+      "title": "State Senator, District 2",
+      "shortTitle": "State Senator, District 2",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 84 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "tief-gibbs",
+          "name": "Tief Gibbs",
+          "occupation": "Small Businesswoman",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        },
+        {
+          "id": "damon-connolly",
+          "name": "Damon Connolly",
+          "occupation": "California State Assemblymember",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "state-assembly-district-12",
+      "slug": "state-assembly-district-12",
+      "type": "single",
+      "section": "State",
+      "title": "State Assembly Member, District 12",
+      "shortTitle": "State Assembly Member, District 12",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 84 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "jackie-elward",
+          "name": "Jackie Elward",
+          "occupation": "Councilwoman / Educator",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "eric-lucan",
+          "name": "Eric Lucan",
+          "occupation": "County Supervisor / Father",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "marin-county-board-of-education-area-6",
+      "slug": "marin-county-board-of-education-area-6",
+      "type": "single",
+      "section": "Local",
+      "title": "Marin County Board of Education, Trustee Area 6",
+      "shortTitle": "Marin County Board of Education, Trustee Area 6",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "curtis-f-robinson",
+          "name": "Curtis F. Robinson",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "james-goddard",
+          "name": "James Goddard",
+          "occupation": "Chief Financial Officer",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-tamalpais-union-high-school-board",
+      "slug": "marin-tamalpais-union-high-school-board",
+      "type": "multi",
+      "section": "Local",
+      "title": "Tamalpais Union High School District Governing Board",
+      "shortTitle": "Tamalpais Union High School District Governing Board",
+      "rule": "Vote for no more than 3.",
+      "summary": "Choose up to 3 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "leslie-j-harlander",
+          "name": "Leslie J. Harlander",
+          "occupation": "Retired Civil Engineer",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "valerie-wynn",
+          "name": "Valerie Wynn",
+          "occupation": "Retired District Teacher",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "joy-scully-koo",
+          "name": "Joy Scully Koo",
+          "occupation": "Community Advocate / Parent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "kevin-c-saavedra",
+          "name": "Kevin C. Saavedra",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "maria-d-sandoval",
+          "name": "Maria D. Sandoval",
+          "occupation": "Spanish Teacher",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "brian-a-sutherland",
+          "name": "Brian A. Sutherland",
+          "occupation": "Constitutional Lawyer / Parent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "cynthia-c-roenisch",
+          "name": "Cynthia C. Roenisch",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            },
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "marin-sausalito-marin-city-school-board",
+      "slug": "marin-sausalito-marin-city-school-board",
+      "type": "multi",
+      "section": "Local",
+      "title": "Sausalito Marin City School District Governing Board",
+      "shortTitle": "Sausalito Marin City School District Governing Board",
+      "rule": "Vote for no more than 3.",
+      "summary": "Choose up to 3 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "leshawn-holcomb",
+          "name": "Leshawn Holcomb",
+          "occupation": "Educator / Nonprofit Director",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "lauren-j-walters",
+          "name": "Lauren J. Walters",
+          "occupation": "Trustee, Sausalito Marin City School District",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "eduardo-vazquez-rodriguez",
+          "name": "Eduardo Vazquez Rodriguez",
+          "occupation": "Social Worker / Parent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "alena-maunder",
+          "name": "Alena Maunder",
+          "occupation": "Registered Nurse",
+          "links": [
+            {
+              "label": "Official Marin ballot type 53 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "marin-measure-p",
+      "slug": "marin-measure-p",
+      "type": "yesno",
+      "section": "Local",
+      "title": "Measure P \u2014 County of Marin Childcare Initiative",
+      "shortTitle": "Measure P",
+      "rule": "Vote yes or no.",
+      "summary": "Shall the Marin County Child Care Initiative be adopted to levy a special parcel tax of 5 cents per building square foot, generating approximately $12.5 million annually for fifteen years, to fund affordable childcare and high-quality early childhood education and improve compensation to retain and attract educators, with public disclosure, optional annual inflation adjustments, and a corresponding increase in the County appropriations limit, with all funds used locally in Marin County?",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 84 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+          "group": "sources"
+        }
+      ],
+      "yes": "Approve this measure.",
+      "no": "Reject this measure.",
+      "yesShort": "Approve",
+      "noShort": "Reject"
+    },
+    {
+      "id": "marin-measure-cc",
+      "slug": "marin-measure-cc",
+      "type": "yesno",
+      "section": "Local",
+      "title": "Measure CC \u2014 Marin Healthcare District",
+      "shortTitle": "Measure CC",
+      "rule": "Vote yes or no.",
+      "summary": "Shall the measure funding expanded and upgraded emergency room, intensive care, hospital, and other medical facilities to care for trauma, heart attack, stroke, and other patients and attract qualified doctors and nurses, with no funds for administrator salaries, by enacting a parcel tax of 14 cents per square foot of improved building area annually, generating approximately $12,400,000 annually for 30 years, subject to annual audits and citizens' committee oversight, be adopted?",
+      "links": [
+        {
+          "label": "Official Marin ballot type 53 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "yes": "Approve this measure.",
+      "no": "Reject this measure.",
+      "yesShort": "Approve",
+      "noShort": "Reject"
+    },
+    {
+      "id": "marin-county-board-of-education-area-3",
+      "slug": "marin-county-board-of-education-area-3",
+      "type": "single",
+      "section": "Local",
+      "title": "Marin County Board of Education, Trustee Area 3",
+      "shortTitle": "Marin County Board of Education, Trustee Area 3",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "craig-stuart-adams",
+          "name": "Craig Stuart Adams",
+          "occupation": "Realtor / Author",
+          "links": [
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "cynthia-johanson-irish",
+          "name": "Cynthia Johanson Irish",
+          "occupation": "Appointed Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-san-rafael-council-district-2",
+      "slug": "marin-san-rafael-council-district-2",
+      "type": "single",
+      "section": "Local",
+      "title": "City of San Rafael Councilmember, District 2",
+      "shortTitle": "City of San Rafael Councilmember, District 2",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "eli-hill",
+          "name": "Eli Hill",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-healthcare-district-division-1",
+      "slug": "marin-healthcare-district-division-1",
+      "type": "single",
+      "section": "Local",
+      "title": "Marin Healthcare District Director, Division 1",
+      "shortTitle": "Marin Healthcare District Director, Division 1",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "kendra-hoepper",
+          "name": "Kendra Hoepper",
+          "occupation": "Administrator / Professor / Nurse",
+          "links": [
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "clayton-hess",
+          "name": "Clayton Hess",
+          "occupation": "Public Health Physician",
+          "links": [
+            {
+              "label": "Official Marin ballot type 10 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-county-board-of-education-area-5",
+      "slug": "marin-county-board-of-education-area-5",
+      "type": "single",
+      "section": "Local",
+      "title": "Marin County Board of Education, Trustee Area 5",
+      "shortTitle": "Marin County Board of Education, Trustee Area 5",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "avery-lieberman",
+          "name": "Avery Lieberman",
+          "occupation": "Dentist / Inventor / Parent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "marilyn-nemzer",
+          "name": "Marilyn Nemzer",
+          "occupation": "Trustee, Marin County Board of Education, Trustee Area 5",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-southern-marin-fire-protection-director",
+      "slug": "marin-southern-marin-fire-protection-director",
+      "type": "multi",
+      "section": "Local",
+      "title": "Southern Marin Fire Protection District Director",
+      "shortTitle": "Southern Marin Fire Protection District Director",
+      "rule": "Vote for no more than 4.",
+      "summary": "Choose up to 4 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "kurt-chun",
+          "name": "Kurt Chun",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "thomas-clark",
+          "name": "Thomas Clark",
+          "occupation": "Retired",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "thomas-w-perazzo",
+          "name": "Thomas W. Perazzo",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "cristine-soto-deberry",
+          "name": "Cristine Soto Deberry",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "amy-svendberg",
+          "name": "Amy Svendberg",
+          "occupation": "Small Business Owner",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "eric-steinhofer",
+          "name": "Eric Steinhofer",
+          "occupation": "Energy Consultant",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "peter-fleming",
+          "name": "Peter Fleming",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 4
+    },
+    {
+      "id": "marin-strawberry-recreation-director-short-term",
+      "slug": "marin-strawberry-recreation-director-short-term",
+      "type": "single",
+      "section": "Local",
+      "title": "Strawberry Recreation District Director \u2014 Short Term",
+      "shortTitle": "Strawberry Recreation District Director \u2014 Short Term",
+      "rule": "Vote for one.",
+      "summary": "Choose one candidate for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "aliza-hawkins",
+          "name": "Aliza Hawkins",
+          "occupation": "Businesswoman / Mother",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "doug-twillman",
+          "name": "Doug Twillman",
+          "occupation": "Appointed Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marin-strawberry-recreation-director",
+      "slug": "marin-strawberry-recreation-director",
+      "type": "multi",
+      "section": "Local",
+      "title": "Strawberry Recreation District Director",
+      "shortTitle": "Strawberry Recreation District Director",
+      "rule": "Vote for no more than 3.",
+      "summary": "Choose up to 3 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "sarah-g-waterfield",
+          "name": "Sarah G. Waterfield",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "sohrab-saghezchi",
+          "name": "Sohrab Saghezchi",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "david-t-morgenthaler",
+          "name": "David T. Morgenthaler",
+          "occupation": "Father / Community Advocate",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "peter-teese",
+          "name": "Peter Teese",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "marin-richardson-bay-sanitary-director",
+      "slug": "marin-richardson-bay-sanitary-director",
+      "type": "multi",
+      "section": "Local",
+      "title": "Richardson Bay Sanitary District Director",
+      "shortTitle": "Richardson Bay Sanitary District Director",
+      "rule": "Vote for no more than 3.",
+      "summary": "Choose up to 3 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 56 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "patrick-walravens",
+          "name": "Patrick Walravens",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "mark-fitzgerald",
+          "name": "Mark Fitzgerald",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "peter-mcintosh",
+          "name": "Peter McIntosh",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "john-turnacliff",
+          "name": "John Turnacliff",
+          "occupation": "Equipment Financing Executive",
+          "links": [
+            {
+              "label": "Official Marin ballot type 56 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "marin-bel-marin-keys-community-services-director",
+      "slug": "marin-bel-marin-keys-community-services-director",
+      "type": "multi",
+      "section": "Local",
+      "title": "Bel Marin Keys Community Services District Director",
+      "shortTitle": "Bel Marin Keys Community Services District Director",
+      "rule": "Vote for no more than 2.",
+      "summary": "Choose up to 2 candidates for this office. Names and ballot designations are from the official Marin County sample ballot.",
+      "links": [
+        {
+          "label": "Official Marin ballot type 84 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "vincent-p-lattanzio",
+          "name": "Vincent P. Lattanzio",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "kevin-dugan",
+          "name": "Kevin Dugan",
+          "occupation": "No ballot designation provided",
+          "links": [
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "steven-nash",
+          "name": "Steven Nash",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Official Marin ballot type 84 sample ballot",
+              "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "marin-measure-w",
+      "slug": "marin-measure-w",
+      "type": "yesno",
+      "section": "Local",
+      "title": "Measure W \u2014 San Rafael Essential Services Protection",
+      "shortTitle": "Measure W",
+      "rule": "Vote yes or no.",
+      "summary": "San Rafael Essential Services Protection Measure. To provide locally controlled funding for essential city services, such as fire protection, paramedics, rapid 9-1-1 emergency response times; preventing street/road deterioration; addressing impacts of homelessness/litter/illegal dumping; and other services, shall the City of San Rafael\u2019s measure be adopted increasing the current real property transfer tax rate from 0.2% to 1% (only paid upon sale), generating approximately $7,500,000 annually until ended by voters, with annual audits and public spending disclosure?",
+      "links": [
+        {
+          "label": "Official Marin ballot type 10 sample ballot",
+          "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+          "group": "sources"
+        },
+        {
+          "label": "Official Marin Measure W question and impartial analysis",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326",
+          "group": "sources"
+        }
+      ],
+      "yes": "Approve this measure.",
+      "no": "Reject this measure.",
+      "yesShort": "Approve",
+      "noShort": "Reject"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Marin ballot type 53 sample ballot",
+      "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 53 guide",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/voter-information-guide-110326-bt-0053",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin local candidate list",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-and-about-candidates-110326/local-candidates-ballot-110326",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 10 sample ballot",
+      "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT10.pdf?VersionId=74OwpEdYpuO8Bj16o8ZLnDb7vC8P7FqX",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 10 guide",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/voter-information-guide-110326-bt-0010",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 56 sample ballot",
+      "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT56.pdf?VersionId=O7esuroCK3pnsCnHAJCY71OBBOwkpFwU",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 56 guide",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/voter-information-guide-110326-bt-0056",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 84 sample ballot",
+      "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT84.pdf?VersionId=aZNAwyNeGDbyUNmb20yiWl2IjfYo4Kjh",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 84 guide",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/voter-information-guide-110326-bt-0084",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin Measure W question and impartial analysis",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326",
+      "group": "sources"
+    }
+  ]
+}

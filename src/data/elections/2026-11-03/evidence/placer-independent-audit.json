@@ -1,0 +1,989 @@
+[
+  {
+    "code": 1,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 2,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 3,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 4,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 5,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 6,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 7,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 8,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 9,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 10,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 11,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 12,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 13,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 14,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 15,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 16,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 17,
+    "printedVoteForRules": 34,
+    "parsedCandidateContests": 17,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 18,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 19,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 20,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 21,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 22,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 23,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 24,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 25,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 26,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 27,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 28,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 29,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 30,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 31,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 32,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 33,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 34,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 35,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 36,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 37,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 38,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 39,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 40,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 41,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 42,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 43,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 44,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 45,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 46,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 47,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 48,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 49,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 50,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 51,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 52,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 53,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 54,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 55,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 56,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 57,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 58,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 59,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 60,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 61,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 62,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 63,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 64,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 65,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 66,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 67,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 68,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 69,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 70,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 71,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 72,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 73,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 74,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 75,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 76,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 77,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 54,
+    "parsedYesNoContests": 27
+  },
+  {
+    "code": 78,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 79,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 80,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 81,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 82,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 83,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 84,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 85,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 86,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 87,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 88,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 89,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 90,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 91,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 92,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 93,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 94,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 95,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 96,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 97,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 98,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 99,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 100,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 101,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 102,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 103,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 104,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 105,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 106,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 107,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 108,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 109,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 110,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 111,
+    "printedVoteForRules": 36,
+    "parsedCandidateContests": 18,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 112,
+    "printedVoteForRules": 34,
+    "parsedCandidateContests": 17,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 113,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 114,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 115,
+    "printedVoteForRules": 34,
+    "parsedCandidateContests": 17,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 116,
+    "printedVoteForRules": 34,
+    "parsedCandidateContests": 17,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 117,
+    "printedVoteForRules": 36,
+    "parsedCandidateContests": 18,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 118,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 52,
+    "parsedYesNoContests": 26
+  },
+  {
+    "code": 119,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 120,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 121,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 122,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 123,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 124,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 125,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 126,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 127,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 128,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 129,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 130,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 131,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 132,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 133,
+    "printedVoteForRules": 26,
+    "parsedCandidateContests": 13,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 134,
+    "printedVoteForRules": 24,
+    "parsedCandidateContests": 12,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 135,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 136,
+    "printedVoteForRules": 32,
+    "parsedCandidateContests": 16,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 137,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 138,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 139,
+    "printedVoteForRules": 30,
+    "parsedCandidateContests": 15,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 140,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  },
+  {
+    "code": 141,
+    "printedVoteForRules": 28,
+    "parsedCandidateContests": 14,
+    "printedYesNoPairs": 50,
+    "parsedYesNoContests": 25
+  }
+]

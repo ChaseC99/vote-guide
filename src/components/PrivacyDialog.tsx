@@ -68,6 +68,10 @@ export function PrivacyDialog({
               you close the private session.
             </p>
             <p>Print or save a PDF to keep a copy.</p>
+            <p>
+              Ballot types with the same contests share a worksheet. Other ballot worksheets are
+              saved separately.
+            </p>
             <div className="dialog-actions">
               <button className="text-button" onClick={() => setConfirming(true)}>
                 Erase all selections and notes

@@ -1,0 +1,107 @@
+{
+  "checkedOn": "2026-11-03",
+  "electionId": "2026-11-03",
+  "bundlesCreated": [],
+  "counties": [
+    {
+      "countyId": "napa",
+      "status": "no-public-current-ballot-style-index-discovered",
+      "officialElectionPage": "https://www.napacounty.gov/2139/Current-Election",
+      "sources": [
+        {
+          "url": "https://www.napacounty.gov/2972/Ready-Set-Vote",
+          "finding": "Current November 3, 2026 page directs voters to log in to view sample ballot and local voter guide for their ballot type; says must be registered Napa County voter."
+        },
+        {
+          "url": "https://www.napacounty.gov/2714/Accessible-Voting",
+          "finding": "Registered voters can view pamphlet by logging in to Ballot Status application. No bulk style catalog linked."
+        },
+        {
+          "url": "https://app.napacounty.gov/VoterInfo/",
+          "finding": "Public landing page confirms November 3, 2026 election but asks for full last name and birth date. No lookup submitted."
+        }
+      ],
+      "evidenceFile": "napa-public-guide-access-evidence.json"
+    },
+    {
+      "countyId": "contra-costa",
+      "status": "public-browser-readable-no-style-source-discovered",
+      "sources": [
+        {
+          "url": "https://www.contracostavote.gov/elections/",
+          "finding": "Web reader HTTP403; prior raw read HTTP202 empty body."
+        },
+        {
+          "url": "https://www.contracostavote.gov/election/november-3-2026-general-election/",
+          "finding": "Web reader HTTP403; raw read HTTP202 empty body with x-amzn-waf-action: challenge."
+        },
+        {
+          "url": "https://www.contracostavote.gov/elections/voter-registration/my-voting-information/",
+          "finding": "Linked by Contra Costa College's current official-guide resources, but web reader HTTP403. No personal lookup used."
+        },
+        {
+          "url": "https://www.contracostavote.gov/election/november-3-2026-general-election/",
+          "finding": "Parent agent read normal public browser page; no guide index linked."
+        },
+        {
+          "url": "https://www.contracostavote.gov/elections/voter-registration/my-voting-information/",
+          "finding": "Parent agent read normal public browser page; personal name/address lookup only, not used."
+        },
+        {
+          "url": "https://cocogis.maps.arcgis.com/apps/webappviewer/index.html?id=e9d17d468ab6460ab4fead3a6507ccd1",
+          "finding": "Public map and its 119 district/precinct layers examined. No current ballot-style/contest mapping or sample-ballot URLs found."
+        },
+        {
+          "url": "https://services3.arcgis.com/42Dx6OWonqK9LoEE/arcgis/rest/services/Precinct_Boundary/FeatureServer/0?f=json",
+          "finding": "Contains precinct ID/portion/name/map number/city and boundary metadata; no ballot-style, election ID, or sample PDF fields."
+        },
+        {
+          "url": "https://services3.arcgis.com/42Dx6OWonqK9LoEE/arcgis/rest/services/CongAndPcts/FeatureServer?f=json",
+          "finding": "Only CCC Precincts202512 and Congressional122025 boundary layers, no tables."
+        }
+      ],
+      "evidenceFile": "contra-costa-election-headers.txt"
+    },
+    {
+      "countyId": "ventura",
+      "status": "verified-countywide-contest-reference-but-no-ballot-style-mapping",
+      "sources": [
+        {
+          "url": "https://clerkrecorder.venturacounty.gov/elections/",
+          "finding": "Web reader HTTP403; raw read HTTP202 empty body with x-amzn-waf-action: challenge."
+        },
+        {
+          "url": "https://www.ci.port-hueneme.ca.us/1010/City-Council-Election-Information",
+          "finding": "Current city election page links county site and sample-ballot voter lookup; does not publish complete sample ballots."
+        },
+        {
+          "url": "https://recorder.countyofventura.org/elections/elections/voter-lookups/who-are-my-elected-officials/",
+          "finding": "Official city's sample-ballot link returns Request Rejected. No lookup attempted."
+        },
+        {
+          "url": "https://clerkrecorder.venturacounty.gov/elections/voter-information-guide/",
+          "finding": "Parent agent read normal public browser page; personal lookup only, not used."
+        },
+        {
+          "url": "https://clerkrecorder.venturacounty.gov/elections/ballot-translation-guides/",
+          "finding": "Parent agent read public browser page and found two November 3, 2026 translation PDFs."
+        },
+        {
+          "url": "https://clerkrecorder.venturacounty.gov/wp-content/uploads/2026/10/Ventura_General-Election_TG_11_03_26_TAG_P1.pdf",
+          "finding": "Browser downloaded 18-page official guide. Verified November 3, 2026; page 2 explicitly describes countywide translation of all contests. No ballot-style IDs or membership mapping. See ventura-translation-guide-audit.json."
+        },
+        {
+          "url": "https://clerkrecorder.venturacounty.gov/wp-content/uploads/2026/10/Ventura_General-Election_VI_11_03_26_VTN_P1.pdf",
+          "finding": "Web reader returns403. PDF contents not verified."
+        }
+      ],
+      "evidenceFile": "ventura-translation-guide-audit.json"
+    }
+  ],
+  "limits": [
+    "These are bounded source-discovery gaps, not claims that the counties have no public data anywhere.",
+    "Child computer-use browser inventory was empty; no browser fallback available in this agent.",
+    "No private voter lookup, identity/session endpoints, challenge solving, guessed election-ID ranges, or ballot submissions were attempted.",
+    "Candidate lists or endorsement lists were not treated as complete ballots."
+  ]
+}

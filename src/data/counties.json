@@ -1,0 +1,292 @@
+[
+  {
+    "id": "alameda",
+    "name": "Alameda",
+    "officialUrl": "https://acvote.alamedacountyca.gov/index"
+  },
+  {
+    "id": "alpine",
+    "name": "Alpine",
+    "officialUrl": "https://www.alpinecountyca.gov/index.aspx?NID=388"
+  },
+  {
+    "id": "amador",
+    "name": "Amador",
+    "officialUrl": "https://www.amadorcounty.gov/government/elections"
+  },
+  {
+    "id": "butte",
+    "name": "Butte",
+    "officialUrl": "https://www.buttevotes.ca.gov/35/Elections"
+  },
+  {
+    "id": "calaveras",
+    "name": "Calaveras",
+    "officialUrl": "https://elections.calaverasgov.us/"
+  },
+  {
+    "id": "colusa",
+    "name": "Colusa",
+    "officialUrl": "https://www.countyofcolusaca.gov/197/Elections"
+  },
+  {
+    "id": "contra-costa",
+    "name": "Contra Costa",
+    "officialUrl": "https://www.contracostavote.gov/elections/"
+  },
+  {
+    "id": "del-norte",
+    "name": "Del Norte",
+    "officialUrl": "https://www.co.del-norte.ca.us/departments/Elections"
+  },
+  {
+    "id": "el-dorado",
+    "name": "El Dorado",
+    "officialUrl": "https://www.eldoradocounty.ca.gov/County-Government/Elections"
+  },
+  {
+    "id": "fresno",
+    "name": "Fresno",
+    "officialUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections"
+  },
+  {
+    "id": "glenn",
+    "name": "Glenn",
+    "officialUrl": "https://www.countyofglenn.net/dept/elections/welcome"
+  },
+  {
+    "id": "humboldt",
+    "name": "Humboldt",
+    "officialUrl": "https://humboldtgov.org/890/Elections-Voter-Registration"
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial",
+    "officialUrl": "https://elections.imperialcounty.org/"
+  },
+  {
+    "id": "inyo",
+    "name": "Inyo",
+    "officialUrl": "https://elections.inyocounty.us/"
+  },
+  {
+    "id": "kern",
+    "name": "Kern",
+    "officialUrl": "https://www.kernvote.com/"
+  },
+  {
+    "id": "kings",
+    "name": "Kings",
+    "officialUrl": "https://www.countyofkingsca.gov/departments/administration/elections"
+  },
+  {
+    "id": "lake",
+    "name": "Lake",
+    "officialUrl": "https://www.lakecountyca.gov/818/Registrar-of-Voters"
+  },
+  {
+    "id": "lassen",
+    "name": "Lassen",
+    "officialUrl": "http://www.lassencounty.org/dept/county-clerk-recorder/elections/"
+  },
+  {
+    "id": "los-angeles",
+    "name": "Los Angeles",
+    "officialUrl": "https://www.lavote.gov/home/voting-elections"
+  },
+  {
+    "id": "madera",
+    "name": "Madera",
+    "officialUrl": "https://votemadera.com/"
+  },
+  {
+    "id": "marin",
+    "name": "Marin",
+    "officialUrl": "https://www.marincounty.gov/departments/elections"
+  },
+  {
+    "id": "mariposa",
+    "name": "Mariposa",
+    "officialUrl": "http://www.mariposacounty.org/87/Elections"
+  },
+  {
+    "id": "mendocino",
+    "name": "Mendocino",
+    "officialUrl": "https://www.mendocinocounty.gov/government/assessor-county-clerk-recorder-elections/elections"
+  },
+  {
+    "id": "merced",
+    "name": "Merced",
+    "officialUrl": "https://www.countyofmerced.com/3878/Elections"
+  },
+  {
+    "id": "modoc",
+    "name": "Modoc",
+    "officialUrl": "https://www.countyofmodoc.gov/554/Elections"
+  },
+  {
+    "id": "mono",
+    "name": "Mono",
+    "officialUrl": "https://monocounty.ca.gov/elections"
+  },
+  {
+    "id": "monterey",
+    "name": "Monterey",
+    "officialUrl": "https://www.countyofmonterey.gov/government/departments-a-h/elections/home"
+  },
+  {
+    "id": "napa",
+    "name": "Napa",
+    "officialUrl": "https://www.napacounty.gov/396/Elections"
+  },
+  {
+    "id": "nevada",
+    "name": "Nevada",
+    "officialUrl": "https://www.nevadacountyca.gov/3490/Current-Elections"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "officialUrl": "https://ocvote.gov/"
+  },
+  {
+    "id": "placer",
+    "name": "Placer",
+    "officialUrl": "http://www.placercountyelections.gov"
+  },
+  {
+    "id": "plumas",
+    "name": "Plumas",
+    "officialUrl": "https://www.plumascounty.us/142/Elections-Division-Home"
+  },
+  {
+    "id": "riverside",
+    "name": "Riverside",
+    "officialUrl": "https://www.voteinfo.net/"
+  },
+  {
+    "id": "sacramento",
+    "name": "Sacramento",
+    "officialUrl": "https://elections.saccounty.gov"
+  },
+  {
+    "id": "san-benito",
+    "name": "San Benito",
+    "officialUrl": "https://www.sanbenitocounty-ca-cre.gov/elections"
+  },
+  {
+    "id": "san-bernardino",
+    "name": "San Bernardino",
+    "officialUrl": "https://elections.sbcounty.gov/"
+  },
+  {
+    "id": "san-diego",
+    "name": "San Diego",
+    "officialUrl": "https://www.sdvote.com/"
+  },
+  {
+    "id": "san-francisco",
+    "name": "San Francisco",
+    "officialUrl": "https://sfelections.sfgov.org/"
+  },
+  {
+    "id": "san-joaquin",
+    "name": "San Joaquin",
+    "officialUrl": "https://www.sjgov.org/department/rov/"
+  },
+  {
+    "id": "san-luis-obispo",
+    "name": "San Luis Obispo",
+    "officialUrl": "https://www.slocounty.ca.gov/Departments/Clerk-Recorder.aspx"
+  },
+  {
+    "id": "san-mateo",
+    "name": "San Mateo",
+    "officialUrl": "https://smcacre.gov/elections"
+  },
+  {
+    "id": "santa-barbara",
+    "name": "Santa Barbara",
+    "officialUrl": "https://www.countyofsb.org/164/Elections"
+  },
+  {
+    "id": "santa-clara",
+    "name": "Santa Clara",
+    "officialUrl": "https://vote.santaclaracounty.gov/home"
+  },
+  {
+    "id": "santa-cruz",
+    "name": "Santa Cruz",
+    "officialUrl": "https://votescount.santacruzcountyca.gov/"
+  },
+  {
+    "id": "shasta",
+    "name": "Shasta",
+    "officialUrl": "https://elections.shastacounty.gov/"
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "officialUrl": "https://www.sierracounty.ca.gov/214/Elections"
+  },
+  {
+    "id": "siskiyou",
+    "name": "Siskiyou",
+    "officialUrl": "https://www.siskiyoucounty.gov/elections"
+  },
+  {
+    "id": "solano",
+    "name": "Solano",
+    "officialUrl": "https://www.solanocounty.gov/government/registrar-voters"
+  },
+  {
+    "id": "sonoma",
+    "name": "Sonoma",
+    "officialUrl": "https://sonomacounty.ca.gov/administrative-support-and-fiscal-services/clerk-recorder-assessor-registrar-of-voters/registrar-of-voters"
+  },
+  {
+    "id": "stanislaus",
+    "name": "Stanislaus",
+    "officialUrl": "http://stanvote.gov/"
+  },
+  {
+    "id": "sutter",
+    "name": "Sutter",
+    "officialUrl": "https://www.sutter.gov/government/county-departments/clerk-recorder/elections"
+  },
+  {
+    "id": "tehama",
+    "name": "Tehama",
+    "officialUrl": "https://www.tehama.gov/government/departments/elections/"
+  },
+  {
+    "id": "trinity",
+    "name": "Trinity",
+    "officialUrl": "https://www.trinitycounty.org/214/Elections"
+  },
+  {
+    "id": "tulare",
+    "name": "Tulare",
+    "officialUrl": "https://tularecounty.ca.gov/elections"
+  },
+  {
+    "id": "tuolumne",
+    "name": "Tuolumne",
+    "officialUrl": "https://www.tuolumnecounty.ca.gov/194/Election-Information"
+  },
+  {
+    "id": "ventura",
+    "name": "Ventura",
+    "officialUrl": "https://clerkrecorder.venturacounty.gov/elections/"
+  },
+  {
+    "id": "yolo",
+    "name": "Yolo",
+    "officialUrl": "https://elections.yolocounty.gov/35/Elections"
+  },
+  {
+    "id": "yuba",
+    "name": "Yuba",
+    "officialUrl": "https://yuba.gov/departments/elections/upcoming_election.php"
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "countyId": "inyo",
+  "verifiedOn": "2026-11-02",
+  "sourceIndex": "https://elections.inyocounty.us/voting/voter-information-guides-sample-ballots/",
+  "files": [
+    {
+      "code": "1",
+      "filename": "inyo-B001.pdf",
+      "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+      "sha256": "045ca50363abc57c3cab60dfecfd2676d0d1a8c4df31b7455a62570ee00903c0",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 45
+    },
+    {
+      "code": "2",
+      "filename": "inyo-B002.pdf",
+      "url": "https://drive.google.com/file/d/1vNNmoHQIEOJsce3_Jl5LT8SoSdCDfhsY/view?usp=drive_link",
+      "sha256": "3d9755f3b964f081966d2c5549bde7e51e25dc29ae054aec943dbc20183004c3",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 46
+    },
+    {
+      "code": "3",
+      "filename": "inyo-B003.pdf",
+      "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+      "sha256": "d77180d7c7e62e7b27046134d5b6658d454f72ff6634ebd95c4e0ec4f027ec73",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 46
+    },
+    {
+      "code": "4",
+      "filename": "inyo-B004.pdf",
+      "url": "https://drive.google.com/file/d/1qeqQWmGnVNTELXsbnVXGeMX63cGFFy6J/view?usp=drive_link",
+      "sha256": "e8a15b8b50f78f1f7702db911c2c09b7115ff2fc56bd4b045e4332363dfab351",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 46
+    },
+    {
+      "code": "5",
+      "filename": "inyo-B005.pdf",
+      "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+      "sha256": "c2068b85f344bfed0f590ab33123a7cb9e56b50e17a80891ad2fc593f47c4787",
+      "samplePages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "contestCount": 45
+    },
+    {
+      "code": "6",
+      "filename": "inyo-B006.pdf",
+      "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+      "sha256": "93f7bf3812ef4a59a403e70420febd031abf6f54ac52f9408f5bfaee3a146b55",
+      "samplePages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "contestCount": 45
+    },
+    {
+      "code": "7",
+      "filename": "inyo-B007.pdf",
+      "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+      "sha256": "74b9d5c00a0055216359c039abd4a1bc0cf7b2544b0bbf409619155b020239e3",
+      "samplePages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "contestCount": 44
+    },
+    {
+      "code": "8",
+      "filename": "inyo-B008.pdf",
+      "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+      "sha256": "526382cc389ac0d9dc75ecda027cf58181646c97eb7f014d6a78e1611d93a07d",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 46
+    },
+    {
+      "code": "9",
+      "filename": "inyo-B009.pdf",
+      "url": "https://drive.google.com/file/d/1R51gjGbEfFe6IOKS_zZUPiBOWvrSuAgo/view?usp=drive_link",
+      "sha256": "73e37e792c455a9d9a9198793fb8e971c2875a7abe289456706245b5112b624c",
+      "samplePages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "contestCount": 47
+    },
+    {
+      "code": "10",
+      "filename": "inyo-B010.pdf",
+      "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+      "sha256": "406d325b547145b1d2c7f8d4ab5afde0e6c3cb2ac488d6ef85f69c26c6e02643",
+      "samplePages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "contestCount": 45
+    }
+  ],
+  "notes": [
+    "The official index describes Type 7 as having no special district contests. Its actual sample ballot nevertheless includes Kern Community College Trustee Area #2; this contest is preserved in the import.",
+    "The county sample PDFs explicitly list Fourth District Court of Appeal justices in all 10 types.",
+    "All local candidate spellings, designations, vote limits, and local measure wording were checked against rendered ballot pages.",
+    "All candidate names in every imported contest were checked against all applicable extracted sample ballots after removing whitespace.",
+    "Canonical codes 1\u201310 are the types on the official county index; aliases are the printed sample sheet identifiers, not inferred precinct codes."
+  ]
+}

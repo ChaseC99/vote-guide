@@ -1,5 +1,6 @@
 import type { Ballot } from '../data/schema';
 import { numberLabel, sectionNames } from '../lib/navigation';
+import { districtSummary } from '../lib/districts';
 import { selectionLines, type WorksheetState } from '../lib/selections';
 
 export function PrintWorksheet({
@@ -24,10 +25,10 @@ export function PrintWorksheet({
       </header>
       {ballot.provenance && (
         <p className="print-districts">
-          Congressional {ballot.provenance.districts.congressional} · Assembly{' '}
-          {ballot.provenance.districts.assembly} · Supervisor{' '}
-          {ballot.provenance.districts.supervisorial} · BART {ballot.provenance.districts.bart} ·
-          Sources checked {ballot.provenance.verifiedOn}
+          {ballot.ballotCode &&
+            `Ballot type${ballot.ballotCode.includes(',') ? 's' : ''} ${ballot.ballotCode} · `}
+          {districtSummary(ballot.provenance.districts)} · Sources checked{' '}
+          {ballot.provenance.verifiedOn}
         </p>
       )}
       {sectionNames.map((section) => (

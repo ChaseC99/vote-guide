@@ -1,0 +1,6003 @@
+{
+  "styles": [
+    {
+      "code": "1",
+      "styleId": 251064,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251064.json",
+      "sha256": "7f17be4d18dcedb39c59fbe5b5322d18f524b54aef0add2db78d928fb1ba6f6a",
+      "precinctIds": [
+        408198,
+        408199
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "2",
+      "styleId": 251065,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251065.json",
+      "sha256": "102d51b3e7afd4bc78581c17d4dca9bcd7f39c4dc15f394573f495b3921d12c6",
+      "precinctIds": [
+        408200,
+        408201
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99682,
+          "contestId": "yolo-washington-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "3",
+      "styleId": 251066,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251066.json",
+      "sha256": "5662868ea24c9affc4070b4f7f9380715bbf045e291468754d8939f4dd2233bf",
+      "precinctIds": [
+        408202
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99684,
+          "contestId": "yolo-city-of-west-sacramento-member-city-council-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "4",
+      "styleId": 251067,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251067.json",
+      "sha256": "051198e2e21f2271258f64eddb10532d276197867ec66685bc2c1249e57fe48c",
+      "precinctIds": [
+        408203
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99685,
+          "contestId": "yolo-city-of-west-sacramento-member-city-council-district-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "5",
+      "styleId": 251068,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251068.json",
+      "sha256": "32a0732700881117d607901840d31d0ee9ec98dad9fad5ff2c822516e72c5ed9",
+      "precinctIds": [
+        408204
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99686,
+          "contestId": "yolo-river-delta-unified-school-district-governing-board-member-trustee-area-5"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "6",
+      "styleId": 251069,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251069.json",
+      "sha256": "dcd222f30f644a352c21d114014b6706a53a0c8963cb05ccabe17316b4744d50",
+      "precinctIds": [
+        408205,
+        408206,
+        408207,
+        408208,
+        408209
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "7",
+      "styleId": 251070,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251070.json",
+      "sha256": "602953d76a57839b5ed3d72ac2aaff30209c41cf98d96ccbc5085c599b6f11a0",
+      "precinctIds": [
+        408210,
+        408211,
+        408212
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99689,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "8",
+      "styleId": 251071,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251071.json",
+      "sha256": "64aaae5dab2851d71bf53967f795e31b23e691aa382b693afaf64d233a488f60",
+      "precinctIds": [
+        408213,
+        408214,
+        408215,
+        408216,
+        408217
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "9",
+      "styleId": 251072,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251072.json",
+      "sha256": "e155cc34cae61f60abdd4584c6e6dcd654638cd7d408d2e712a39a5caa2c6a21",
+      "precinctIds": [
+        408218
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99689,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-3"
+        },
+        {
+          "boxId": 99692,
+          "contestId": "yolo-city-of-davis-member-city-council-district-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 39
+    },
+    {
+      "code": "10",
+      "styleId": 251073,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251073.json",
+      "sha256": "4b36bd5da7514d487f54d00e0aac4c71b14f1e3b84311a98368e87ebb8320cdb",
+      "precinctIds": [
+        408219
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99693,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99692,
+          "contestId": "yolo-city-of-davis-member-city-council-district-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 39
+    },
+    {
+      "code": "11",
+      "styleId": 251074,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251074.json",
+      "sha256": "854597d1669e0d16d3132d0d959e0d6cc6799f055ff458b08ccf5986170c3410",
+      "precinctIds": [
+        408220,
+        408221,
+        408222
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "12",
+      "styleId": 251075,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251075.json",
+      "sha256": "c3e9134af1bcd4f028550adc5751225e4650cc8cd5bf3f551c3e3d6f167ca943",
+      "precinctIds": [
+        408223,
+        408224
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99694,
+          "contestId": "yolo-city-of-winters-member-city-council"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99695,
+          "contestId": "yolo-measure-b-winters-joint-unified-school-district"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "13",
+      "styleId": 251076,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251076.json",
+      "sha256": "568d7440baba9c6452f06d0c0a7c5cbc052880dc46636f747d69c94569bab0a2",
+      "precinctIds": [
+        408225,
+        408226
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99696,
+          "contestId": "yolo-woodland-joint-unified-school-district-governing-board-member-trustee-area-7"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "14",
+      "styleId": 251077,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251077.json",
+      "sha256": "17fc38cfe047cec7ca92ef985146395b3338f16f707ab7e2ba8c64221f78870d",
+      "precinctIds": [
+        408227,
+        408228
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99695,
+          "contestId": "yolo-measure-b-winters-joint-unified-school-district"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "15",
+      "styleId": 251078,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251078.json",
+      "sha256": "9067d6a0cdfaa86957b24aa03afbcc5732429dff86219f1e5602f60c093628c4",
+      "precinctIds": [
+        408229
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99693,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "16",
+      "styleId": 251079,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251079.json",
+      "sha256": "cc8bddff515113f6cce1d13e671083f4638312bd460ce8b96500d2587b91bcc6",
+      "precinctIds": [
+        408230,
+        408231
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "17",
+      "styleId": 251080,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251080.json",
+      "sha256": "e7d7d04815a09b61f005d92663c8b9006df1fa54362e3791f485e49856468fc3",
+      "precinctIds": [
+        408232,
+        408233
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99682,
+          "contestId": "yolo-washington-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "18",
+      "styleId": 251081,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251081.json",
+      "sha256": "c8062e19994446e4a5a9caade4e550ca1ece0231b853891eea5c527faaa3fa83",
+      "precinctIds": [
+        408234
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "19",
+      "styleId": 251082,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251082.json",
+      "sha256": "32cd08cc3d1b179409e06cbb8a2f68ef802540e68ce869a8813540415f7a9151",
+      "precinctIds": [
+        408235
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "20",
+      "styleId": 251083,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251083.json",
+      "sha256": "145a7635ac23ecc99b9cc2bafae6ae529d2fa47364acf0ab69d919b85c3fc3bb",
+      "precinctIds": [
+        408236
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99702,
+          "contestId": "yolo-city-of-woodland-member-city-council-district-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 39
+    },
+    {
+      "code": "21",
+      "styleId": 251084,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251084.json",
+      "sha256": "a8ef5de88298ac2b9faa79d5632644b160e32625ff2e24ac104eab6bcbb00395",
+      "precinctIds": [
+        408237,
+        408238,
+        408239,
+        408240
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99696,
+          "contestId": "yolo-woodland-joint-unified-school-district-governing-board-member-trustee-area-7"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 39
+    },
+    {
+      "code": "22",
+      "styleId": 251085,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251085.json",
+      "sha256": "d8c54a99b4e38b183e3d49f010e641d27ca3474a5fb75c9507c39b35c7203dbd",
+      "precinctIds": [
+        408241
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99696,
+          "contestId": "yolo-woodland-joint-unified-school-district-governing-board-member-trustee-area-7"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "23",
+      "styleId": 251086,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251086.json",
+      "sha256": "af9c1ce166f1788326caf080aafdb006d3fd49afd6c67e7a620177404ce196fd",
+      "precinctIds": [
+        408242,
+        408243
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    },
+    {
+      "code": "24",
+      "styleId": 251087,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251087.json",
+      "sha256": "260b087961f37eed9a958091b7fc964dcda29c5c026fdc44d4f17e86f461ad0a",
+      "precinctIds": [
+        408244
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99648,
+          "contestId": "yolo-united-states-representative-district-6"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99696,
+          "contestId": "yolo-woodland-joint-unified-school-district-governing-board-member-trustee-area-7"
+        },
+        {
+          "boxId": 99697,
+          "contestId": "yolo-county-supervisor-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "25",
+      "styleId": 251088,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251088.json",
+      "sha256": "8df1d6653dc170fdb5289364ab6dc156618ddda7e88f41cfdf707567c6153428",
+      "precinctIds": [
+        408245,
+        408246
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99703,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "26",
+      "styleId": 251089,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251089.json",
+      "sha256": "80bb527c31e75b5ec3369705988dc84e44e60bace025170ae89859c04fda1c83",
+      "precinctIds": [
+        408247
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99703,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4"
+        },
+        {
+          "boxId": 99704,
+          "contestId": "yolo-city-of-davis-member-city-council-district-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 39
+    },
+    {
+      "code": "27",
+      "styleId": 251090,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251090.json",
+      "sha256": "b1381cf3225fbabd5597decf5caecf3bec8d5ff8a4c1b7c74a7eaf4eb0594182",
+      "precinctIds": [
+        408248
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99704,
+          "contestId": "yolo-city-of-davis-member-city-council-district-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "28",
+      "styleId": 251091,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251091.json",
+      "sha256": "6db493b79456e488616c40367e27f0689a3a78c83818b98c391908a83f651b68",
+      "precinctIds": [
+        408249
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99703,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99690,
+          "contestId": "yolo-measure-w-city-of-davis"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "29",
+      "styleId": 251092,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251092.json",
+      "sha256": "42fdcb0b82e174771a9a8133f317d131ed7794ef126aea748404df76578cf04c",
+      "precinctIds": [
+        408250
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99682,
+          "contestId": "yolo-washington-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "30",
+      "styleId": 251093,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251093.json",
+      "sha256": "c37643966785b247715c9aa0c5198b7e10e487c095f06eb814f92b7de337945a",
+      "precinctIds": [
+        408251
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99682,
+          "contestId": "yolo-washington-unified-school-district-governing-board-member-trustee-area-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "31",
+      "styleId": 251094,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251094.json",
+      "sha256": "c2fa15975ecf3a2e43c9693c0b93b02087fc54fd2c20f573cbddfe5e26b5114b",
+      "precinctIds": [
+        408252
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99687,
+          "contestId": "yolo-united-states-representative-district-8"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99703,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "32",
+      "styleId": 251095,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251095.json",
+      "sha256": "483e38e1e18f6246820b4d3956d50616158f6979e314c4d340b16e3dda089e35",
+      "precinctIds": [
+        408253
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99703,
+          "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99679,
+          "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "33",
+      "styleId": 251096,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251096.json",
+      "sha256": "b7a50d0b74899b814f9a33b42dcbc879a013657a8386ba6316ef7a8a84f25606",
+      "precinctIds": [
+        408254
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99705,
+          "contestId": "yolo-city-of-woodland-member-city-council-district-3"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "34",
+      "styleId": 251097,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251097.json",
+      "sha256": "53d398e7894791ef21012053c4eb0050a2c268d47a277d2b5ed63a561463141c",
+      "precinctIds": [
+        408255
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99702,
+          "contestId": "yolo-city-of-woodland-member-city-council-district-1"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 38
+    },
+    {
+      "code": "35",
+      "styleId": 251098,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251098.json",
+      "sha256": "0eae6e93631ba4ea00db97a16ee06216ebb23227993017170daae9b96a581e45",
+      "precinctIds": [
+        408256,
+        408257,
+        408258
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        },
+        {
+          "boxId": 99699,
+          "contestId": "yolo-measure-y-city-of-woodland"
+        },
+        {
+          "boxId": 99700,
+          "contestId": "yolo-measure-z-city-of-woodland"
+        }
+      ],
+      "contests": 37
+    },
+    {
+      "code": "36",
+      "styleId": 251099,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251099.json",
+      "sha256": "0de4b7f3bb7340fa3b4338252e10ff68d2f3f678a2721805dd35289298541aaa",
+      "precinctIds": [
+        408259,
+        408260
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 35
+    },
+    {
+      "code": "37",
+      "styleId": 251100,
+      "sourceUrl": "https://ca.omniballot.us/published/06113/1727/styles/251100.json",
+      "sha256": "5a47fda4076b04387601e7d3cafdad251cb931aa6b8160687f5bab865236eba0",
+      "precinctIds": [
+        408261
+      ],
+      "boxes": [
+        {
+          "boxId": 99639,
+          "contestId": "governor"
+        },
+        {
+          "boxId": 99640,
+          "contestId": "lieutenant-governor"
+        },
+        {
+          "boxId": 99641,
+          "contestId": "secretary-of-state"
+        },
+        {
+          "boxId": 99642,
+          "contestId": "controller"
+        },
+        {
+          "boxId": 99643,
+          "contestId": "treasurer"
+        },
+        {
+          "boxId": 99644,
+          "contestId": "attorney-general"
+        },
+        {
+          "boxId": 99645,
+          "contestId": "insurance-commissioner"
+        },
+        {
+          "boxId": 99646,
+          "contestId": "yolo-member-state-board-of-equalization-district-1"
+        },
+        {
+          "boxId": 99688,
+          "contestId": "yolo-united-states-representative-district-4"
+        },
+        {
+          "boxId": 99650,
+          "contestId": "yolo-member-of-the-state-assembly-district-4"
+        },
+        {
+          "boxId": 99652,
+          "contestId": "retain-joshua-groban"
+        },
+        {
+          "boxId": 99653,
+          "contestId": "retain-kelli-m-evans"
+        },
+        {
+          "boxId": 99654,
+          "contestId": "yolo-laurie-earl-administrative-presiding-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99655,
+          "contestId": "yolo-lauri-damrell-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99656,
+          "contestId": "yolo-david-b-sapp-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99657,
+          "contestId": "yolo-stacy-boulware-eurie-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99658,
+          "contestId": "yolo-jonathan-renner-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99659,
+          "contestId": "yolo-aimee-a-feinberg-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99660,
+          "contestId": "yolo-shama-mesiwala-associate-justice-court-of-appeal-district-3"
+        },
+        {
+          "boxId": 99662,
+          "contestId": "superintendent-public-instruction"
+        },
+        {
+          "boxId": 99707,
+          "contestId": "yolo-knights-landing-community-services-district-director-short-term"
+        },
+        {
+          "boxId": 99664,
+          "contestId": "state-prop-1"
+        },
+        {
+          "boxId": 99665,
+          "contestId": "state-prop-2"
+        },
+        {
+          "boxId": 99666,
+          "contestId": "state-prop-3"
+        },
+        {
+          "boxId": 99667,
+          "contestId": "state-prop-4"
+        },
+        {
+          "boxId": 99668,
+          "contestId": "state-prop-5"
+        },
+        {
+          "boxId": 99669,
+          "contestId": "state-prop-37"
+        },
+        {
+          "boxId": 99670,
+          "contestId": "state-prop-38"
+        },
+        {
+          "boxId": 99671,
+          "contestId": "state-prop-39"
+        },
+        {
+          "boxId": 99672,
+          "contestId": "state-prop-40"
+        },
+        {
+          "boxId": 99673,
+          "contestId": "state-prop-41"
+        },
+        {
+          "boxId": 99674,
+          "contestId": "state-prop-42"
+        },
+        {
+          "boxId": 99675,
+          "contestId": "state-prop-43"
+        },
+        {
+          "boxId": 99676,
+          "contestId": "state-prop-44"
+        },
+        {
+          "boxId": 99677,
+          "contestId": "state-prop-45"
+        },
+        {
+          "boxId": 99681,
+          "contestId": "yolo-measure-x-county-of-yolo"
+        }
+      ],
+      "contests": 36
+    }
+  ],
+  "excludedStyles": [
+    {
+      "styleId": "251102",
+      "code": "composite",
+      "precinctIds": [
+        408262
+      ]
+    }
+  ],
+  "voterStyleCount": 37,
+  "precinctCount": 64,
+  "sharedCandidateNamesAndPartiesChecked": true,
+  "fullBoxIndexChecked": true,
+  "allRepeatedContestContentsAgree": true,
+  "allPrecinctMappingsChecked": true,
+  "uniqueContests": 57
+}

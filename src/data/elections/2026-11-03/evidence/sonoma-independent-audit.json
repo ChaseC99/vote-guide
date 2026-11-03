@@ -1,0 +1,296 @@
+{
+  "candidateListSource": "https://sonomacounty.ca.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-candidates-on-the-ballot",
+  "candidateContests": 54,
+  "candidateSetsAndVoteLimitsVerified": true,
+  "judicialRetentions": 13,
+  "localMeasures": 12,
+  "statePropositions": 14,
+  "fullVoterContestUnion": 93,
+  "compositeContestCount": 92,
+  "officialCompositeOmits": "Calistoga Joint Unified School District Governing Board Member (box 106996); included in voter styles and verified county candidate page",
+  "voterFacingStyleNamesVerifiedInPublicConfig": true,
+  "internalCodesNotExposedAsAliases": true,
+  "countyWebTypo": {
+    "web": "KATELIYN RUTKOWSKI",
+    "ballotAndCountyStatementPDF": "KATELYN RUTKOWSKI",
+    "statementFile": "sonoma-jc7.pdf",
+    "statementSha256": "d12e03299269fb959fec36d7f3ea40b13369665d47ec58a6e701e40008d307e4"
+  },
+  "judicialNameVariantsPreservedInBallot": {
+    "Joshua P. Groban": "Joshua Groban",
+    "Gordon Bruce Burns": "Gordon Burns"
+  },
+  "writeInOnly": "City of Cloverdale City Treasurer",
+  "matchedCandidateContests": [
+    {
+      "contestId": "governor",
+      "countyListTitle": "Governor (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "lieutenant-governor",
+      "countyListTitle": "Lieutenant Governor (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "secretary-of-state",
+      "countyListTitle": "Secretary of State (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "controller",
+      "countyListTitle": "Controller (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "treasurer",
+      "countyListTitle": "Treasurer (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "attorney-general",
+      "countyListTitle": "Attorney General (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "insurance-commissioner",
+      "countyListTitle": "Insurance Commissioner (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "board-of-equalization-district-2",
+      "countyListTitle": "Member, State Board of Equalization, 2nd District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-united-states-representative-district-1",
+      "countyListTitle": "1st District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-state-senator-district-2",
+      "countyListTitle": "2nd District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-member-of-the-state-assembly-district-12",
+      "countyListTitle": "12th District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "superintendent-public-instruction",
+      "countyListTitle": "Superintendent of Public Instruction (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-sonoma-county-junior-college-district-governing-board-member-trustee-area-5",
+      "countyListTitle": "Governing Board Member, Sonoma County Junior College District, Trustee Area 5 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-sonoma-county-fire-district-director",
+      "countyListTitle": "Director, Sonoma County Fire District (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-united-states-representative-district-4",
+      "countyListTitle": "4th District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-sonoma-valley-unified-school-district-governing-board-member-trustee-area-1",
+      "countyListTitle": "Governing Board Member, Sonoma Valley Unified School District, Trustee Area 1 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-member-of-the-state-assembly-district-2",
+      "countyListTitle": "2nd District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-calistoga-joint-unified-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Calistoga Joint Unified School District (Vote for no more than Two)",
+      "voteLimit": 2
+    },
+    {
+      "contestId": "sonoma-windsor-unified-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Windsor Unified School District (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-petaluma-joint-union-high-school-district-governing-board-member-trustee-area-3",
+      "countyListTitle": "Governing Board Member, Petaluma Joint Union High School District, Trustee Area 3 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-member-of-the-state-assembly-district-4",
+      "countyListTitle": "4th District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-sonoma-county-board-of-education-member-county-board-of-education-trustee-area-2",
+      "countyListTitle": "Member, Sonoma County Board of Education, Trustee Area 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-county-county-supervisor-2nd-district",
+      "countyListTitle": "County Supervisor, 2nd District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-united-states-representative-district-2",
+      "countyListTitle": "2nd District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-gold-ridge-fire-protection-district-director",
+      "countyListTitle": "Director, Gold Ridge Fire Protection District (Vote for no more than Four)",
+      "voteLimit": 4
+    },
+    {
+      "contestId": "sonoma-petaluma-joint-union-high-school-district-governing-board-member-trustee-area-5",
+      "countyListTitle": "Governing Board Member, Petaluma Joint Union High School District, Trustee Area 5 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-sonoma-county-junior-college-district-governing-board-member-trustee-area-7",
+      "countyListTitle": "Governing Board Member, Sonoma County Junior College District, Trustee Area 7 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-two-rock-union-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Two Rock Union School District (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-city-of-petaluma-mayor",
+      "countyListTitle": "Mayor, City of Petaluma (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-petaluma-member-city-council",
+      "countyListTitle": "Member, City Council, City of Petaluma, District 1 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-petaluma-member-city-council-district-3",
+      "countyListTitle": "Member, City Council, City of Petaluma, District 3 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-rohnert-park-member-city-council-district-2",
+      "countyListTitle": "Member, City Council, City of Rohnert Park, District 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-county-county-supervisor-4th-district",
+      "countyListTitle": "County Supervisor, 4th District (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-santa-rosa-high-school-district-governing-board-member-trustee-area-2",
+      "countyListTitle": "Governing Board Member, City of Santa Rosa High School District, Trustee Area 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-cloverdale-member-city-council",
+      "countyListTitle": "Member, City Council, City of Cloverdale (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-city-of-cloverdale-city-treasurer",
+      "countyListTitle": "City Treasurer, City of Cloverdale (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-west-sonoma-county-union-high-school-district-governing-board-member-trustee-area-5",
+      "countyListTitle": "Governing Board Member, West Sonoma County Union High School District, Trustee Area 5 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-twin-hills-union-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Twin Hills Union School District (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-monte-rio-union-school-district-governing-board-member-full-term",
+      "countyListTitle": "Governing Board Member, Monte Rio Union School District, Full Term (Vote for no more than Two)",
+      "voteLimit": 2
+    },
+    {
+      "contestId": "sonoma-city-of-sebastopol-member-city-council",
+      "countyListTitle": "Member, City Council, City of Sebastopol (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-city-of-santa-rosa-member-city-council-district-2",
+      "countyListTitle": "Member, City Council, City of Santa Rosa, District 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-santa-rosa-member-city-council-district-4",
+      "countyListTitle": "Member, City Council, City of Santa Rosa, District 4 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-sonoma-member-city-council-district-1",
+      "countyListTitle": "Member, City Council, City of Sonoma, District 1 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-waugh-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Waugh School District (Vote for no more than Three)",
+      "voteLimit": 3
+    },
+    {
+      "contestId": "sonoma-city-of-petaluma-member-city-council-district-2",
+      "countyListTitle": "Member, City Council, City of Petaluma, District 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-rohnert-park-member-city-council-district-5",
+      "countyListTitle": "Member, City Council, City of Rohnert Park, District 5 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-cotati-rohnert-park-unified-school-district-governing-board-member-trustee-area-1",
+      "countyListTitle": "Governing Board Member, Cotati-Rohnert Park Unified School District, Trustee Area 1 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-santa-rosa-member-city-council-district-6",
+      "countyListTitle": "Member, City Council, City of Santa Rosa, District 6 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-healdsburg-member-city-council-district-4",
+      "countyListTitle": "Member, City Council, City of Healdsburg, District 4 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-city-of-healdsburg-member-city-council-district-2",
+      "countyListTitle": "Member, City Council, City of Healdsburg, District 2 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-town-of-windsor-mayor",
+      "countyListTitle": "Mayor, Town of Windsor (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-town-of-windsor-member-town-council",
+      "countyListTitle": "Member, Town Council, Town of Windsor, District 1 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-town-of-windsor-member-town-council-district-4",
+      "countyListTitle": "Member, Town Council, Town of Windsor, District 4 (Vote for One)",
+      "voteLimit": 1
+    },
+    {
+      "contestId": "sonoma-harmony-union-school-district-governing-board-member",
+      "countyListTitle": "Governing Board Member, Harmony Union School District (Vote for no more than Three)",
+      "voteLimit": 3
+    }
+  ]
+}

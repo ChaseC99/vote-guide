@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { ballotSchema } from '../src/data/schema.ts';
+import { ballotSchema, contestSchema } from '../src/data/schema.ts';
 import {
   emptyState,
   hasSkippedRank,
@@ -29,6 +29,20 @@ test('Yes/No toggles off and replacing a choice never retains both', () => {
 
 test('single choice replaces the existing candidate', () => {
   assert.equal(toggleChoice(single, 'dana-whitfield', 'theo-mercado').selection, 'theo-mercado');
+});
+
+test('verified write-in-only offices preserve private names, clear blanks, and print explicitly', () => {
+  const writeIn = contestSchema.parse({ ...single, candidates: [], writeInOnly: true });
+  assert.equal(contestSchema.safeParse({ ...single, candidates: [] }).success, false);
+  assert.equal(contestSchema.safeParse({ ...single, writeInOnly: true }).success, false);
+  assert.equal(normalizeSelection(writeIn, 'Jane Example'), 'Jane Example');
+  assert.equal(normalizeSelection(writeIn, '   '), undefined);
+  assert.equal(normalizeSelection(writeIn, ['Jane Example']), undefined);
+  assert.equal((normalizeSelection(writeIn, 'x'.repeat(201)) as string).length, 200);
+  const state = { ...emptyState('write-in-ballot'), selections: { [writeIn.id]: 'Jane Example' } };
+  assert.deepEqual(restoreState(JSON.stringify(state), 'write-in-ballot', [writeIn]), state);
+  assert.deepEqual(selectionLines(writeIn, 'Jane Example'), ['Write-in: Jane Example']);
+  assert.equal(normalizeSelection(single, 'Jane Example'), undefined);
 });
 
 test('multi choice enforces the cap but allows removing and replacing choices', () => {

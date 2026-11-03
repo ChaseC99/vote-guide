@@ -1,0 +1,40 @@
+{
+  "verifiedOn": "2026-11-02",
+  "files": [
+    {
+      "countyId": "mono",
+      "code": "B001",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+      "sha256": "e3b634eb2a8279997726396dde094478c02ccb836bbf2e7421668f54cfff428d"
+    },
+    {
+      "countyId": "mono",
+      "code": "B002",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3625/B002_AMENDED",
+      "sha256": "c46752e7612e2d7e7d51e62082683a838c29e9372f32542f2733510afa55ef53"
+    },
+    {
+      "countyId": "mono",
+      "code": "B003",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+      "sha256": "2ae0d1a0be00a5200b30415f5b0fc05624d2eb002614c33019278cf2810d0f08"
+    },
+    {
+      "countyId": "mono",
+      "code": "B004",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3627/B004_AMENDED",
+      "sha256": "880b2837e3dc6f588773c4bc36121aa21bdee3c45b6c1734d33121e010441891"
+    },
+    {
+      "countyId": "mono",
+      "code": "B005",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3628/B005_AMENDED",
+      "sha256": "fecf1c7be176c2f54beb23303997fad6c6557488666eff93ebba932eca761ce7"
+    },
+    {
+      "countyId": "lassen",
+      "url": "https://www.lassencounty.gov/DocumentCenter/View/3261",
+      "sha256": "c11cba4fdab2d2e46e2f256c43f2e87bd6320ee560f61ef1695f7f982456badc"
+    }
+  ]
+}

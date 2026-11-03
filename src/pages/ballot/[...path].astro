@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import BallotApp from '../../components/BallotApp';
+import { ballotEntries } from '../../data/catalog';
+
+export function getStaticPaths() {
+  return ballotEntries.map(({ ballot, basePath }) => {
+    const prefix = basePath.replace('/ballot/', '');
+    return { params: { path: prefix }, props: { ballot, basePath } };
+  });
+}
+const { ballot, basePath } = Astro.props;
+---
+
+<Layout title={`Ballot worksheet · ${ballot.locationShort}`}>
+  <BallotApp ballot={ballot} basePath={basePath} initialPath={`${basePath}/`} client:load />
+  <noscript
+    ><p class="noscript-message">
+      Enable JavaScript to make selections and save your worksheet on this device.
+    </p></noscript
+  >
+</Layout>

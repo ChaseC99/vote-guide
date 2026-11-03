@@ -15,7 +15,7 @@ interface Props {
   onChange: (selection: Selection | undefined) => void;
   ready: boolean;
 }
-const ordinals = ['1st', '2nd', '3rd', '4th', '5th'];
+const ordinals = ['1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th', '10th'];
 
 export function SelectionControls({ contest, value, onChange, ready }: Props) {
   const [message, setMessage] = useState('');
@@ -64,7 +64,25 @@ export function SelectionControls({ contest, value, onChange, ready }: Props) {
           {countLabel}
         </span>
       </div>
-      {contest.type !== 'ranked' ? (
+      {contest.type === 'single' && contest.writeInOnly ? (
+        <div className="write-in-option">
+          <p className="selection-hint">
+            This contest has no printed candidate names. Check your county’s official instructions
+            for eligible write-in candidates.
+          </p>
+          <label htmlFor="write-in-name">Write-in name for your worksheet</label>
+          <input
+            id="write-in-name"
+            type="text"
+            autoComplete="off"
+            maxLength={200}
+            value={typeof value === 'string' ? value : ''}
+            onChange={(event) =>
+              onChange(event.target.value.trim() ? event.target.value : undefined)
+            }
+          />
+        </div>
+      ) : contest.type !== 'ranked' ? (
         <div className="choice-options">
           {options.map((option) => {
             const selected = Array.isArray(value) ? value.includes(option.id) : value === option.id;
@@ -92,7 +110,10 @@ export function SelectionControls({ contest, value, onChange, ready }: Props) {
           })}
         </div>
       ) : (
-        <div className="ranked-options" style={{ '--ranks': contest.max } as CSSProperties}>
+        <div
+          className={`ranked-options ${contest.max > 5 ? 'many-ranks' : ''}`}
+          style={{ '--ranks': contest.max } as CSSProperties}
+        >
           <div className="rank-header" aria-hidden="true">
             <span>Candidate</span>
             {ordinals.slice(0, contest.max).map((ordinal) => (
@@ -119,6 +140,7 @@ export function SelectionControls({ contest, value, onChange, ready }: Props) {
                       className={`rank-button ${selected ? 'selected' : ''}`}
                       aria-label={`${candidate.name}, ${ordinal} choice`}
                       aria-pressed={!!selected}
+                      disabled={!ready}
                       onClick={() => rank(candidate.id, index + 1)}
                     >
                       <span className="rank-bubble" aria-hidden="true">

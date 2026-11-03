@@ -1,0 +1,568 @@
+{
+  "reviewedOn": "2026-11-02",
+  "note": "This records a source-discovery pass, not ballot coverage. HTTP failures are observations from that request; some sources work in a browser. Only county bundles determine app coverage.",
+  "pages": [
+    {
+      "countyId": "alameda",
+      "url": "https://acvote.alamedacountyca.gov/index",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://acvote.alamedacountyca.gov/index",
+      "guideLinks": []
+    },
+    {
+      "countyId": "alpine",
+      "url": "https://www.alpinecountyca.gov/index.aspx?NID=388",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.alpinecountyca.gov/388/Election",
+      "guideLinks": []
+    },
+    {
+      "countyId": "amador",
+      "url": "https://www.amadorcounty.gov/government/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "butte",
+      "url": "https://www.buttevotes.ca.gov/35/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.buttevotes.ca.gov/35/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "calaveras",
+      "url": "https://elections.calaverasgov.us/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://elections.calaverasgov.us/",
+      "guideLinks": [
+        {
+          "url": "https://elections.calaverasgov.us/Next-Election/General-Election/Candidates-and-Measures",
+          "label": "My Voter Guide"
+        },
+        {
+          "url": "https://elections.calaverasgov.us/Next-Election/General-Election/Candidates-and-Measures/Candidate-and-Measure-Guides",
+          "label": "Voter Guides"
+        }
+      ]
+    },
+    {
+      "countyId": "colusa",
+      "url": "https://www.countyofcolusaca.gov/197/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.countyofcolusaca.gov/197/Elections",
+      "guideLinks": [
+        {
+          "url": "https://www.countyofcolusaca.gov/DocumentCenter/View/916",
+          "label": "Sign up for Paperless Sample Ballot"
+        },
+        {
+          "url": "https://www.countyofcolusa.org/DocumentCenter/View/3738",
+          "label": "Information on paperless sample ballot"
+        }
+      ]
+    },
+    {
+      "countyId": "contra-costa",
+      "url": "https://www.contracostavote.gov/elections/",
+      "httpStatus": 202,
+      "error": null,
+      "finalUrl": "https://www.contracostavote.gov/elections/",
+      "guideLinks": []
+    },
+    {
+      "countyId": "del-norte",
+      "url": "https://www.co.del-norte.ca.us/departments/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.co.del-norte.ca.us/departments/Elections",
+      "guideLinks": [
+        {
+          "url": "https://www.co.del-norte.ca.us/departments/elections/Guide",
+          "label": "Your Voter Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "el-dorado",
+      "url": "https://www.eldoradocounty.ca.gov/County-Government/Elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "fresno",
+      "url": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "glenn",
+      "url": "https://www.countyofglenn.net/dept/elections/welcome",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "humboldt",
+      "url": "https://humboldtgov.org/890/Elections-Voter-Registration",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://humboldtgov.org/890/Elections-Voter-Registration",
+      "guideLinks": [
+        {
+          "url": "https://humboldtgov.org/formcenter/elections-6/voter-information-guide-optoutoptin-54",
+          "label": "Voter Information Guide Opt Out"
+        },
+        {
+          "url": "https://humboldtgov.org/2619/Voter-Information-Guide",
+          "label": "Voter Information Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "imperial",
+      "url": "https://elections.imperialcounty.org/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://elections.imperialcounty.org/",
+      "guideLinks": []
+    },
+    {
+      "countyId": "kern",
+      "url": "https://www.kernvote.com/",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "kings",
+      "url": "https://www.countyofkingsca.gov/departments/administration/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "lake",
+      "url": "https://www.lakecountyca.gov/818/Registrar-of-Voters",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.lakecountyca.gov/818/Registrar-of-Voters",
+      "guideLinks": []
+    },
+    {
+      "countyId": "los-angeles",
+      "url": "https://www.lavote.gov/home/voting-elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.lavote.gov/home/voting-elections",
+      "guideLinks": [
+        {
+          "url": "https://www.lavote.gov/home/voting-elections/voting-options/interactive-sample-ballot",
+          "label": "Interactive Sample Ballot"
+        },
+        {
+          "url": "https://www.lavote.gov/home/voting-elections/voting-options/interactive-sample-ballot",
+          "label": "Interactive Sample Ballot"
+        },
+        {
+          "url": "https://www.lavote.gov/home/voting-elections/voter-education/what-to-do-before-an-election/get-your-sample-ballot",
+          "label": "Get Your Sample Ballot"
+        }
+      ]
+    },
+    {
+      "countyId": "madera",
+      "url": "https://votemadera.com/",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "mariposa",
+      "url": "http://www.mariposacounty.org/87/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "http://www.mariposacounty.gov/87/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "mendocino",
+      "url": "https://www.mendocinocounty.gov/government/assessor-county-clerk-recorder-elections/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "modoc",
+      "url": "https://www.countyofmodoc.gov/554/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.countyofmodoc.gov/554/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "monterey",
+      "url": "https://www.countyofmonterey.gov/government/departments-a-h/elections/home",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "napa",
+      "url": "https://www.napacounty.gov/396/Elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "nevada",
+      "url": "https://www.nevadacountyca.gov/3490/Current-Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.nevadacountyca.gov/3490/Current-Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "orange",
+      "url": "https://ocvote.gov/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://ocvote.gov/",
+      "guideLinks": []
+    },
+    {
+      "countyId": "plumas",
+      "url": "https://www.plumascounty.us/142/Elections-Division-Home",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.plumascounty.us/3427/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "riverside",
+      "url": "https://www.voteinfo.net/",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "sacramento",
+      "url": "https://elections.saccounty.gov",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://elections.saccounty.gov",
+      "guideLinks": []
+    },
+    {
+      "countyId": "san-benito",
+      "url": "https://www.sanbenitocounty-ca-cre.gov/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "san-bernardino",
+      "url": "https://elections.sbcounty.gov/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://elections.sbcounty.gov/",
+      "guideLinks": [
+        {
+          "url": "https://elections.sbcounty.gov/Voting/PPL/",
+          "label": "Polling Place and Voter Information Guide Look-up Tool"
+        },
+        {
+          "url": "https://elections.sbcounty.gov/voting/bymail/#translatedballotrequest",
+          "label": "Request Translated Sample Ballots"
+        },
+        {
+          "url": "https://elections.sbcounty.gov/voting/vig/",
+          "label": "My Voter Information Guide"
+        },
+        {
+          "url": "https://elections.sbcounty.gov/Voting/PPL/",
+          "label": "Polling Place and Voter Information Guide Look-up Tool"
+        },
+        {
+          "url": "https://elections.sbcounty.gov/voting/bymail/#translatedballotrequest",
+          "label": "Request Translated Sample Ballots"
+        },
+        {
+          "url": "https://elections.sbcounty.gov/voting/vig/",
+          "label": "My Voter Information Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "san-diego",
+      "url": "https://www.sdvote.com/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.sdvote.com/",
+      "guideLinks": [
+        {
+          "url": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html",
+          "label": "View A Voter Information Pamphlet (Sample Ballot)"
+        },
+        {
+          "url": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html",
+          "label": "View Voter Information Pamphlet (Sample Ballot)"
+        }
+      ]
+    },
+    {
+      "countyId": "san-luis-obispo",
+      "url": "https://www.slocounty.ca.gov/Departments/Clerk-Recorder.aspx",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.slocounty.ca.gov/departments/clerk-recorder",
+      "guideLinks": []
+    },
+    {
+      "countyId": "san-mateo",
+      "url": "https://smcacre.gov/elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://smcacre.gov/elections",
+      "guideLinks": [
+        {
+          "url": "https://smcacre.gov/elections/go-green",
+          "label": "Paperless Sample Ballot (Go Green!)"
+        },
+        {
+          "url": "https://smcacre.gov/elections/go-green",
+          "label": "Paperless Sample Ballot (Go Green!)"
+        }
+      ]
+    },
+    {
+      "countyId": "santa-barbara",
+      "url": "https://www.countyofsb.org/164/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.countyofsb.org/acr-elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "santa-cruz",
+      "url": "https://votescount.santacruzcountyca.gov/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://votescount.santacruzcountyca.gov/",
+      "guideLinks": [
+        {
+          "url": "https://votescount.santacruzcountyca.gov/Home/ElectronicVoterGuideApplication.aspx",
+          "label": "Request Your Voter Information Guide Electronically"
+        }
+      ]
+    },
+    {
+      "countyId": "shasta",
+      "url": "https://elections.shastacounty.gov/",
+      "httpStatus": 202,
+      "error": null,
+      "finalUrl": "https://elections.shastacounty.gov/",
+      "guideLinks": []
+    },
+    {
+      "countyId": "sierra",
+      "url": "https://www.sierracounty.ca.gov/214/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.sierracounty.ca.gov/214/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "siskiyou",
+      "url": "https://www.siskiyoucounty.gov/elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.siskiyoucounty.gov/elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "solano",
+      "url": "https://www.solanocounty.gov/government/registrar-voters",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.solanocounty.gov/government/registrar-voters",
+      "guideLinks": [
+        {
+          "url": "https://www.solanocounty.gov/government/registrar-voters/registrar-voters-how-guides",
+          "label": "Registrar of Voters How to Guides"
+        },
+        {
+          "url": "https://www.solanocounty.gov/government/registrar-voters/sample-ballotpolling-place-lookup",
+          "label": "Sample Ballot/Polling Place Lookup"
+        },
+        {
+          "url": "https://www.solanocounty.gov/government/registrar-voters/registrar-voters-how-guides",
+          "label": "How To...How to guides for petitions, measure arguments, signature issues, and other common issues"
+        },
+        {
+          "url": "https://www.solanocounty.gov/government/registrar-voters/registrar-voters-how-guides",
+          "label": "Guidebooks"
+        },
+        {
+          "url": "https://www.solanocounty.gov/government/registrar-voters/sample-ballotpolling-place-lookup",
+          "label": "Poll Place/Sample Ballot Look Up"
+        }
+      ]
+    },
+    {
+      "countyId": "sonoma",
+      "url": "https://sonomacounty.ca.gov/administrative-support-and-fiscal-services/clerk-recorder-assessor-registrar-of-voters/registrar-of-voters",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters",
+      "guideLinks": [
+        {
+          "url": "https://ca.omniballot.us/sites/06097/default/app/home",
+          "label": "Online Version of County Voter Information Guide"
+        },
+        {
+          "url": "https://voterguide.sos.ca.gov/",
+          "label": "Online Version of State Voter Information Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "stanislaus",
+      "url": "http://stanvote.gov/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.stanvote.gov/",
+      "guideLinks": [
+        {
+          "url": "https://www.stanvote.gov/candidates.shtm",
+          "label": "County Voter Information Guide"
+        },
+        {
+          "url": "https://sites.omniballot.us/06099/app/home",
+          "label": "Sample Ballot Lookup Tool"
+        },
+        {
+          "url": "https://voterguide.sos.ca.gov/",
+          "label": "State Voter Information Guide"
+        },
+        {
+          "url": "https://www.stanvote.gov/vig.shtm",
+          "label": "County Voter Information Guide"
+        },
+        {
+          "url": "https://voterguide.sos.ca.gov/",
+          "label": "State Voter Information Guide"
+        },
+        {
+          "url": "https://ca.omniballot.us/sites/06099/default/app/home",
+          "label": "Sample Ballot Lookup Tool"
+        },
+        {
+          "url": "https://voterguide.sos.ca.gov/",
+          "label": "State Voter Information Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "sutter",
+      "url": "https://www.sutter.gov/government/county-departments/clerk-recorder/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "tehama",
+      "url": "https://www.tehama.gov/government/departments/elections/",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.tehama.gov/government/departments/elections/",
+      "guideLinks": [
+        {
+          "url": "https://www.tehama.gov/wp-content/uploads/2024/10/Easy-Voter-Guide.pdf",
+          "label": "Easy Voter Guide"
+        },
+        {
+          "url": "https://www.tehama.gov/wp-content/uploads/2026/07/Candidate-Guide-2026-General-2.pdf",
+          "label": "Candidate Guide November 2026 General Election"
+        },
+        {
+          "url": "https://www.tehama.yourvoter.guide/",
+          "label": "tehama.yourvoter.guide"
+        }
+      ]
+    },
+    {
+      "countyId": "trinity",
+      "url": "https://www.trinitycounty.org/214/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://www.trinitycounty.org/214/Elections",
+      "guideLinks": []
+    },
+    {
+      "countyId": "tulare",
+      "url": "https://tularecounty.ca.gov/elections",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "tuolumne",
+      "url": "https://www.tuolumnecounty.ca.gov/194/Election-Information",
+      "httpStatus": null,
+      "error": "HTTP Error 403: Forbidden",
+      "finalUrl": null,
+      "guideLinks": []
+    },
+    {
+      "countyId": "ventura",
+      "url": "https://clerkrecorder.venturacounty.gov/elections/",
+      "httpStatus": 202,
+      "error": null,
+      "finalUrl": "https://clerkrecorder.venturacounty.gov/elections/",
+      "guideLinks": []
+    },
+    {
+      "countyId": "yolo",
+      "url": "https://elections.yolocounty.gov/35/Elections",
+      "httpStatus": 200,
+      "error": null,
+      "finalUrl": "https://elections.yolocounty.gov/35/Elections",
+      "guideLinks": [
+        {
+          "url": "https://ca.omniballot.us/sites/06113/default/app/home",
+          "label": "Remote Accessible Vote-by-Mail and County Voter Information Guide"
+        }
+      ]
+    },
+    {
+      "countyId": "yuba",
+      "url": "https://www.yuba.gov/departments/elections/current_election.php",
+      "httpStatus": null,
+      "error": "HTTP Error 404: Not Found",
+      "finalUrl": null,
+      "guideLinks": []
+    }
+  ]
+}

@@ -1,9 +1,4 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import BallotApp from '../components/BallotApp';
-import { ballot } from '../data/ballot';
+import { originalWorksheetPath } from '../data/catalog';
+return Astro.redirect(`${originalWorksheetPath}#complete`, 301);
 ---
-
-<Layout title="End of ballot · Ballot worksheet">
-  <BallotApp ballot={ballot} initialPath="/complete/" client:load />
-</Layout>

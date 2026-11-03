@@ -1,0 +1,191 @@
+{
+  "verifiedOn": "2026-11-02",
+  "candidateContests": [
+    {
+      "contestId": "yolo-member-state-board-of-equalization-district-1",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/393/State",
+      "sourceSha256": "ffab76101e767982bef054f2eef00f176e03ca1a1c265c933f52030ff6e22c42"
+    },
+    {
+      "contestId": "yolo-united-states-representative-district-6",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/392/Federal",
+      "sourceSha256": "1061fafb01f255a3e55d4ca9871fc49949cd0457a3835de16680533ee4dbf8a6"
+    },
+    {
+      "contestId": "yolo-member-of-the-state-assembly-district-4",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/393/State",
+      "sourceSha256": "ffab76101e767982bef054f2eef00f176e03ca1a1c265c933f52030ff6e22c42"
+    },
+    {
+      "contestId": "yolo-washington-unified-school-district-governing-board-member-trustee-area-1",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-city-of-west-sacramento-member-city-council-district-3",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-city-of-west-sacramento-member-city-council-district-4",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-united-states-representative-district-8",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/392/Federal",
+      "sourceSha256": "1061fafb01f255a3e55d4ca9871fc49949cd0457a3835de16680533ee4dbf8a6"
+    },
+    {
+      "contestId": "yolo-river-delta-unified-school-district-governing-board-member-trustee-area-5",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-united-states-representative-district-4",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/392/Federal",
+      "sourceSha256": "1061fafb01f255a3e55d4ca9871fc49949cd0457a3835de16680533ee4dbf8a6"
+    },
+    {
+      "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-3",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-city-of-davis-member-city-council-district-1",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-1",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-city-of-winters-member-city-council",
+      "candidateNamesMatched": true,
+      "maxSelections": 3,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-woodland-joint-unified-school-district-governing-board-member-trustee-area-7",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-county-supervisor-district-3",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/395/County",
+      "sourceSha256": "8edd3f9a0f00ffe49e9bde9ace9f8455f8535dd2090828139c3726ed9d4ad7b9"
+    },
+    {
+      "contestId": "yolo-city-of-woodland-member-city-council-district-1",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-davis-joint-unified-school-district-governing-board-member-trustee-area-4",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/397/School-Districts",
+      "sourceSha256": "f44253623c52f1ac24f9e5bfdf74ec8ca2d9aa930e88f4e5dcf3dddcc8af55e5"
+    },
+    {
+      "contestId": "yolo-city-of-davis-member-city-council-district-4",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-city-of-woodland-member-city-council-district-3",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/423/Municipal-City",
+      "sourceSha256": "302568ebbeac3696a32552035dc71e7c0236a529a8e6f9098393b7c3f4c3acec"
+    },
+    {
+      "contestId": "yolo-knights-landing-community-services-district-director-short-term",
+      "candidateNamesMatched": true,
+      "maxSelections": 1,
+      "sourceUrl": "https://elections.yolocounty.gov/424/Special-Districts",
+      "sourceSha256": "5d07983748adae5a0df043b2adc4cac9e5fcd6073a206d3a0b5f1eee2eaf47b5"
+    }
+  ],
+  "localMeasures": [
+    {
+      "contestId": "yolo-measure-h-los-rios-community-college-district-school-facilities-improvement-district-no-1",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/414/Measure-H---Los-RiosCommunity-College-Di",
+      "sourceSha256": "894afcfe131967fa462b2ebeaff7aaf4ec32bff73a99700ab4f4a79220577893"
+    },
+    {
+      "contestId": "yolo-measure-x-county-of-yolo",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+      "sourceSha256": "4efda85252dd1e29db31755410e11dbfb7ab5cfb431d71380ef501571e0f4880"
+    },
+    {
+      "contestId": "yolo-measure-w-city-of-davis",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/417/Measure-W---City-of-Davis",
+      "sourceSha256": "3fa9c53d22f071ade7ec69f9566b4ab260d3d426a2ec7520dd3a3693b71409bc"
+    },
+    {
+      "contestId": "yolo-measure-b-winters-joint-unified-school-district",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/415/Measure-B---Winters-Joint-Unified-School",
+      "sourceSha256": "62cc99104b727f68c500ea124eab315646356cc83af6b7138c253b03e5c9ccda"
+    },
+    {
+      "contestId": "yolo-measure-y-city-of-woodland",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+      "sourceSha256": "73404b29130907f6be1b1977b3cf415085690523ae220f62d2ebad9f7789cc2f"
+    },
+    {
+      "contestId": "yolo-measure-z-city-of-woodland",
+      "questionMatched": true,
+      "sourceUrl": "https://elections.yolocounty.gov/418/Measure-Z---City-of-Woodland",
+      "sourceSha256": "db9c4968579e30112ab141ef4b97cccb948e69458fd007beacea0a32ebc8be0b"
+    }
+  ],
+  "compositeMatchesVoterStyleUnion": true,
+  "uniqueContestCount": 57,
+  "notes": [
+    "Only races marked ON BALLOT in the county filing pages are expected; withdrawn and off-ballot offices are excluded.",
+    "Candidate ordering may rotate.",
+    "The published vendor labels Proposition 2 as a contest; its explicit proposition title, yes/no options and one-selection limit identify it as a ballot question.",
+    "Generic vendor jurisdiction headers are inconsistent in a few local boxes; the full official contest title supplies the actual jurisdiction."
+  ]
+}

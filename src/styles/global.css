@@ -49,6 +49,20 @@ input,
 textarea {
   font: inherit;
 }
+.write-in-option {
+  display: grid;
+  gap: 12px;
+  margin-block: 16px;
+}
+.write-in-option input {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 12px;
+  color: inherit;
+  background: var(--paper);
+  border: 1px solid currentColor;
+  border-radius: 4px;
+}
 button,
 a,
 input,
@@ -1337,6 +1351,365 @@ textarea::placeholder {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+}
+.ballot-identity {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 15px 0 0;
+  font: 500 11px/1.6 var(--mono);
+}
+.ballot-finder {
+  max-width: 880px;
+  padding: 0 32px 32px;
+  margin: 0 auto;
+}
+.finder-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 26px 0;
+  border-bottom: 1px solid var(--line);
+}
+.finder-header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10px;
+}
+.finder-brand {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 650;
+  font-size: 15px;
+}
+.finder-brand span {
+  padding-left: 12px;
+  color: var(--blue);
+}
+.finder-intro {
+  padding: 56px 0 32px;
+  max-width: 650px;
+}
+.finder-intro > .eyebrow {
+  color: var(--blue);
+}
+.finder-intro h1 {
+  font-size: clamp(36px, 6vw, 52px);
+  margin-bottom: 20px;
+}
+.finder-intro > p:not(.eyebrow) {
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.finder-intro > .finder-privacy {
+  font-size: 12px !important;
+}
+.finder-county {
+  border-top: 2px solid var(--ink);
+  padding-top: 24px;
+}
+.ballot-finder h2 {
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  line-height: 1.4;
+}
+.ballot-finder h2:focus {
+  outline: none;
+}
+.step-number {
+  font: 500 11px var(--mono);
+  color: var(--muted);
+  margin-right: 14px;
+  vertical-align: middle;
+}
+.ballot-finder label {
+  display: block;
+  font-size: 13px;
+  font-weight: 550;
+  margin-bottom: 8px;
+}
+.ballot-finder select,
+.ballot-finder input:not([type='checkbox']) {
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 12px;
+  background: white;
+  border: 1px solid #9b9a96;
+  border-radius: 0;
+  color: var(--ink);
+  font: inherit;
+}
+.ballot-finder select {
+  max-width: 480px;
+}
+.ballot-finder select:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}
+.finder-help {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+  margin: 10px 0 18px;
+}
+.finder-flow {
+  margin-top: 30px;
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+}
+.finder-step-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: baseline;
+}
+.finder-step-heading h2 {
+  margin-bottom: 16px;
+}
+.finder-step-heading .text-button {
+  flex-shrink: 0;
+}
+.finder-methods {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.method-card {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items: flex-start;
+  gap: 14px;
+  border: 1px solid var(--line);
+  background: white;
+  color: var(--ink);
+}
+.method-card:hover {
+  border-color: var(--blue);
+  background: var(--blue-wash);
+}
+.method-card > .eyebrow {
+  font-size: 9px;
+  color: var(--muted);
+}
+.method-card > strong {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 14px;
+  font-size: 18px;
+  line-height: 1.4;
+}
+.method-card > span:last-child {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.finder-code,
+.finder-question,
+.finder-confirmation {
+  padding: 24px;
+  border: 1px solid var(--line);
+  background: white;
+}
+.finder-code-row {
+  display: flex;
+  gap: 12px;
+  align-items: stretch;
+}
+.finder-code-row input {
+  min-width: 0;
+  flex: 1;
+  max-width: 320px;
+}
+.finder-code-row .button {
+  flex-shrink: 0;
+}
+.finder-error {
+  font-size: 13px;
+  color: var(--no);
+  line-height: 1.6;
+  margin: 14px 0 0;
+}
+.finder-question h3 {
+  font-size: 18px;
+  line-height: 1.5;
+}
+.question-contest {
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 1.4;
+  border-left: 3px solid var(--blue);
+  padding-left: 16px;
+  margin: 20px 0;
+}
+.finder-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+.finder-back {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  padding-top: 10px;
+}
+.finder-back .finder-help {
+  margin: 0 0 0 auto;
+}
+.finder-notice {
+  background: var(--wash);
+  border: 1px solid var(--line);
+  padding: 24px;
+  margin-top: 24px;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.finder-notice h2 {
+  margin-bottom: 12px;
+}
+.finder-sources {
+  margin-top: 24px;
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+.finder-sources p {
+  margin-top: 8px;
+}
+.finder-footer {
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+  margin-top: 44px;
+  font-size: 11px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.finder-footer p {
+  margin-bottom: 8px;
+}
+.finder-confirmation h3 {
+  font-size: 24px;
+  line-height: 1.4;
+}
+.finder-confirmation > p:not(.eyebrow) {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.confirmation-contests {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin: 24px 0;
+}
+.confirmation-contests summary {
+  padding: 16px 0;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.confirmation-contests ol {
+  margin: 0 0 20px;
+  padding-left: 26px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.confirmation-contests li {
+  padding: 3px 0;
+}
+.ballot-finder .finder-check {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  line-height: 1.6;
+  margin: 20px 0;
+}
+.finder-check input {
+  width: 20px;
+  height: 20px;
+  margin: 1px 0 0;
+  flex-shrink: 0;
+  accent-color: var(--blue);
+}
+.finder-confirmation > .text-button {
+  display: block;
+  margin-top: 8px;
+}
+.button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.many-ranks .rank-header {
+  display: none;
+}
+.many-ranks .rank-row {
+  display: block;
+  padding: 12px;
+  margin-top: 8px;
+  border: 1px solid #cfcdc8;
+}
+.many-ranks .rank-candidate {
+  padding: 0 0 12px;
+}
+.many-ranks .rank-buttons {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+}
+.many-ranks .rank-button {
+  min-height: 44px;
+  border: 1px solid #b4b3ae;
+}
+.many-ranks .rank-ordinal {
+  display: block;
+  font: 500 11px var(--mono);
+}
+.many-ranks .rank-bubble {
+  display: none;
+}
+@media (max-width: 599px) {
+  .ballot-finder {
+    padding: 0 20px 24px;
+  }
+  .finder-header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px 0;
+  }
+  .finder-intro {
+    padding: 36px 0 20px;
+  }
+  .finder-methods {
+    grid-template-columns: 1fr;
+  }
+  .finder-code,
+  .finder-question,
+  .finder-confirmation {
+    padding: 18px;
+  }
+  .finder-code-row {
+    flex-direction: column;
+  }
+  .finder-code-row input {
+    max-width: none;
+  }
+  .finder-step-heading {
+    flex-wrap: wrap;
+    gap: 0 12px;
+  }
+  .finder-back .finder-help {
+    width: 100%;
+    margin: 0;
+  }
+  .finder-notice {
+    padding: 18px;
   }
 }
 @page {

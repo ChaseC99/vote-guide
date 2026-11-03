@@ -1,5 +1,6 @@
 import type { Ballot, Contest } from '../data/schema';
-import { contestPath, numberLabel } from '../lib/navigation';
+import { numberLabel } from '../lib/navigation';
+import { useBallotPaths } from '../lib/routeContext';
 import { Progress } from './Progress';
 import { SourceLinks } from './SourceLinks';
 import { SelectionControls } from './SelectionControls';
@@ -26,6 +27,7 @@ export function ContestPane({
   onNote,
   onPrivacy,
 }: Props) {
+  const { homePath, contestPath } = useBallotPaths();
   const index = ballot.contests.indexOf(contest);
   const previous = ballot.contests[index - 1];
   const next = ballot.contests[index + 1];
@@ -46,7 +48,7 @@ export function ContestPane({
     <main className="contest-pane" id="main-content">
       <header className="contest-mobile-header">
         <div className="mobile-topline">
-          <a href="/" data-route>
+          <a href={homePath} data-route>
             ‹ All
           </a>
           <span>
@@ -57,7 +59,8 @@ export function ContestPane({
       </header>
       <div className="contest-content">
         <p className="eyebrow contest-kicker">
-          {contest.section} · {typeLabel}
+          {contest.section} ·{' '}
+          {contest.type === 'single' && contest.writeInOnly ? 'Write-in only' : typeLabel}
           {ballot.isMock ? ' · Sample contest' : ''}
         </p>
         <h1 id="contest-title" tabIndex={-1}>
@@ -145,7 +148,7 @@ export function ContestPane({
         <nav className="contest-navigation" aria-label="Contests">
           <a
             className="button previous-button"
-            href={previous ? contestPath(previous) : '/'}
+            href={previous ? contestPath(previous) : homePath}
             data-route
           >
             <span className="nav-caption">← Previous</span>
@@ -178,7 +181,7 @@ export function ContestPane({
         <nav aria-label="Mobile contest navigation">
           <a
             className="button"
-            href={previous ? contestPath(previous) : '/'}
+            href={previous ? contestPath(previous) : homePath}
             data-route
             aria-label={previous ? `Previous: ${previous.shortTitle}` : 'All contests'}
           >

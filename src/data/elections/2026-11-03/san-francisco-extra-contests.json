@@ -1,0 +1,603 @@
+[
+  {
+    "id": "us-representative-district-15",
+    "slug": "us-representative-district-15",
+    "section": "Federal",
+    "title": "U.S. Representative, District 15",
+    "shortTitle": "U.S. Rep., D15",
+    "type": "single",
+    "rule": "Vote for 1",
+    "summary": "Represents Congressional District 15 in the U.S. House of Representatives. Two-year term.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "Charles Hoelter",
+        "occupation": "Retired Training Supervisor",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Republican"
+      },
+      {
+        "id": "candidate-1",
+        "name": "Kevin Mullin",
+        "occupation": "U.s. Representative",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ]
+  },
+  {
+    "id": "state-senate-district-2",
+    "slug": "state-senate-district-2",
+    "section": "State",
+    "title": "State Senator, District 2",
+    "shortTitle": "State Senate, D2",
+    "type": "single",
+    "rule": "Vote for 1",
+    "summary": "Represents State Senate District 2 in the California Legislature. Four-year term.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "Tief Gibbs",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Republican"
+      },
+      {
+        "id": "candidate-1",
+        "name": "Damon Connolly",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ]
+  },
+  {
+    "id": "state-assembly-district-12",
+    "slug": "state-assembly-district-12",
+    "section": "State",
+    "title": "State Assembly Member, District 12",
+    "shortTitle": "State Assembly, D12",
+    "type": "single",
+    "rule": "Vote for 1",
+    "summary": "Represents Assembly District 12 in the California Legislature. Two-year term.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "Jackie Elward",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      },
+      {
+        "id": "candidate-1",
+        "name": "Eric Lucan",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ]
+  },
+  {
+    "id": "state-assembly-district-17",
+    "slug": "state-assembly-district-17",
+    "section": "State",
+    "title": "State Assembly Member, District 17",
+    "shortTitle": "State Assembly, D17",
+    "type": "single",
+    "rule": "Vote for 1",
+    "summary": "Represents Assembly District 17 in the California Legislature. Two-year term.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "Manuel Noris-Barrera",
+        "occupation": "No Ballot Designation",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Republican"
+      },
+      {
+        "id": "candidate-1",
+        "name": "Matt Haney",
+        "occupation": "Assemblymember",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ]
+  },
+  {
+    "id": "state-assembly-district-18",
+    "slug": "state-assembly-district-18",
+    "section": "State",
+    "title": "State Assembly Member, District 18",
+    "shortTitle": "State Assembly, D18",
+    "type": "single",
+    "rule": "Vote for 1",
+    "summary": "Represents Assembly District 18 in the California Legislature. Two-year term.",
+    "candidates": [
+      {
+        "id": "candidate-1",
+        "name": "Mia Bonta",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      },
+      {
+        "id": "candidate-2",
+        "name": "Andre Sandford",
+        "occupation": "No ballot designation provided",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ],
+        "party": "Democratic"
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ]
+  },
+  {
+    "id": "board-of-supervisors-district-2",
+    "slug": "board-of-supervisors-district-2",
+    "section": "Local",
+    "title": "Board of Supervisors, District 2",
+    "shortTitle": "Supervisor, D2",
+    "type": "ranked",
+    "rule": "Rank up to 4 listed candidates",
+    "summary": "Represents Supervisorial District 2 on the San Francisco Board of Supervisors. Four-year term. This worksheet lets you rank the listed candidates; follow the instructions on your official ballot for write-ins.",
+    "candidates": [
+      {
+        "id": "candidate-4",
+        "name": "Stephen Sherrill",
+        "occupation": "Appointed Member, Board Of Supervisors",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-6",
+        "name": "Nicholas Berg",
+        "occupation": "Property Management Executive",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-2",
+        "name": "Guy Mccoy",
+        "occupation": "None",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-3",
+        "name": "Monthanus Ratanapakdee",
+        "occupation": "Community Advocate / Mother",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ],
+    "max": 4
+  },
+  {
+    "id": "board-of-supervisors-district-4",
+    "slug": "board-of-supervisors-district-4",
+    "section": "Local",
+    "title": "Board of Supervisors, District 4",
+    "shortTitle": "Supervisor, D4",
+    "type": "ranked",
+    "rule": "Rank up to 3 listed candidates",
+    "summary": "Represents Supervisorial District 4 on the San Francisco Board of Supervisors. Four-year term. This worksheet lets you rank the listed candidates; follow the instructions on your official ballot for write-ins.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "ALAN WONG",
+        "occupation": "Appointed Member, Board Of Supervisors",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-6",
+        "name": "Albert Chow",
+        "occupation": "Hardware Store Owner",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-4",
+        "name": "JEREMY JULIAN GRECO",
+        "occupation": "Campus Coordinator / Monologist",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ],
+    "max": 3
+  },
+  {
+    "id": "board-of-supervisors-district-6",
+    "slug": "board-of-supervisors-district-6",
+    "section": "Local",
+    "title": "Board of Supervisors, District 6",
+    "shortTitle": "Supervisor, D6",
+    "type": "ranked",
+    "rule": "Rank up to 2 listed candidates",
+    "summary": "Represents Supervisorial District 6 on the San Francisco Board of Supervisors. Four-year term. This worksheet lets you rank the listed candidates; follow the instructions on your official ballot for write-ins.",
+    "candidates": [
+      {
+        "id": "candidate-2",
+        "name": "Alexander Behrend",
+        "occupation": "Laborer / Community Organizer",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-1",
+        "name": "Matt Dorsey",
+        "occupation": "San Francisco Supervisor",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ],
+    "max": 2
+  },
+  {
+    "id": "board-of-supervisors-district-8",
+    "slug": "board-of-supervisors-district-8",
+    "section": "Local",
+    "title": "Board of Supervisors, District 8",
+    "shortTitle": "Supervisor, D8",
+    "type": "ranked",
+    "rule": "Rank up to 4 listed candidates",
+    "summary": "Represents Supervisorial District 8 on the San Francisco Board of Supervisors. Four-year term. This worksheet lets you rank the listed candidates; follow the instructions on your official ballot for write-ins.",
+    "candidates": [
+      {
+        "id": "candidate-1",
+        "name": "Gary Mccoy",
+        "occupation": "Healthcare Policy Advocate",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-2",
+        "name": "Michael Nguyen",
+        "occupation": "Attorney / Drag Producer",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-5",
+        "name": "Darshini Patel",
+        "occupation": "Community Advocate",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-4",
+        "name": "Emanuel \"Manny\" Yekutiel",
+        "occupation": "Small Business Owner",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ],
+    "max": 4
+  },
+  {
+    "id": "board-of-supervisors-district-10",
+    "slug": "board-of-supervisors-district-10",
+    "section": "Local",
+    "title": "Board of Supervisors, District 10",
+    "shortTitle": "Supervisor, D10",
+    "type": "ranked",
+    "rule": "Rank up to 10 listed candidates",
+    "summary": "Represents Supervisorial District 10 on the San Francisco Board of Supervisors. Four-year term. This worksheet lets you rank the listed candidates; follow the instructions on your official ballot for write-ins.",
+    "candidates": [
+      {
+        "id": "candidate-1",
+        "name": "PEARCI \"PJ\" BASTIANY, III",
+        "occupation": "Mpa Graduate Student",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-7",
+        "name": "Jessica Pessecow",
+        "occupation": "Nurse / Legal Representative",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-8",
+        "name": "DIONJAY (DJ) BROOKTER",
+        "occupation": "Community Organizer",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-4",
+        "name": "Deandra Bryant",
+        "occupation": "Housing Advocate",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-6",
+        "name": "THEO ELLINGTON",
+        "occupation": "Public Policy Director",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-3",
+        "name": "J.R. EPPLER",
+        "occupation": "Small Business Attorney",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-9",
+        "name": "ELLSWORTH \"ELL\" JENNISON, JR",
+        "occupation": "Union Carpenter",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-2",
+        "name": "Mike Trouble Lin",
+        "occupation": "Small Business Consultant",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-10",
+        "name": "Jamo Muhammad",
+        "occupation": "Father",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      },
+      {
+        "id": "candidate-11",
+        "name": "Shawn M. Richard",
+        "occupation": "None",
+        "links": [
+          {
+            "label": "SF qualified candidate data",
+            "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+            "group": "sources"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "SF qualified candidate data",
+        "url": "https://sfelections.org/tools/election_data/datasets/2026-11-03/CFMJ001_ContestCandidateData.txt",
+        "group": "sources"
+      }
+    ],
+    "max": 10
+  }
+]

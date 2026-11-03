@@ -38,7 +38,21 @@ export const contestSchema = z.discriminatedUnion('type', [
     noShort: z.string(),
     threshold: z.string().optional(),
   }),
-  z.object({ ...base, type: z.literal('single'), candidates: z.array(candidateSchema).min(1) }),
+  z
+    .object({
+      ...base,
+      type: z.literal('single'),
+      candidates: z.array(candidateSchema),
+      writeInOnly: z.literal(true).optional(),
+    })
+    .superRefine((contest, context) => {
+      if ((contest.candidates.length === 0) !== (contest.writeInOnly === true))
+        context.addIssue({
+          code: 'custom',
+          message: 'An empty candidate list requires an explicitly verified write-in-only contest',
+          path: ['candidates'],
+        });
+    }),
   z.object({
     ...base,
     type: z.literal('multi'),
@@ -48,7 +62,7 @@ export const contestSchema = z.discriminatedUnion('type', [
   z.object({
     ...base,
     type: z.literal('ranked'),
-    max: z.number().int().min(1).max(5),
+    max: z.number().int().min(1).max(10),
     candidates: z.array(candidateSchema).min(1),
   }),
 ]);
@@ -62,17 +76,12 @@ export const ballotSchema = z
     jurisdiction: z.string().min(1),
     locationShort: z.string().min(1),
     isMock: z.boolean(),
+    ballotCode: z.string().optional(),
+    countyId: z.string().optional(),
     provenance: z
       .object({
         verifiedOn: z.iso.date(),
-        districts: z.object({
-          congressional: z.number().int().positive(),
-          assembly: z.number().int().positive(),
-          senate: z.number().int().positive(),
-          boardOfEqualization: z.number().int().positive(),
-          supervisorial: z.number().int().positive(),
-          bart: z.number().int().positive(),
-        }),
+        districts: z.record(z.string(), z.number().int().positive()),
         note: z.string().min(1),
         sources: z.array(linkSchema).min(1),
       })

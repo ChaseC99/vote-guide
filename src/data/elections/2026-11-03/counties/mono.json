@@ -1,0 +1,904 @@
+{
+  "countyId": "mono",
+  "countyName": "Mono",
+  "jurisdiction": "Mono County, California",
+  "electionId": "2026-11-03",
+  "verifiedOn": "2026-11-02",
+  "coverage": "complete",
+  "coverageNote": "All five amended county sample ballots are loaded, including federal and state offices, judicial retention votes, state propositions, and applicable local contests. Mono County corrected errors in its originally mailed voter guides; use the amended guide when matching.",
+  "sourceUrl": "https://www.monocounty.ca.gov/2547/Voter-Information-Guides",
+  "lookupUrl": "https://www.monocounty.ca.gov/2547/Voter-Information-Guides",
+  "codeHelp": "Use B001\u2013B005 from the county\u2019s amended guide listing, or the complete printed sample-page code such as 026SB004A. Precinct numbers are different from ballot codes; use the precinct descriptions or match your amended sample ballot.",
+  "styles": [
+    {
+      "code": "B001",
+      "aliases": [
+        "026SB001A",
+        "026SB001B",
+        "026SB001C",
+        "026SB001D"
+      ],
+      "label": "Precincts 1, 3, 4-2, 5, 6 \u2014 Eastern Sierra school bond",
+      "contestIds": [
+        "us-representative-district-5",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-senate-district-4",
+        "state-assembly-district-8",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "mono-measure-o"
+      ],
+      "districts": {
+        "congressional": 5,
+        "stateSenate": 4,
+        "stateAssembly": 8,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "B002",
+      "aliases": [
+        "026SB002A",
+        "026SB002B",
+        "026SB002C",
+        "026SB002D"
+      ],
+      "label": "Precinct 4-1 \u2014 no local contests",
+      "contestIds": [
+        "us-representative-district-5",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-senate-district-4",
+        "state-assembly-district-8",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45"
+      ],
+      "districts": {
+        "congressional": 5,
+        "stateSenate": 4,
+        "stateAssembly": 8,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "B003",
+      "aliases": [
+        "026SB003A",
+        "026SB003B",
+        "026SB003C",
+        "026SB003D"
+      ],
+      "label": "Precinct 7 \u2014 Mammoth schools and Southern Mono health",
+      "contestIds": [
+        "us-representative-district-5",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-senate-district-4",
+        "state-assembly-district-8",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "mono-board-of-education-area-3",
+        "mono-kern-community-college-board",
+        "mono-southern-mono-health-care-directors",
+        "mono-measure-p"
+      ],
+      "districts": {
+        "congressional": 5,
+        "stateSenate": 4,
+        "stateAssembly": 8,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "B004",
+      "aliases": [
+        "026SB004A",
+        "026SB004B",
+        "026SB004C",
+        "026SB004D"
+      ],
+      "label": "Precincts 8, 9, 10, 12, 13 \u2014 Mammoth Lakes town council",
+      "contestIds": [
+        "us-representative-district-5",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-senate-district-4",
+        "state-assembly-district-8",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "mono-board-of-education-area-3",
+        "mono-kern-community-college-board",
+        "mono-mammoth-lakes-town-council",
+        "mono-southern-mono-health-care-directors",
+        "mono-measure-p"
+      ],
+      "districts": {
+        "congressional": 5,
+        "stateSenate": 4,
+        "stateAssembly": 8,
+        "boardOfEqualization": 1
+      }
+    },
+    {
+      "code": "B005",
+      "aliases": [
+        "026SB005A",
+        "026SB005B",
+        "026SB005C",
+        "026SB005D"
+      ],
+      "label": "Precinct 11 \u2014 Bishop schools",
+      "contestIds": [
+        "us-representative-district-5",
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "board-of-equalization-district-1",
+        "state-senate-district-4",
+        "state-assembly-district-8",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "retain-laurie-earl",
+        "retain-lauri-damrell",
+        "retain-david-b-sapp",
+        "retain-stacy-boulware-eurie",
+        "retain-jonathan-renner",
+        "retain-aimee-a-feinberg",
+        "retain-shama-mesiwala",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "mono-kern-community-college-board",
+        "mono-bishop-unified-school-board"
+      ],
+      "districts": {
+        "congressional": 5,
+        "stateSenate": 4,
+        "stateAssembly": 8,
+        "boardOfEqualization": 1
+      }
+    }
+  ],
+  "sharedContestIds": [
+    "governor",
+    "lieutenant-governor",
+    "secretary-of-state",
+    "controller",
+    "treasurer",
+    "attorney-general",
+    "insurance-commissioner",
+    "retain-joshua-groban",
+    "retain-kelli-m-evans",
+    "superintendent-public-instruction",
+    "state-prop-1",
+    "state-prop-2",
+    "state-prop-3",
+    "state-prop-4",
+    "state-prop-5",
+    "state-prop-37",
+    "state-prop-38",
+    "state-prop-39",
+    "state-prop-40",
+    "state-prop-41",
+    "state-prop-42",
+    "state-prop-43",
+    "state-prop-44",
+    "state-prop-45"
+  ],
+  "contests": [
+    {
+      "id": "us-representative-district-5",
+      "slug": "us-representative-district-5",
+      "section": "Federal",
+      "title": "U.S. Representative, District 5",
+      "shortTitle": "U.S. Representative, District 5",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "michael-masuda",
+          "name": "Michael Masuda",
+          "occupation": "Foreign Affairs Officer",
+          "links": [],
+          "party": "Democratic"
+        },
+        {
+          "id": "tom-mcclintock",
+          "name": "Tom McClintock",
+          "occupation": "United States Representative",
+          "links": [],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "board-of-equalization-district-1",
+      "slug": "board-of-equalization-district-1",
+      "section": "State",
+      "title": "Board of Equalization, District 1",
+      "shortTitle": "Board of Equalization, District 1",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "shannon-grove",
+          "name": "Shannon Grove",
+          "occupation": "State Senator/Businesswoman",
+          "links": [],
+          "party": "Republican"
+        },
+        {
+          "id": "nelson-esparza",
+          "name": "Nelson Esparza",
+          "occupation": "Teacher/Economist/Councilmember",
+          "links": [],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "state-senate-district-4",
+      "slug": "state-senate-district-4",
+      "section": "State",
+      "title": "State Senator, District 4",
+      "shortTitle": "State Senator, District 4",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "jaron-brandon",
+          "name": "Jaron Brandon",
+          "occupation": "County Supervisor",
+          "links": [],
+          "party": "Democratic"
+        },
+        {
+          "id": "alexandra-duarte",
+          "name": "Alexandra Duarte",
+          "occupation": "Mother/Farmer",
+          "links": [],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "state-assembly-district-8",
+      "slug": "state-assembly-district-8",
+      "section": "State",
+      "title": "State Assembly Member, District 8",
+      "shortTitle": "State Assembly Member, District 8",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "david-jariustokaeutulelei-tangipa",
+          "name": "David Jariustokaeutulelei Tangipa",
+          "occupation": "State Assemblymember",
+          "links": [],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "retain-laurie-earl",
+      "slug": "retain-laurie-earl",
+      "section": "State",
+      "type": "yesno",
+      "title": "Laurie Earl \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Laurie Earl",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Laurie Earl should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Laurie Earl in this judicial office.",
+      "no": "Do not retain Laurie Earl in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-lauri-damrell",
+      "slug": "retain-lauri-damrell",
+      "section": "State",
+      "type": "yesno",
+      "title": "Lauri Damrell \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Lauri Damrell",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Lauri Damrell should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Lauri Damrell in this judicial office.",
+      "no": "Do not retain Lauri Damrell in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-david-b-sapp",
+      "slug": "retain-david-b-sapp",
+      "section": "State",
+      "type": "yesno",
+      "title": "David B. Sapp \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain David B. Sapp",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether David B. Sapp should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain David B. Sapp in this judicial office.",
+      "no": "Do not retain David B. Sapp in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-stacy-boulware-eurie",
+      "slug": "retain-stacy-boulware-eurie",
+      "section": "State",
+      "type": "yesno",
+      "title": "Stacy Boulware Eurie \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Stacy Boulware Eurie",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Stacy Boulware Eurie should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Stacy Boulware Eurie in this judicial office.",
+      "no": "Do not retain Stacy Boulware Eurie in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-jonathan-renner",
+      "slug": "retain-jonathan-renner",
+      "section": "State",
+      "type": "yesno",
+      "title": "Jonathan Renner \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Jonathan Renner",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Jonathan Renner should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Jonathan Renner in this judicial office.",
+      "no": "Do not retain Jonathan Renner in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-aimee-a-feinberg",
+      "slug": "retain-aimee-a-feinberg",
+      "section": "State",
+      "type": "yesno",
+      "title": "Aimee A. Feinberg \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Aimee A. Feinberg",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Aimee A. Feinberg should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Aimee A. Feinberg in this judicial office.",
+      "no": "Do not retain Aimee A. Feinberg in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "retain-shama-mesiwala",
+      "slug": "retain-shama-mesiwala",
+      "section": "State",
+      "type": "yesno",
+      "title": "Shama Mesiwala \u2014 Court of Appeal, Third District",
+      "shortTitle": "Retain Shama Mesiwala",
+      "rule": "Vote Yes or No",
+      "summary": "Decide whether Shama Mesiwala should be elected to the Court of Appeal, Third District, for the term provided by law.",
+      "yes": "Retain Shama Mesiwala in this judicial office.",
+      "no": "Do not retain Shama Mesiwala in this judicial office.",
+      "yesShort": "Retain",
+      "noShort": "Do not retain",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "mono-board-of-education-area-3",
+      "slug": "mono-board-of-education-area-3",
+      "section": "Local",
+      "title": "Mono County Board of Education, Trustee Area 3",
+      "shortTitle": "Mono County Board of Education, Trustee Area 3",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B003 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "multi",
+      "candidates": [
+        {
+          "id": "lara-kaylor",
+          "name": "Lara Kaylor",
+          "occupation": "Small Business Owner",
+          "links": []
+        },
+        {
+          "id": "drea-perry",
+          "name": "Drea Perry",
+          "occupation": "Trustee, Mono County Office of Education",
+          "links": []
+        },
+        {
+          "id": "dave-titus",
+          "name": "Dave Titus",
+          "occupation": "Incumbent",
+          "links": []
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "mono-kern-community-college-board",
+      "slug": "mono-kern-community-college-board",
+      "section": "Local",
+      "title": "Kern Community College District Governing Board",
+      "shortTitle": "Kern Community College District Governing Board",
+      "rule": "Vote for one",
+      "summary": "Elect one member to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B003 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "single",
+      "candidates": [
+        {
+          "id": "christina-scrivner",
+          "name": "Christina Scrivner",
+          "occupation": "Incumbent",
+          "links": []
+        },
+        {
+          "id": "paula-bray",
+          "name": "Paula Bray",
+          "occupation": "Director",
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "mono-southern-mono-health-care-directors",
+      "slug": "mono-southern-mono-health-care-directors",
+      "section": "Local",
+      "title": "Southern Mono Health Care District Directors",
+      "shortTitle": "Southern Mono Health Care District Directors",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B003 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "multi",
+      "candidates": [
+        {
+          "id": "matthew-hall",
+          "name": "Matthew Hall",
+          "occupation": "Retired Landscape Architect",
+          "links": []
+        },
+        {
+          "id": "joanne-hunt",
+          "name": "Joanne Hunt",
+          "occupation": "Retired Registered Nurse",
+          "links": []
+        },
+        {
+          "id": "yuri-parisky",
+          "name": "Yuri Parisky",
+          "occupation": "Incumbent",
+          "links": []
+        },
+        {
+          "id": "sophie-bidet",
+          "name": "Sophie Bidet",
+          "occupation": "Attorney",
+          "links": []
+        },
+        {
+          "id": "daniel-ranson",
+          "name": "Daniel Ranson",
+          "occupation": "Business Owner/Pschotherapist",
+          "links": []
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "mono-mammoth-lakes-town-council",
+      "slug": "mono-mammoth-lakes-town-council",
+      "section": "Local",
+      "title": "Mammoth Lakes Town Council",
+      "shortTitle": "Mammoth Lakes Town Council",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B004 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3627/B004_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "multi",
+      "candidates": [
+        {
+          "id": "tarek-nuttall",
+          "name": "Tarek Nuttall",
+          "occupation": "Business Owner",
+          "links": []
+        },
+        {
+          "id": "steve-shatkin",
+          "name": "Steve Shatkin",
+          "occupation": "Small Business Owner",
+          "links": []
+        },
+        {
+          "id": "stacey-slichta",
+          "name": "Stacey Slichta",
+          "occupation": "Educator/Chef/Mother",
+          "links": []
+        },
+        {
+          "id": "mark-barrow",
+          "name": "Mark Barrow",
+          "occupation": "IT Technician",
+          "links": []
+        },
+        {
+          "id": "danielle-bauman",
+          "name": "Danielle Bauman",
+          "occupation": "Fitness Professional/Realtor",
+          "links": []
+        },
+        {
+          "id": "cory-rice",
+          "name": "Cory Rice",
+          "occupation": "Businessman/Father",
+          "links": []
+        },
+        {
+          "id": "jason-elwell",
+          "name": "Jason Elwell",
+          "occupation": "Hairstylist/Student",
+          "links": []
+        },
+        {
+          "id": "lakota-mikulicich",
+          "name": "Lakota Mikulicich",
+          "occupation": "Business Owner",
+          "links": []
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "mono-bishop-unified-school-board",
+      "slug": "mono-bishop-unified-school-board",
+      "section": "Local",
+      "title": "Bishop Unified School District Governing Board",
+      "shortTitle": "Bishop Unified School District Governing Board",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B005 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3628/B005_AMENDED",
+          "group": "sources"
+        }
+      ],
+      "type": "multi",
+      "candidates": [
+        {
+          "id": "joshua-r-nicholson",
+          "name": "Joshua R. Nicholson",
+          "occupation": "BUSD School Board Member",
+          "links": []
+        },
+        {
+          "id": "scott-gadea",
+          "name": "Scott Gadea",
+          "occupation": "Probation/Business Owner",
+          "links": []
+        },
+        {
+          "id": "virginia-figueroa",
+          "name": "Virginia Figueroa",
+          "occupation": "Bishop Unified School District Board Member",
+          "links": []
+        },
+        {
+          "id": "tyler-mcmanus",
+          "name": "Tyler McManus",
+          "occupation": "Executive Director",
+          "links": []
+        },
+        {
+          "id": "claudia-moya-tanner",
+          "name": "Claudia Moya-Tanner",
+          "occupation": "Incumbent",
+          "links": []
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "mono-measure-o",
+      "slug": "mono-measure-o",
+      "section": "Local",
+      "type": "yesno",
+      "title": "Measure O \u2014 Eastern Sierra School Facilities Bonds",
+      "shortTitle": "Measure O",
+      "rule": "Vote Yes or No",
+      "summary": "Authorize $6 million in bonds for School Facilities Improvement District No. 1 of Eastern Sierra Unified School District to build and equip career technical education facilities at Coleville and Lee Vining high schools and improve school safety. Estimated property taxes are $19 per $100,000 of assessed value, raising $390,000 annually while bonds are outstanding, with citizen oversight and audits.",
+      "yes": "Authorize the school facilities bonds and property taxes to repay them.",
+      "no": "Do not authorize these bonds or their repayment taxes.",
+      "yesShort": "Approve",
+      "noShort": "Reject",
+      "threshold": "55% approval required",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "mono-measure-p",
+      "slug": "mono-measure-p",
+      "section": "Local",
+      "type": "yesno",
+      "title": "Measure P \u2014 Mammoth Unified School Parcel Tax",
+      "shortTitle": "Measure P",
+      "rule": "Vote Yes or No",
+      "summary": "Replace Mammoth Unified School District\u2019s parcel tax with a $99 annual tax per parcel for six years, estimated to raise $1.1 million annually for teachers, smaller classes, and school programs, with independent oversight, audits, senior exemptions, and public disclosure.",
+      "yes": "Approve the replacement parcel tax.",
+      "no": "Do not approve the replacement parcel tax.",
+      "yesShort": "Approve",
+      "noShort": "Reject",
+      "threshold": "Two-thirds approval required",
+      "links": [
+        {
+          "label": "Mono County amended sample ballot B003 (pages 6\u20139)",
+          "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+          "group": "sources"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Mono County amended voter guides and precinct-to-ballot mapping",
+      "url": "https://www.monocounty.ca.gov/2547/Voter-Information-Guides",
+      "group": "sources"
+    },
+    {
+      "label": "Mono County amended sample ballot B001 (pages 6\u20139)",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3624/B001_AMENDED",
+      "group": "sources"
+    },
+    {
+      "label": "Mono County amended sample ballot B002 (pages 6\u20139)",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3625/B002_AMENDED",
+      "group": "sources"
+    },
+    {
+      "label": "Mono County amended sample ballot B003 (pages 6\u20139)",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3626/B003_AMENDED",
+      "group": "sources"
+    },
+    {
+      "label": "Mono County amended sample ballot B004 (pages 6\u20139)",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3627/B004_AMENDED",
+      "group": "sources"
+    },
+    {
+      "label": "Mono County amended sample ballot B005 (pages 6\u20139)",
+      "url": "https://www.monocounty.ca.gov/DocumentCenter/View/3628/B005_AMENDED",
+      "group": "sources"
+    }
+  ]
+}

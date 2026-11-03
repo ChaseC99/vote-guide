@@ -1,0 +1,21 @@
+{
+  "countyId": "ventura",
+  "verifiedOn": "2026-11-03",
+  "electionId": "2026-11-03",
+  "sourceUrl": "https://clerkrecorder.venturacounty.gov/wp-content/uploads/2026/10/Ventura_General-Election_TG_11_03_26_TAG_P1.pdf",
+  "pages": 18,
+  "bytes": 679156,
+  "sha256": "51dcdd930bf8577c279ec74dfa3d3173cd1a5062a178fe7870c87172b24bfe73",
+  "type": "countywide-bilingual-contest-translation-reference",
+  "importableBallotStyles": 0,
+  "findings": [
+    "Page 1 identifies November 3, 2026 General Election and Tagalog Ballot Translation Guide.",
+    "Page 2 explicitly states this guide translates all contest names and ballot designations for the election; only contests the voter is eligible for based on precinct will appear on their official ballot.",
+    "Page 3 table of contents includes mutually exclusive congressional districts 24/26/32, assembly districts 38/42/46, multiple school trustee areas, multiple cities, special districts, state propositions and local measures.",
+    "All 18 pages extracted. No ballot type/style identifier, precinct-to-style table, or style-specific contest grouping is present.",
+    "Page 2 rendered and visually inspected to verify the printed scope statement.",
+    "Useful as a candidate/contest source or future import crosscheck, but cannot establish complete actual ballot membership. No county bundle produced."
+  ],
+  "textFile": "/private/tmp/ca-ballot-research/ventura-translation-tag.txt",
+  "scopeImage": "/private/tmp/ca-ballot-research/ventura-translation-tag-page2.png"
+}

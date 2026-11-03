@@ -1,0 +1,1286 @@
+{
+  "indexCount": 141,
+  "styles": [
+    {
+      "code": 1,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT001.pdf",
+      "sha256": "028f7a975322b9f332b1d1382d66459d6794c766763fd1f9b1ba3d94bf9beb2b",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 2,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT002.pdf",
+      "sha256": "17b8dc9f2277dff097610a182152f108f3ade96a37208055ea9a4148f82cbeb6",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 3,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT003.pdf",
+      "sha256": "cc1d84b0c95618fe33738c1cda9fdaf4907224ce1aa6d03353c38fc157e9c325",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 4,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT004.pdf",
+      "sha256": "d7e25c4b2175b498d78e67e2c75322777f40f6603b5ee657e2e0ebe93cd41f0f",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 5,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT005.pdf",
+      "sha256": "42e974da160e7c0bacba31dedf1e74438bc8730ef1e6c259f858df0a06c1dcb4",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 6,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT006.pdf",
+      "sha256": "879cbe84d4256147518817004a0008b1937075aaa16ed9af8a1ff2a1b3fdd470",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 7,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT007.pdf",
+      "sha256": "8e7ffca5e011d6d7fe874a91fe14a18e51550719fb3e0f2d749ef8548bdfcc3d",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 8,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT008.pdf",
+      "sha256": "0c5a6a5e02986f43e1f232bb13be4d0e2f17393a1aa7f5e237a51e36e87537b5",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 9,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT009.pdf",
+      "sha256": "48034a14aaec658e6c6d1e5fc26f61024f01579f9031b2be800b01385903f1be",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 10,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT010.pdf",
+      "sha256": "700ef72f8886bf22817dd93e599a1abb0e63bf8c7a14fa482fa95125d87b8ebd",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 11,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT011.pdf",
+      "sha256": "32f69c7717a2eef422beca6322c7a1226a14c637b0b061bb7f92b6ef74f6d606",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 12,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT012.pdf",
+      "sha256": "ca28123dceccd7411da4913da8792adb8cf30ff6e624917f90c6384b0e402c4e",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 13,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT013.pdf",
+      "sha256": "b0efb1d45a7dddf393fbe9d8b9c4480de496ca9cafaf2f8ff93282aec6ceca17",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 14,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT014.pdf",
+      "sha256": "27184cf12b353428a60f39666496a050037318116e7f01a2945b0ee2d26fdae9",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 15,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT015.pdf",
+      "sha256": "b12a787f5368ec72ce604610cd4db31682b8474cab07e3d79e155da10861757d",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 16,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT016.pdf",
+      "sha256": "7dcbe3c331de13fb80bfdd23ca6db18f4c5fc219944665f29feabd6e5dd7241a",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 17,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT017.pdf",
+      "sha256": "8457702414b7197ad2eaa661c09cff99bacfdb74843f543d79181e7db4c22a83",
+      "ballotPages": 4,
+      "contests": 43,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 18,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT018.pdf",
+      "sha256": "b89ce407707a1c0fe13e386751c897f77db5afc9eef0699d3461d8c0d32354ae",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 19,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT019.pdf",
+      "sha256": "b4c81dbfd6aaae759d17c08895b37e5042696dd1ccf474a787aac33c9084cab0",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 20,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT020.pdf",
+      "sha256": "7cac59f3fbe93cbe8c23b71358b794fe8ec31644b99a02e48bf1591b9b160c9f",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 21,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT021.pdf",
+      "sha256": "f3283a75777484d0047239d4cbe9b4f48e8f344eb4286d15e5097ae9ff9bb903",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 22,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT022.pdf",
+      "sha256": "dcfe7aecc3df1093a1cabf9c58f62c84b2630102d775a8143c04cd4f73abb807",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 23,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT023.pdf",
+      "sha256": "ed225c73e066bf4b951b074f609e992d0b1a02db41c16484e466085080e8fb9e",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 24,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT024.pdf",
+      "sha256": "e9194c3321043d26bc3992d9e32c2e70eb0bae8e3f0f848db69861d34e5bda23",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 25,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT025.pdf",
+      "sha256": "b2a1b3a252c43f09148a062212cbcd06ee373f601dd16ffea76cf70156b7a2e1",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 26,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT026.pdf",
+      "sha256": "86d3481159e3c75521ecb3501832137474e9bb03e02be897f9bc11d5a6ead1d7",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 27,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT027.pdf",
+      "sha256": "b903c3ffcd287dfe409fbfa994206af19ee0ddc374b2e415a9cb1b7169482b45",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 28,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT028.pdf",
+      "sha256": "e4e35aad3c86412f6f67e79cb2d1c8aa114f6452cf1b4db723b4a68bc65e1cc5",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 29,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT029.pdf",
+      "sha256": "a491224b5b5555b4e7195ab93fccf02f870453f1136f5c7104868c96bb8db228",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 30,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT030.pdf",
+      "sha256": "d3199925c15a4ffa98afde86b64805258d0064ea09c61315eef3adb727eabc98",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 31,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT031.pdf",
+      "sha256": "419fce7c118dc7998324156436e2980b4ecec0522764dfa416cc10581e5c8ad0",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 32,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT032.pdf",
+      "sha256": "b6c3a78b1a867aea9da41a702a24b1516ed2c4f8a297f1f96ec83f63f8515392",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 33,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT033.pdf",
+      "sha256": "9c343df73a8aff74b0ccd889c13db6c6b807b457fc25c7611a260669793e9d15",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 34,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT034.pdf",
+      "sha256": "d1a4d081b948fab9c1ee724efa3f11017b29ca98d8fbe95793fda8b3af318ed1",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 35,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT035.pdf",
+      "sha256": "e8a9959fa6813c609cdee516fe1fbb3505f6917ce61aad7f1933eeda43f18637",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 36,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT036.pdf",
+      "sha256": "153c924f12f88699cbfbe5cbadb2b9710cf5ce3feb25087c5df4148215c96387",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 37,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT037.pdf",
+      "sha256": "cc6c553631adb07b05cf24b70222c64d7f2d2ed2737672d1f79be0df45bb72e2",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 38,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT038.pdf",
+      "sha256": "3e11253eebd7846b20f92b93ea30219bc0478babb6146a466fde9e8c49d30de2",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 39,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT039.pdf",
+      "sha256": "08bce038f7d8d18a4de0355c2b15fdb2f5a2b0cb2a309171cc7252d21708a8e0",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 40,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT040.pdf",
+      "sha256": "96f6250c099f47888d63c823856512ba3b37f52b107c98c359fece5eba847a3f",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 41,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT041.pdf",
+      "sha256": "491bc3d6880be8653730985fa54382795e32131d3936e642818a7bdb6fca419d",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 42,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT042.pdf",
+      "sha256": "ec21268d869b9222caf156783cf8b48f86d74c6d5529d8d896b24319ef6efe1c",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 43,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT043.pdf",
+      "sha256": "085f0d2c09ee32498fe9de631ef67a73b4b79d6ee8ef78763c8682d0c01b54e2",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 44,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT044.pdf",
+      "sha256": "fe4432c5a18e871b6495e8832edc6289c4dcd014a20db21bfb0a5f0a365c17ba",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 45,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT045.pdf",
+      "sha256": "fef50515e2b47ddb471175fdcf6feff7afaaa3f20c5ef16484bd1b74f4c09969",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 46,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT046.pdf",
+      "sha256": "dc8945e34b3de65029daf63b01a83014d1ed2c000dc75381ce7d33496669e111",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 47,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT047.pdf",
+      "sha256": "11f2830a2c3eaf754453d6605dc23b2a34c7930ca1b9da6d267d50a5cc95554a",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 48,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT048.pdf",
+      "sha256": "026070484d3baf7f7fff029fc8c5cc8e9682e43c96eb310ecfa62c6b57b5895f",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 49,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT049.pdf",
+      "sha256": "55c44d9c8d4a2e0820718dd5727e2ca6b7bf7bbdfd5175e6144043e7b34c32f7",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 50,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT050.pdf",
+      "sha256": "e6f38410f45ec8223a93f7fd2558b58e7ca105ad915a0f9b3a8be61bffa77b71",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 51,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT051.pdf",
+      "sha256": "7a650de3e3d380cd597ee1da13a2649145b10b1be3f417fe64c951cfb2a8ed75",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 52,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT052.pdf",
+      "sha256": "2853b72a1ca0d3ad41eff21bb5ac16cb91cad0f63bfb66276c1da07365a07a8c",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 53,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT053.pdf",
+      "sha256": "5dbb995f2e1a40c076ba200dabf57b41cc917e71538637d8e555fe57935bd0db",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 54,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT054.pdf",
+      "sha256": "ce4834f72cea0925effbf8a2a4edf9897e1b89b941b3bf90ce8b9354ef4b1637",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 55,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT055.pdf",
+      "sha256": "aa336058f6965cafeda4d5c45d1be113c7c3224295228986196734cadff9e229",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 56,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT056.pdf",
+      "sha256": "7bb0dbcf7171319e0450178ebccede0c02e6c73feaf516d6c955d556fba562a3",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 57,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT057.pdf",
+      "sha256": "7b34debf3a5d1ba788e399d011aace22dcdb28348970dd95bcb0d4e9543506c5",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 58,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT058.pdf",
+      "sha256": "6ba5d9d2330a0a7130f3125068f5519b9c6a6824b04c77205fa83bc46fe633b7",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 59,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT059.pdf",
+      "sha256": "c6d37de41be56ac7d97298c16cbeadc0d389c45f0abc1d2efb95818b604bc502",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 60,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT060.pdf",
+      "sha256": "7e72dd564f252d719f5b25ccee1164e21158c6783da3787bd9477160da920a93",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 61,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT061.pdf",
+      "sha256": "5538771ce215c6f62fbfe3c97e7a291ba2a4a3ae5ee8c9669be95ab98d9d0e1e",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 62,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT062.pdf",
+      "sha256": "450c22ea2baef889fcb9d814f242951f39a373e6eb204c408cc39fe754671c0e",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 63,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT063.pdf",
+      "sha256": "cb3118e7a58721fa97cf960097ddec6cfd3d6d65d58ca29ab2f46429b194a2bb",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 64,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT064.pdf",
+      "sha256": "9e9250d5e57c7ece1a9eb4930a2970a3b69c47156dc83417607c54e1ca27bd02",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 65,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT065.pdf",
+      "sha256": "1bbeb43f281751913ddbb044408d8f6903b852cd1a0e3e561b9e81129c296670",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 66,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT066.pdf",
+      "sha256": "e3f640a64f3752de5c3ddf191b75b970f8cbffe821652f0a19992941714c0893",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 67,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT067.pdf",
+      "sha256": "d12f2480dd85fbce4a0e9fe8fd6959470e5d2812fa39fdaacb9a760330c3900b",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 68,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT068.pdf",
+      "sha256": "a26e1f9192b8fbe6f7ee2323e5926e0d322fea1cf13b11921433d53d2f464cc3",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 69,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT069.pdf",
+      "sha256": "be067933837002d36f755eb00e9e4381fc128d1ad39f460168d5c41d37a5a17f",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 70,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT070.pdf",
+      "sha256": "9698c4338f456d406d1c937ff00a876bb229c4e4342b31b6656d1c10811b5565",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 71,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT071.pdf",
+      "sha256": "9edfa575ab5a67f25cdcab574df866b324c809c426eb3fbed3aa1d1045a18bd4",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 72,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT072.pdf",
+      "sha256": "ed0d537f6861493b35b56922fc47c43406604978e3040d2ab52851c0583a98fa",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 73,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT073.pdf",
+      "sha256": "e3ac0abf17e50c3a78380d12d95ab0deeb4d00143e5548d262829d2de721c6bc",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 74,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT074.pdf",
+      "sha256": "3e704ebac5b1bb5b2fc2f2edfd35cab84d71e7b7ae10271ccdb582624624d2ae",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 75,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT075.pdf",
+      "sha256": "1c195fb8fcbeaa69a1d11532ceea6dc53584db31aa678fb8ebc3a9693711bce4",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 76,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT076.pdf",
+      "sha256": "a9c33384f7308c46dd540147d68a3a1e1bdbf93658ff51db58f20707f960101e",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 77,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT077.pdf",
+      "sha256": "add3c8def5757fdb05c186679e9e5874574a538c4cf597ade4ebde1700e5045d",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 78,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT078.pdf",
+      "sha256": "2b976d6b7719f97f5b2b77165bf1c6f3fc98fdb77d8afe647abea2be9535fe3f",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 79,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT079.pdf",
+      "sha256": "79aec30749f49bb12f4002b0582ce997e9dcd5dc5603698dd75138d87f0aeb56",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 80,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT080.pdf",
+      "sha256": "4b80fb23412f16332a1837e56816144b1dc0c8e357494b03f8bf63e5f0637d3f",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 81,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT081.pdf",
+      "sha256": "6ceacd7a1a3bd21a20a0f0a27f4f39635493d383bfef37a45e8d0afcb8d4bdca",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 82,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT082.pdf",
+      "sha256": "4f106fcca96a5f79bffe5f5f9208c6e1aafc0942b5a00997e5eb144925b18686",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 83,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT083.pdf",
+      "sha256": "5cecba622134142108ff3e49fbc1e1f8711d92f2ea837007c2af6fdc245c8b73",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 84,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT084.pdf",
+      "sha256": "0778e7ba96724a16ea423d647632624f691e67dffab023f4c5492dd91401df4d",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 85,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT085.pdf",
+      "sha256": "74b7ad6bd9aee1a32500c66010da4513bdc46a04dabc0c5d9ede5d386342cafa",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 86,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT086.pdf",
+      "sha256": "f59f453623a51700f53d0ca90cce7a52f126b855407fd881f2a33f545a0296aa",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 87,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT087.pdf",
+      "sha256": "291da6c5981009f86cf78274b095e70aa02c620a16fdce971c071dc11c3f178a",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 88,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT088.pdf",
+      "sha256": "8ccd19468ca7cefe5f30287cba7a074427f65fbe7c9de9bf2ece540d57285400",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 89,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT089.pdf",
+      "sha256": "cb52dc10f04dde80a47d114692d2720a364a2345587bebb5a3ba142afb562ef3",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 90,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT090.pdf",
+      "sha256": "cf2a0cfa5e745cdf74bf840556092df2aef3c1842a340ad8375ab014bc181085",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 91,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT091.pdf",
+      "sha256": "c09f5213daaea0f6a3a16256c9484d70965bd50a0b6184b24b3b3989870c9db9",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 92,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT092.pdf",
+      "sha256": "405f343c81cdc1e15ef2c0445370b1003f7a903e8b5ed685f76968041d6b92b9",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 93,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT093.pdf",
+      "sha256": "1d8d56173c6fab2a3ed03daaaa3729f797e64b83e2a1566bfd87ebc8c3b11271",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 94,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT094.pdf",
+      "sha256": "cf9e0ea298e990fe4a955dd706d5799671e79d9ebf8dbb35fb64c963fc911296",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 95,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT095.pdf",
+      "sha256": "7dea97ea0866fcd8dfe5fbc285de2220b011220c3a3848280c39566b9c378fd9",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 96,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT096.pdf",
+      "sha256": "42bfb8254e06615c78c90a5dbee61c47e43e1497efec161791031a518b216d0c",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 97,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT097.pdf",
+      "sha256": "fbb62b6b038f3b021959e17af6a282e4622bc63a0d4c68f9064647a65273c502",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 98,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT098.pdf",
+      "sha256": "263d5439b5fc0a7dda5bf027950b9ddf76c39487a7fdc442e8b3e09ebc6609f3",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 99,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT099.pdf",
+      "sha256": "eed4236cd51a0394cf4e04e38cdbc864d2e2a64ba1fc8a08dab90302ebedf60e",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 100,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT100.pdf",
+      "sha256": "5f88199f57efe38b7e3fe1440b8a798d8c371f029f528be0c58ba50da0e4f28c",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 101,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT101.pdf",
+      "sha256": "dc007316e60f5263f3fc715fae86852ed0603226a430f2d2d0126afa54fcd3ce",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 102,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT102.pdf",
+      "sha256": "e9d919f31465db8129a42d5eae0097503c09a8ac50bf59f67ed95b8c68e43767",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 103,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT103.pdf",
+      "sha256": "969411b7c8e0d567cf5bfc8aac168765338655f9f7f9f16386727cd68c664c13",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 104,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT104.pdf",
+      "sha256": "15bb3f2329e58485c95051703055622d0965b08f3eb3ab33e20fadc5b41d27a7",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 105,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT105.pdf",
+      "sha256": "0df77b5535446112bcff33bdac011f091450f97196861cf37e7d9717378257b9",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 106,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT106.pdf",
+      "sha256": "2f170af2a70e6f4543df5b44f14ba7c118ea64c3d95e45c4ae95bacaeb6e29fd",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 107,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT107.pdf",
+      "sha256": "b88cab78a4b43318c2158cb82c5d23576039e893aceb666c61a8de066eb634d4",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 108,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT108.pdf",
+      "sha256": "decac00301282205868a10cbc77007d85eb023be66bfe769a2b9f0c9ff212193",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 109,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT109.pdf",
+      "sha256": "ac66946ce1a439927066ade8ce8071f9fcf91a4d413fc2aedbe17df4f6cb0faf",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 110,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT110.pdf",
+      "sha256": "9872b90d45a9e84dbe21e12aa62ab7ca23712f616b0a4d71aae6045e1cc4cccb",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 111,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT111.pdf",
+      "sha256": "08f0f0af8010682994bbd7156f3ee70d32590dadebb936f314ae25324197f58d",
+      "ballotPages": 4,
+      "contests": 44,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 112,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT112.pdf",
+      "sha256": "fa5a3405a3bb7047b7b5f296c209a91f59cfed0ce5df3ea17638caded1fba7b0",
+      "ballotPages": 4,
+      "contests": 43,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 113,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT113.pdf",
+      "sha256": "fce5598dd9bbf7d57369f9c9da2f8738cec7854ed951788113caea99f8cc2401",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 114,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT114.pdf",
+      "sha256": "3d570012124c92995b5ff4bd7ad7787355aea3753755008aaba4754bbf7c2b7b",
+      "ballotPages": 4,
+      "contests": 42,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 115,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT115.pdf",
+      "sha256": "be973a4dcb279376e82e5a68b03bfc4f3ced75d1998f7d66376eb941146afc42",
+      "ballotPages": 4,
+      "contests": 43,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 116,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT116.pdf",
+      "sha256": "fa6a9cd9fe9c566a1228262760dcf7db34f5375356d163f79a7ef2bbdf6ed860",
+      "ballotPages": 4,
+      "contests": 43,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 117,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT117.pdf",
+      "sha256": "8a41f3b25c271177d2f58c01317723f362bbd23a0c8f5ee02167efdff45eaa5e",
+      "ballotPages": 4,
+      "contests": 44,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 118,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT118.pdf",
+      "sha256": "4e1e1bedd2cbcc0687e79541fcc78908851366991880b7450ba4eb2cc9df6e35",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 119,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT119.pdf",
+      "sha256": "b0544cf90b72e6faf448caaa3a129609112ee802a63616d0cc12b4d51a432f2c",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 120,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT120.pdf",
+      "sha256": "e37c59b3719b6a35c4076fdcd044982dc23ecf9e5bfbe0e697858d4b4543784a",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 121,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT121.pdf",
+      "sha256": "6620c80fff076e650bef7db3a00a4e8170e10783eeadb0bba346f29159751276",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 122,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT122.pdf",
+      "sha256": "3d342181a41205b4b1666c1bb76e0fe6c6af1fb7f4485b7c7957f751f8764599",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 123,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT123.pdf",
+      "sha256": "c3f08d3916eb7dee3865660001638efc0dd80c138cf474751257fa1f2f3a8f71",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 124,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT124.pdf",
+      "sha256": "14a81186f9fc2172be9d9d6fb3c690c838ba7a7e00ce55e378b414e99e90bb26",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 125,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT125.pdf",
+      "sha256": "81f4ec0252e613ce1d0d3dd2f538f0493003eaa236350c5138b287f823683a07",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 126,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT126.pdf",
+      "sha256": "e054d9003aa7491da3301b24363150bc9006ce4baf644ff55768e55c8cfaefb4",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 127,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT127.pdf",
+      "sha256": "14211008318c73ae20c65b8a46d2d9dff992ac0b7e351f9700586bfa84543c03",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 128,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT128.pdf",
+      "sha256": "e2a2db2d2c57cb9aec0305c8f11db58f1780d9d6aded643fc73bc9b8df69cd0b",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 129,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT129.pdf",
+      "sha256": "c56f166fe85b7273c93ef17f170039375459e0b33fd87e1ed7d645c0c75146e7",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 130,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT130.pdf",
+      "sha256": "cb2d7fa172cbfa1b7df65b1362c663bbd2b4432ef0efd4b53093d828fbb7aae5",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 131,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT131.pdf",
+      "sha256": "b04dc8ebd1c45b6c95e3b8b034fe79c78ced9d1214a16a49a4b46e89842ed65c",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 132,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT132.pdf",
+      "sha256": "285c85feb9417b18b682c0a3b892374907af454fb2fd0bf31a2cea4188b27782",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 133,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT133.pdf",
+      "sha256": "a4c7518f8692832a219ee29b477bb0160938773b4f0df2ecf444cb0cba2a1c97",
+      "ballotPages": 4,
+      "contests": 38,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 134,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT134.pdf",
+      "sha256": "430c2cc36f48998f075e38c5cce3128cf3238db646ab52c3744ba514e09b9d6c",
+      "ballotPages": 4,
+      "contests": 37,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 135,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT135.pdf",
+      "sha256": "a1595e1bde9af5dbce9b1f1bb115f586ba960c0f3d629ae8baf325092fea001d",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 136,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT136.pdf",
+      "sha256": "b3d65c5afa51b48e8c0d0e67e34a08d57e43f3a25c78a9ec22d57ccbf44cab10",
+      "ballotPages": 4,
+      "contests": 41,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 137,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT137.pdf",
+      "sha256": "a3c939442f41d990635e4d617d1526de81558e8ab6c7bea3a15039c5815355d2",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 138,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT138.pdf",
+      "sha256": "de9021d8683b1080a5ce6882d5ffa66058be70f6c5750e9b6f93c20bafb2aee9",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 139,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT139.pdf",
+      "sha256": "31977ae9c515915f77d25f876dfc677f03999fb05889b4264c2a018ced926548",
+      "ballotPages": 4,
+      "contests": 40,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 140,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT140.pdf",
+      "sha256": "2a9cb3e8090d0bcb1547f27b4a2fc3b03915fea6d5a3902483c6c67618238cd7",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    },
+    {
+      "code": 141,
+      "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/vig/Placer_VIG_BT141.pdf",
+      "sha256": "737107df32bdec6dc19b20ca9c389a36563308c7fe0af63306062bf68b8894ad",
+      "ballotPages": 4,
+      "contests": 39,
+      "printedCodeVerified": true,
+      "allStatePropositionsVerified": true
+    }
+  ],
+  "sharedCandidateNamesAndPartiesChecked": true,
+  "printedBallotCodesChecked": true,
+  "missingBallotDesignations": [
+    "Aaron Campbell",
+    "Erik Robb"
+  ],
+  "visualChecks": [
+    "placer-1-p12.png",
+    "placer-30-p12.png",
+    "placer-136-p12.png",
+    "placer-136-p13.png"
+  ]
+}

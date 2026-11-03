@@ -20,6 +20,8 @@ const isRecord = (value: unknown): value is Record<string, unknown> =>
 
 export function normalizeSelection(contest: Contest, value: unknown): Selection | undefined {
   if (contest.type === 'yesno') return value === 'Yes' || value === 'No' ? value : undefined;
+  if (contest.type === 'single' && contest.writeInOnly)
+    return typeof value === 'string' && value.trim() ? value.slice(0, 200) : undefined;
   const ids = contest.candidates.map(({ id }) => id);
   if (contest.type === 'single')
     return typeof value === 'string' && ids.includes(value) ? value : undefined;
@@ -75,6 +77,7 @@ export function selectionCount(value: Selection | undefined): number {
 export function selectionLines(contest: Contest, value: Selection | undefined): string[] {
   if (!selectionCount(value)) return [];
   if (contest.type === 'yesno') return [value as string];
+  if (contest.type === 'single' && contest.writeInOnly) return [`Write-in: ${value as string}`];
   const name = (id: string) =>
     contest.candidates.find((candidate) => candidate.id === id)?.name ?? id;
   if (contest.type === 'single') return [name(value as string)];

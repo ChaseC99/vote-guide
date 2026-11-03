@@ -12,6 +12,8 @@
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
     "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "import:sf": "node scripts/import-sf-ballot-types.mjs",
+    "data:coverage": "node --experimental-strip-types scripts/check-election-data.ts",
     "format": "prettier --write ."
   },
   "dependencies": {

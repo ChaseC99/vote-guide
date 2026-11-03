@@ -1,0 +1,31 @@
+{
+  "verifiedOn": "2026-11-02",
+  "coverage": "partial",
+  "codes": [
+    "53"
+  ],
+  "contestCount": 44,
+  "sources": [
+    {
+      "label": "Official Marin ballot type 53 sample ballot",
+      "url": "https://assets.marincounty.gov/marincounty-prod/public/2026-09/VIG-BT53.pdf?VersionId=fqj8se._rkAfyGwkjJqwGoNhHBjDOgps",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin ballot type 53 guide",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/voter-information-guide-110326-bt-0053",
+      "group": "sources"
+    },
+    {
+      "label": "Official Marin local candidate list",
+      "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-and-about-candidates-110326/local-candidates-ballot-110326",
+      "group": "sources"
+    }
+  ],
+  "notes": [
+    "Only ballot type 53 is verified and imported.",
+    "County PDF text was decoded from its embedded character mapping and compared with the published guide and candidate list.",
+    "Candidate names and vote limits are from the complete sample ballot; First Appellate District and statewide contests were individually checked before sharing.",
+    "Direct PDF downloads returned 403 during this pass; the published guide and web PDF extraction were available. Other Marin styles remain unverified."
+  ]
+}

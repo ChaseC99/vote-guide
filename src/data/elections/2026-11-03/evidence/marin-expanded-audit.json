@@ -1,0 +1,147 @@
+{
+  "county": "Marin",
+  "election": "2026-11-03",
+  "coverage": "partial",
+  "styles": [
+    "10",
+    "53",
+    "56",
+    "84"
+  ],
+  "uniqueContests": 54,
+  "newContests": 18,
+  "sharedContests": 36,
+  "additionalStylesAudit": [
+    {
+      "style": "10",
+      "contests": 45,
+      "candidateNamesFound": 29,
+      "judicialQuestions": 13,
+      "statePropositions": 14,
+      "localMeasures": [
+        "CC",
+        "P",
+        "W"
+      ],
+      "pdfPagesOneBased": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "webTextLinesComplete": true,
+      "decodedTextSha256": "ed3f6332397f3d4e67b2c529abdc09c24499b506f73d41fcdf1dfe893bea7456"
+    },
+    {
+      "style": "56",
+      "contests": 47,
+      "candidateNamesFound": 50,
+      "judicialQuestions": 13,
+      "statePropositions": 14,
+      "localMeasures": [
+        "CC",
+        "P"
+      ],
+      "pdfPagesOneBased": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "webTextLinesComplete": true,
+      "decodedTextSha256": "5881aa5d4588ef42c9abfc9a42551feb9d90638cc0b53fbbfe352887c34e6c12"
+    },
+    {
+      "style": "84",
+      "contests": 41,
+      "candidateNamesFound": 27,
+      "judicialQuestions": 13,
+      "statePropositions": 14,
+      "localMeasures": [
+        "P"
+      ],
+      "pdfPagesOneBased": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "webTextLinesComplete": true,
+      "decodedTextSha256": "993aebd42a47122bbbdc9e04d4f4fb98e0ad6ba9b9e4bc1e316719786f145101"
+    }
+  ],
+  "additionalCandidateRosterAudit": [
+    {
+      "contestId": "marin-county-board-of-education-area-3",
+      "candidates": 2,
+      "maxSelections": 1,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-county-board-of-education-area-5",
+      "candidates": 2,
+      "maxSelections": 1,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-san-rafael-council-district-2",
+      "candidates": 1,
+      "maxSelections": 1,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-healthcare-district-division-1",
+      "candidates": 2,
+      "maxSelections": 1,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-southern-marin-fire-protection-director",
+      "candidates": 7,
+      "maxSelections": 4,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-strawberry-recreation-director",
+      "candidates": 4,
+      "maxSelections": 3,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-strawberry-recreation-director-short-term",
+      "candidates": 2,
+      "maxSelections": 1,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-richardson-bay-sanitary-director",
+      "candidates": 4,
+      "maxSelections": 3,
+      "exactNamesMatch": true
+    },
+    {
+      "contestId": "marin-bel-marin-keys-community-services-director",
+      "candidates": 3,
+      "maxSelections": 2,
+      "exactNamesMatch": true
+    }
+  ],
+  "measureWQuestionExactOfficialHtmlMatch": true,
+  "schemaValidation": "18 new contests and expanded county bundle passed repository schemas",
+  "notes": [
+    "BT53 retains the previously verified original bundle.",
+    "All six actual sample-ballot pages (PDF pages 6\u201311) were extracted for each additional style, through End of ballot.",
+    "PDF extraction repeats text at page boundaries; these repetitions are not duplicate contests.",
+    "The PDF font has an incomplete character mapping: most ballot glyphs decode by adding 29; U+00AC is a space. The 9 glyph is omitted by the web extractor. Proposition 39 is identified by its exact full title, also confirmed by the official county measure notice. Measure W full question was independently matched against official HTML to resolve 9-1-1 punctuation.",
+    "BT56 fire district candidate Peter Fleming continues on PDF page 9 and is included.",
+    "BT84 Kevin Dugan has no printed designation; blank also confirmed by official roster.",
+    "The official regular/voting precinct crosswalk lists 84 voting precincts; this is not proof of 84 ballot styles. No complete public ballot-style index was found. Raw county/PDF downloads and GIS service requests returned HTTP 403. No guessed style ranges or private voter lookups were used."
+  ],
+  "errors": []
+}

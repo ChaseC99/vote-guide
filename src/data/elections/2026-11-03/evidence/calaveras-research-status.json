@@ -1,0 +1,20 @@
+{
+  "countyId": "calaveras",
+  "checkedOn": "2026-11-02",
+  "status": "not-importable-from-available-public-sources",
+  "officialElectionPage": "https://elections.calaverasgov.us/Next-Election/General-Election/Candidates-and-Measures",
+  "officialAccessibleGuide": "https://ca.omniballot.us/sites/06009/default/app/home",
+  "configElectionIdLead": 2321,
+  "configEvidence": "Public site config uses 2321 in signature-cure tracking and form packageEid; cure form code is cure_11-03-2026. No successful actual election/style metadata response verifies this ID as the current published ballot election.",
+  "catalogChecks": [
+    {"url":"https://ca.omniballot.us/published/06009/2321/styles/lookups.json","result":"HTTP 403; web reader also inaccessible"},
+    {"url":"https://ca.omniballot.us/published/06009/2321/vg/lookups.json","result":"HTTP 403"}
+  ],
+  "otherOfficialSources": [
+    {"url":"https://elections.calaverasgov.us/Portals/Elections/Documents/Guides/Master%20VIP.pdf","result":"31-page November 3, 2026 guide contains candidate statements and measure information, not complete style-specific sample ballots. Page 7 explicitly states that a complete candidate list appears on the enclosed ballot."},
+    {"url":"https://gisportal.calaverascounty.gov/portal/apps/webappviewer/index.html?id=29bb711f80a8441d8cc9b1e7937fcecf","result":"Public county map contains precinct and portion boundary layers but no ballot-code or sample-ballot fields."},
+    {"url":"https://gisportal.calaverascounty.gov/server/rest/services/Hosted/VOTER_PRECINCTS_PORTIONS/FeatureServer/0?f=json","result":"Fields: objectid, voter_pre, geometry length/area. No election or ballot-style mapping."},
+    {"url":"https://gisportal.calaverascounty.gov/server/rest/services/Hosted/VOTER_PRECINCTS_PORTIONS/FeatureServer/1?f=json","result":"Fields: objectid, porpre, geometry length/area. No election or ballot-style mapping."}
+  ],
+  "notes": ["No county bundle was created. No candidate union was represented as a ballot style.","No private voter lookups, identity/session endpoints, or ballot submissions were used.","No election-ID range or ballot-code URL range was guessed."]
+}

@@ -1,7 +1,8 @@
 import { useState, type MouseEvent } from 'react';
 import { flushSync } from 'react-dom';
 import type { Ballot } from '../data/schema';
-import { contestPath, numberLabel, useNavigation } from '../lib/navigation';
+import { numberLabel, useNavigation } from '../lib/navigation';
+import { RouteBase, useBallotPaths } from '../lib/routeContext';
 import { useWorksheet } from '../lib/useWorksheet';
 import { selectionCount } from '../lib/selections';
 import { PrivacyDialog } from './PrivacyDialog';
@@ -13,12 +14,41 @@ import { Worksheet } from './Worksheet';
 export default function BallotApp({
   ballot,
   initialPath = '/',
+  basePath = '',
 }: {
   ballot: Ballot;
   initialPath?: string;
+  basePath?: string;
 }) {
-  const { path, current, lastVisited, navigate } = useNavigation(initialPath, ballot.contests);
-  const complete = path === '/complete/';
+  return (
+    <RouteBase.Provider value={basePath}>
+      <BallotWorksheet
+        key={ballot.id}
+        ballot={ballot}
+        initialPath={initialPath}
+        basePath={basePath}
+      />
+    </RouteBase.Provider>
+  );
+}
+
+function BallotWorksheet({
+  ballot,
+  initialPath,
+  basePath,
+}: {
+  ballot: Ballot;
+  initialPath: string;
+  basePath: string;
+}) {
+  const { homePath, completePath, contestPath } = useBallotPaths();
+  const { path, current, lastVisited, navigate } = useNavigation(
+    initialPath,
+    ballot.contests,
+    basePath,
+    ballot.locationShort,
+  );
+  const complete = path === completePath;
   const { state, status, ready, setSelection, setNote, erase } = useWorksheet(ballot);
   const [privacyOpen, setPrivacyOpen] = useState(false);
   const [printOpen, setPrintOpen] = useState(false);
@@ -38,7 +68,7 @@ export default function BallotApp({
     const anchor = (event.target as Element).closest<HTMLAnchorElement>('a[data-route]');
     if (!anchor || anchor.target || anchor.origin !== window.location.origin) return;
     event.preventDefault();
-    navigate(anchor.pathname);
+    navigate(anchor.pathname + anchor.hash);
   }
   function next() {
     if (!current) return;
@@ -47,8 +77,8 @@ export default function BallotApp({
       nextContest
         ? contestPath(nextContest)
         : window.matchMedia('(max-width: 799px)').matches
-          ? '/complete/'
-          : '/',
+          ? completePath
+          : homePath,
     );
   }
   function print(notes: boolean) {
@@ -122,7 +152,7 @@ export default function BallotApp({
             ) : (
               <p>Every contest has a selection. You can still go back and make changes.</p>
             )}
-            <a className="button" href="/" data-route>
+            <a className="button" href={homePath} data-route>
               Back to all contests
             </a>
             <button className="button primary" onClick={() => setPrintOpen(true)}>

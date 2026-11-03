@@ -1,0 +1,1852 @@
+{
+  "countyId": "inyo",
+  "countyName": "Inyo",
+  "jurisdiction": "Inyo County, CA",
+  "electionId": "2026-11-03",
+  "verifiedOn": "2026-11-02",
+  "coverage": "complete",
+  "coverageNote": "All 10 ballot types listed by Inyo County for the November 3, 2026 general election, verified against each official sample ballot. Candidate choices and contest membership come from the sample ballots; statewide contests use the existing verified statewide entries.",
+  "sourceUrl": "https://elections.inyocounty.us/voting/voter-information-guides-sample-ballots/",
+  "lookupUrl": "https://elections.inyocounty.us/voting/voter-information-guides-sample-ballots/",
+  "codeHelp": "Use the ballot type (1–10) from Inyo County’s voter information guide. Sample ballot pages also show identifiers such as 014SB001A for Type 1. If you do not know your type, match the local contests on your sample ballot.",
+  "styles": [
+    {
+      "code": "1",
+      "aliases": [
+        "014SB001A",
+        "014SB001B",
+        "014SB001C",
+        "014SB001D"
+      ],
+      "label": "Type 1 — Bishop Unified School District",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-bishop-unified-school-board"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "2",
+      "aliases": [
+        "014SB002A",
+        "014SB002B",
+        "014SB002C",
+        "014SB002D"
+      ],
+      "label": "Type 2 — Bishop Unified School District + Measure Y",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-bishop-unified-school-board",
+        "inyo-measure-y"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "3",
+      "aliases": [
+        "014SB003A",
+        "014SB003B",
+        "014SB003C",
+        "014SB003D"
+      ],
+      "label": "Type 3 — Bishop Unified School District + City of Bishop",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-bishop-unified-school-board",
+        "inyo-bishop-city-council"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "4",
+      "aliases": [
+        "014SB004A",
+        "014SB004B",
+        "014SB004C",
+        "014SB004D"
+      ],
+      "label": "Type 4 — Bishop Unified School District + Supervisor District 3",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-bishop-unified-school-board",
+        "inyo-county-supervisor-district-3"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2,
+        "supervisor": 3
+      }
+    },
+    {
+      "code": "5",
+      "aliases": [
+        "014SB005A",
+        "014SB005B",
+        "014SB005C",
+        "014SB005D"
+      ],
+      "label": "Type 5 — Big Pine Unified School District",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-big-pine-unified-school-board"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "6",
+      "aliases": [
+        "014SB006A",
+        "014SB006B",
+        "014SB006C",
+        "014SB006D"
+      ],
+      "label": "Type 6 — Owens Valley Unified School District",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-owens-valley-unified-school-board"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "7",
+      "aliases": [
+        "014SB007A",
+        "014SB007B",
+        "014SB007C",
+        "014SB007D"
+      ],
+      "label": "Type 7 — Countywide contests",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "8",
+      "aliases": [
+        "014SB008A",
+        "014SB008B",
+        "014SB008C",
+        "014SB008D"
+      ],
+      "label": "Type 8 — Lone Pine Unified School District",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-lone-pine-unified-school-board",
+        "inyo-lone-pine-unified-school-board-2-year"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "9",
+      "aliases": [
+        "014SB009A",
+        "014SB009B",
+        "014SB009C",
+        "014SB009D"
+      ],
+      "label": "Type 9 — Lone Pine Unified School District + Measure Z",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-lone-pine-unified-school-board",
+        "inyo-lone-pine-unified-school-board-2-year",
+        "inyo-measure-z"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    },
+    {
+      "code": "10",
+      "aliases": [
+        "014SB010A",
+        "014SB010B",
+        "014SB010C",
+        "014SB010D"
+      ],
+      "label": "Type 10 — Trona Joint Unified School District",
+      "contestIds": [
+        "governor",
+        "lieutenant-governor",
+        "secretary-of-state",
+        "controller",
+        "treasurer",
+        "attorney-general",
+        "insurance-commissioner",
+        "retain-joshua-groban",
+        "retain-kelli-m-evans",
+        "superintendent-public-instruction",
+        "state-prop-1",
+        "state-prop-2",
+        "state-prop-3",
+        "state-prop-4",
+        "state-prop-5",
+        "state-prop-37",
+        "state-prop-38",
+        "state-prop-39",
+        "state-prop-40",
+        "state-prop-41",
+        "state-prop-42",
+        "state-prop-43",
+        "state-prop-44",
+        "state-prop-45",
+        "inyo-board-of-equalization-district-1",
+        "inyo-us-representative-district-5",
+        "inyo-state-senator-district-4",
+        "inyo-state-assembly-district-8",
+        "inyo-retain-julia-c-kelety",
+        "inyo-retain-jose-s-castillo",
+        "inyo-retain-truc-t-do",
+        "inyo-retain-william-s-dato",
+        "inyo-retain-eran-m-bermudez",
+        "inyo-retain-lisa-rodriguez",
+        "inyo-retain-david-m-rubin",
+        "inyo-retain-corey-g-lee",
+        "inyo-retain-michael-j-raphael",
+        "inyo-retain-joanne-motoike",
+        "inyo-retain-thomas-a-delaney",
+        "inyo-retain-nathan-r-scott",
+        "inyo-retain-deborah-c-servino",
+        "inyo-retain-martha-k-gooding",
+        "inyo-retain-juliet-o-macaulay",
+        "inyo-kern-community-college-area-2",
+        "inyo-trona-joint-unified-school-board"
+      ],
+      "districts": {
+        "congress": 5,
+        "stateSenate": 4,
+        "assembly": 8,
+        "boardOfEqualization": 1,
+        "courtOfAppeal": 4,
+        "kernCommunityCollege": 2
+      }
+    }
+  ],
+  "sharedContestIds": [
+    "governor",
+    "lieutenant-governor",
+    "secretary-of-state",
+    "controller",
+    "treasurer",
+    "attorney-general",
+    "insurance-commissioner",
+    "retain-joshua-groban",
+    "retain-kelli-m-evans",
+    "superintendent-public-instruction",
+    "state-prop-1",
+    "state-prop-2",
+    "state-prop-3",
+    "state-prop-4",
+    "state-prop-5",
+    "state-prop-37",
+    "state-prop-38",
+    "state-prop-39",
+    "state-prop-40",
+    "state-prop-41",
+    "state-prop-42",
+    "state-prop-43",
+    "state-prop-44",
+    "state-prop-45"
+  ],
+  "contests": [
+    {
+      "id": "inyo-board-of-equalization-district-1",
+      "slug": "inyo-board-of-equalization-district-1",
+      "section": "State",
+      "title": "Board of Equalization Member — 1st District",
+      "shortTitle": "Board of Equalization Member — 1st District",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "shannon-grove",
+          "name": "Shannon Grove",
+          "occupation": "State Senator/Businesswoman",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        },
+        {
+          "id": "nelson-esparza",
+          "name": "Nelson Esparza",
+          "occupation": "Teacher/Economist/Councilmember",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        }
+      ]
+    },
+    {
+      "id": "inyo-us-representative-district-5",
+      "slug": "inyo-us-representative-district-5",
+      "section": "Federal",
+      "title": "United States Representative — 5th District",
+      "shortTitle": "United States Representative — 5th District",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "michael-masuda",
+          "name": "Michael Masuda",
+          "occupation": "Foreign Affairs Officer",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "tom-mcclintock",
+          "name": "Tom McClintock",
+          "occupation": "United States Representative",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "inyo-state-senator-district-4",
+      "slug": "inyo-state-senator-district-4",
+      "section": "State",
+      "title": "State Senator — 4th District",
+      "shortTitle": "State Senator — 4th District",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "jaron-brandon",
+          "name": "Jaron Brandon",
+          "occupation": "County Supervisor",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Democratic"
+        },
+        {
+          "id": "alexandra-duarte",
+          "name": "Alexandra Duarte",
+          "occupation": "Mother/Farmer",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "inyo-state-assembly-district-8",
+      "slug": "inyo-state-assembly-district-8",
+      "section": "State",
+      "title": "Member of the Assembly — 8th District",
+      "shortTitle": "Member of the Assembly — 8th District",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "david-jariustokaeutulelei-tangipa",
+          "name": "David Jariustokaeutulelei Tangipa",
+          "occupation": "State Assemblymember",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ],
+          "party": "Republican"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-julia-c-kelety",
+      "slug": "inyo-retain-julia-c-kelety",
+      "section": "State",
+      "title": "Julia C. Kelety — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain Julia C. Kelety",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Julia C. Kelety be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect Julia C. Kelety to this office for the term provided by law.",
+      "no": "Do not elect Julia C. Kelety to this office.",
+      "yesShort": "Elect Julia C. Kelety.",
+      "noShort": "Do not elect Julia C. Kelety.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-jose-s-castillo",
+      "slug": "inyo-retain-jose-s-castillo",
+      "section": "State",
+      "title": "Jose S. Castillo — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain Jose S. Castillo",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Jose S. Castillo be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect Jose S. Castillo to this office for the term provided by law.",
+      "no": "Do not elect Jose S. Castillo to this office.",
+      "yesShort": "Elect Jose S. Castillo.",
+      "noShort": "Do not elect Jose S. Castillo.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-truc-t-do",
+      "slug": "inyo-retain-truc-t-do",
+      "section": "State",
+      "title": "Truc T. Do — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain Truc T. Do",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Truc T. Do be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect Truc T. Do to this office for the term provided by law.",
+      "no": "Do not elect Truc T. Do to this office.",
+      "yesShort": "Elect Truc T. Do.",
+      "noShort": "Do not elect Truc T. Do.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-william-s-dato",
+      "slug": "inyo-retain-william-s-dato",
+      "section": "State",
+      "title": "William S. Dato — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain William S. Dato",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice William S. Dato be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect William S. Dato to this office for the term provided by law.",
+      "no": "Do not elect William S. Dato to this office.",
+      "yesShort": "Elect William S. Dato.",
+      "noShort": "Do not elect William S. Dato.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-eran-m-bermudez",
+      "slug": "inyo-retain-eran-m-bermudez",
+      "section": "State",
+      "title": "Eran M. Bermudez — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain Eran M. Bermudez",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Eran M. Bermudez be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect Eran M. Bermudez to this office for the term provided by law.",
+      "no": "Do not elect Eran M. Bermudez to this office.",
+      "yesShort": "Elect Eran M. Bermudez.",
+      "noShort": "Do not elect Eran M. Bermudez.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-lisa-rodriguez",
+      "slug": "inyo-retain-lisa-rodriguez",
+      "section": "State",
+      "title": "Lisa Rodriguez — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain Lisa Rodriguez",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall San Diego County Superior Court Judge Lisa Rodriguez be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect Lisa Rodriguez to this office for the term provided by law.",
+      "no": "Do not elect Lisa Rodriguez to this office.",
+      "yesShort": "Elect Lisa Rodriguez.",
+      "noShort": "Do not elect Lisa Rodriguez.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-david-m-rubin",
+      "slug": "inyo-retain-david-m-rubin",
+      "section": "State",
+      "title": "David M. Rubin — Court of Appeal, Fourth District, Division 1",
+      "shortTitle": "Retain David M. Rubin",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice David M. Rubin be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 1, for the term provided by law?",
+      "yes": "Elect David M. Rubin to this office for the term provided by law.",
+      "no": "Do not elect David M. Rubin to this office.",
+      "yesShort": "Elect David M. Rubin.",
+      "noShort": "Do not elect David M. Rubin.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-corey-g-lee",
+      "slug": "inyo-retain-corey-g-lee",
+      "section": "State",
+      "title": "Corey G. Lee — Court of Appeal, Fourth District, Division 2",
+      "shortTitle": "Retain Corey G. Lee",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Corey G. Lee be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 2, for the term provided by law?",
+      "yes": "Elect Corey G. Lee to this office for the term provided by law.",
+      "no": "Do not elect Corey G. Lee to this office.",
+      "yesShort": "Elect Corey G. Lee.",
+      "noShort": "Do not elect Corey G. Lee.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-michael-j-raphael",
+      "slug": "inyo-retain-michael-j-raphael",
+      "section": "State",
+      "title": "Michael J. Raphael — Court of Appeal, Fourth District, Division 2",
+      "shortTitle": "Retain Michael J. Raphael",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Michael J. Raphael be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 2, for the term provided by law?",
+      "yes": "Elect Michael J. Raphael to this office for the term provided by law.",
+      "no": "Do not elect Michael J. Raphael to this office.",
+      "yesShort": "Elect Michael J. Raphael.",
+      "noShort": "Do not elect Michael J. Raphael.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-joanne-motoike",
+      "slug": "inyo-retain-joanne-motoike",
+      "section": "State",
+      "title": "Joanne Motoike — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Joanne Motoike",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Presiding Justice Joanne Motoike be elected to the office of Presiding Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Joanne Motoike to this office for the term provided by law.",
+      "no": "Do not elect Joanne Motoike to this office.",
+      "yesShort": "Elect Joanne Motoike.",
+      "noShort": "Do not elect Joanne Motoike.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-thomas-a-delaney",
+      "slug": "inyo-retain-thomas-a-delaney",
+      "section": "State",
+      "title": "Thomas A. Delaney — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Thomas A. Delaney",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Thomas A. Delaney be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Thomas A. Delaney to this office for the term provided by law.",
+      "no": "Do not elect Thomas A. Delaney to this office.",
+      "yesShort": "Elect Thomas A. Delaney.",
+      "noShort": "Do not elect Thomas A. Delaney.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-nathan-r-scott",
+      "slug": "inyo-retain-nathan-r-scott",
+      "section": "State",
+      "title": "Nathan R. Scott — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Nathan R. Scott",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Nathan R. Scott be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Nathan R. Scott to this office for the term provided by law.",
+      "no": "Do not elect Nathan R. Scott to this office.",
+      "yesShort": "Elect Nathan R. Scott.",
+      "noShort": "Do not elect Nathan R. Scott.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-deborah-c-servino",
+      "slug": "inyo-retain-deborah-c-servino",
+      "section": "State",
+      "title": "Deborah C. Servino — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Deborah C. Servino",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Deborah C. Servino be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Deborah C. Servino to this office for the term provided by law.",
+      "no": "Do not elect Deborah C. Servino to this office.",
+      "yesShort": "Elect Deborah C. Servino.",
+      "noShort": "Do not elect Deborah C. Servino.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-martha-k-gooding",
+      "slug": "inyo-retain-martha-k-gooding",
+      "section": "State",
+      "title": "Martha K. Gooding — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Martha K. Gooding",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Martha K. Gooding be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Martha K. Gooding to this office for the term provided by law.",
+      "no": "Do not elect Martha K. Gooding to this office.",
+      "yesShort": "Elect Martha K. Gooding.",
+      "noShort": "Do not elect Martha K. Gooding.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-retain-juliet-o-macaulay",
+      "slug": "inyo-retain-juliet-o-macaulay",
+      "section": "State",
+      "title": "Juliet O. Macaulay — Court of Appeal, Fourth District, Division 3",
+      "shortTitle": "Retain Juliet O. Macaulay",
+      "type": "yesno",
+      "rule": "Yes / No · Judicial retention",
+      "summary": "Shall Associate Justice Juliet O. Macaulay be elected to the office of Associate Justice, Court of Appeal, Fourth District, Division 3, for the term provided by law?",
+      "yes": "Elect Juliet O. Macaulay to this office for the term provided by law.",
+      "no": "Do not elect Juliet O. Macaulay to this office.",
+      "yesShort": "Elect Juliet O. Macaulay.",
+      "noShort": "Do not elect Juliet O. Macaulay.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-kern-community-college-area-2",
+      "slug": "inyo-kern-community-college-area-2",
+      "section": "Local",
+      "title": "Kern Community College Trustee — Area #2",
+      "shortTitle": "Kern Community College Trustee — Area #2",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 7",
+          "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "christina-scrivner",
+          "name": "Christina Scrivner",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "paula-e-bray",
+          "name": "Paula E. Bray",
+          "occupation": "Director",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 7",
+              "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inyo-bishop-unified-school-board",
+      "slug": "inyo-bishop-unified-school-board",
+      "section": "Local",
+      "title": "Bishop Unified School District — Governing Board Member",
+      "shortTitle": "Bishop Unified School District — Governing Board Member",
+      "type": "multi",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 1",
+          "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "joshua-r-nicholson",
+          "name": "Joshua R. Nicholson",
+          "occupation": "BUSD School Board Member",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 1",
+              "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "scott-gadea",
+          "name": "Scott Gadea",
+          "occupation": "Probation/Business Owner",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 1",
+              "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "virginia-figueroa",
+          "name": "Virginia Figueroa",
+          "occupation": "Bishop Unified School District Board Member",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 1",
+              "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "tyler-mcmanus",
+          "name": "Tyler McManus",
+          "occupation": "Executive Director",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 1",
+              "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "claudia-moya-tanner",
+          "name": "Claudia Moya-Tanner",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 1",
+              "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "inyo-bishop-city-council",
+      "slug": "inyo-bishop-city-council",
+      "section": "Local",
+      "title": "City of Bishop — City Council",
+      "shortTitle": "City of Bishop — City Council",
+      "type": "multi",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 3",
+          "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "karen-schwartz",
+          "name": "Karen Schwartz",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 3",
+              "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "aaron-schat",
+          "name": "Aaron Schat",
+          "occupation": "No ballot designation provided",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 3",
+              "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "tyler-beadle",
+          "name": "Tyler Beadle",
+          "occupation": "Commercial Title Officer",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 3",
+              "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "stephen-jc-muchovej",
+          "name": "Stephen JC Muchovej",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 3",
+              "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "inyo-county-supervisor-district-3",
+      "slug": "inyo-county-supervisor-district-3",
+      "section": "Local",
+      "title": "County Supervisor — 3rd District",
+      "shortTitle": "County Supervisor — 3rd District",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 4",
+          "url": "https://drive.google.com/file/d/1qeqQWmGnVNTELXsbnVXGeMX63cGFFy6J/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "steven-orihuela",
+          "name": "Steven Orihuela",
+          "occupation": "Government Executive/Father",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 4",
+              "url": "https://drive.google.com/file/d/1qeqQWmGnVNTELXsbnVXGeMX63cGFFy6J/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "scott-e-marcellin",
+          "name": "Scott E Marcellin",
+          "occupation": "Inyo County District 3 Supervisor",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 4",
+              "url": "https://drive.google.com/file/d/1qeqQWmGnVNTELXsbnVXGeMX63cGFFy6J/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inyo-big-pine-unified-school-board",
+      "slug": "inyo-big-pine-unified-school-board",
+      "section": "Local",
+      "title": "Big Pine Unified School District — Governing Board Member",
+      "shortTitle": "Big Pine Unified School District — Governing Board Member",
+      "type": "multi",
+      "rule": "Vote for up to 2",
+      "summary": "Elect 2 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 5",
+          "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "katy-carrington",
+          "name": "Katy Carrington",
+          "occupation": "Office Technician/Parent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 5",
+              "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "kami-bayer",
+          "name": "Kami Bayer",
+          "occupation": "Big Pine Unified School District Board Member",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 5",
+              "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "mary-rossi",
+          "name": "Mary Rossi",
+          "occupation": "Teacher",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 5",
+              "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "adelina-rico",
+          "name": "Adelina Rico",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 5",
+              "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 2
+    },
+    {
+      "id": "inyo-owens-valley-unified-school-board",
+      "slug": "inyo-owens-valley-unified-school-board",
+      "section": "Local",
+      "title": "Owens Valley Unified School District — Governing Board Member",
+      "shortTitle": "Owens Valley Unified School District — Governing Board Member",
+      "type": "multi",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 6",
+          "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "jenna-m-horiuchi",
+          "name": "Jenna M. Horiuchi",
+          "occupation": "Energy Project Specialist",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 6",
+              "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "alisa-m-lynch",
+          "name": "Alisa M. Lynch",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 6",
+              "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "alisa-lee",
+          "name": "Alisa Lee",
+          "occupation": "Assistant Administrator/Mother",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 6",
+              "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "kaysi-scott",
+          "name": "Kaysi Scott",
+          "occupation": "Mother/Business Owner",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 6",
+              "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "inyo-lone-pine-unified-school-board",
+      "slug": "inyo-lone-pine-unified-school-board",
+      "section": "Local",
+      "title": "Lone Pine Unified School District — Governing Board Member",
+      "shortTitle": "Lone Pine Unified School District — Governing Board Member",
+      "type": "multi",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 8",
+          "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "cord-hunter",
+          "name": "Cord Hunter",
+          "occupation": "Father/Lineman/Rancher",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "scott-w-kemp",
+          "name": "Scott W Kemp",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "joseph-beaton",
+          "name": "Joseph Beaton",
+          "occupation": "Parent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "greg-rickets",
+          "name": "Greg Rickets",
+          "occupation": "Pastor",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "rachel-yourgules",
+          "name": "Rachel Yourgules",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "inyo-lone-pine-unified-school-board-2-year",
+      "slug": "inyo-lone-pine-unified-school-board-2-year",
+      "section": "Local",
+      "title": "Lone Pine Unified School District — Governing Board Member, 2 Year Term",
+      "shortTitle": "Lone Pine Unified School District — Governing Board Member, 2 Year Term",
+      "type": "single",
+      "rule": "Vote for 1",
+      "summary": "Elect 1 member to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 8",
+          "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "sally-clausen",
+          "name": "Sally Clausen",
+          "occupation": "Retired Chef",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "dominic-p-smith",
+          "name": "Dominic P. Smith",
+          "occupation": "Parent/Tribal Communications",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "alex-quezada",
+          "name": "Alex Quezada",
+          "occupation": "Appointed Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 8",
+              "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inyo-trona-joint-unified-school-board",
+      "slug": "inyo-trona-joint-unified-school-board",
+      "section": "Local",
+      "title": "Trona Joint Unified School District — Governing Board Member",
+      "shortTitle": "Trona Joint Unified School District — Governing Board Member",
+      "type": "multi",
+      "rule": "Vote for up to 3",
+      "summary": "Elect 3 members to this office.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 10",
+          "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+          "group": "sources"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "cathy-heseman",
+          "name": "Cathy Heseman",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 10",
+              "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "dennis-gale-benadom",
+          "name": "Dennis Gale Benadom",
+          "occupation": "Pastor",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 10",
+              "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "ahmed-abdel-elhawary",
+          "name": "Ahmed Abdel Elhawary",
+          "occupation": "Father/Program Coordinator",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 10",
+              "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        },
+        {
+          "id": "skylar-wayne-mccullar",
+          "name": "Skylar Wayne McCullar",
+          "occupation": "Incumbent",
+          "links": [
+            {
+              "label": "Inyo County official sample ballot — Type 10",
+              "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+              "group": "sources"
+            }
+          ]
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "inyo-measure-y",
+      "slug": "inyo-measure-y",
+      "section": "Local",
+      "title": "Measure Y — Special Parcel Tax for Fire Protection Services",
+      "shortTitle": "Measure Y — Mesa fire protection parcel tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Shall the Mesa Community Services District adopt an ordinance establishing annual special parcel tax of up to $500 per developed parcel and up to $250 per undeveloped parcel, with up to a 3.5% annual escalator, raising approximately $64,500 in year one, to fund an Out of Area Service Agreement with the Bishop Fire Protection District providing fire protection and related services, with all funds used locally for these purposes only, continuing until ended by voters, and subject to annual review?",
+      "yes": "Adopt the special parcel tax for the fire protection service agreement.",
+      "no": "Do not adopt the special parcel tax.",
+      "yesShort": "Adopt the parcel tax.",
+      "noShort": "Do not adopt the parcel tax.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 2",
+          "url": "https://drive.google.com/file/d/1vNNmoHQIEOJsce3_Jl5LT8SoSdCDfhsY/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    },
+    {
+      "id": "inyo-measure-z",
+      "slug": "inyo-measure-z",
+      "section": "Local",
+      "title": "Measure Z — Lone Pine Special Emergency Response Services Tax Reinstatement",
+      "shortTitle": "Measure Z — Lone Pine emergency response parcel tax",
+      "type": "yesno",
+      "rule": "Yes / No",
+      "summary": "Shall the measure reinstating the Lone Pine Fire Protection District's previously approved $100 parcel tax, originally adopted in 2014 and expired December 31, 2025, be adopted to continue funding Lone Pine Fire Protection District Special Emergency Response Services, generating approximately $80,000 annually for a period of ten years, with all funds remaining under local control?",
+      "yes": "Reinstate the $100 parcel tax for ten years to fund special emergency response services.",
+      "no": "Do not reinstate the parcel tax.",
+      "yesShort": "Reinstate the parcel tax.",
+      "noShort": "Do not reinstate the parcel tax.",
+      "links": [
+        {
+          "label": "Inyo County official sample ballot — Type 9",
+          "url": "https://drive.google.com/file/d/1R51gjGbEfFe6IOKS_zZUPiBOWvrSuAgo/view?usp=drive_link",
+          "group": "sources"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Inyo County voter information guides and sample ballots",
+      "url": "https://elections.inyocounty.us/voting/voter-information-guides-sample-ballots/",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 1",
+      "url": "https://drive.google.com/file/d/1WffI2x-APDn243JUnQS9tNbolKdVNVdq/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 2",
+      "url": "https://drive.google.com/file/d/1vNNmoHQIEOJsce3_Jl5LT8SoSdCDfhsY/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 3",
+      "url": "https://drive.google.com/file/d/199QH4Y7OayuNF2D7o3Gb_95jSb0qgUnQ/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 4",
+      "url": "https://drive.google.com/file/d/1qeqQWmGnVNTELXsbnVXGeMX63cGFFy6J/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 5",
+      "url": "https://drive.google.com/file/d/1wpKMElep2TtDeoAdpzgQHiF_vOJOgp-Z/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 6",
+      "url": "https://drive.google.com/file/d/1QHAwnLxunk8pJybkyyl48I8IuIzE0XV4/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 7",
+      "url": "https://drive.google.com/file/d/1s7stiiQV6t8p6fV4pHVjHJpV9Eul7t5S/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 8",
+      "url": "https://drive.google.com/file/d/16Re29z6ZQjSVSv7Ip5SsUdAZTf7vc9L6/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 9",
+      "url": "https://drive.google.com/file/d/1R51gjGbEfFe6IOKS_zZUPiBOWvrSuAgo/view?usp=drive_link",
+      "group": "sources"
+    },
+    {
+      "label": "Inyo County official sample ballot — Type 10",
+      "url": "https://drive.google.com/file/d/13DzPp_ITK5dXyEi9Tq3m2aTWiCblbRxP/view?usp=drive_link",
+      "group": "sources"
+    }
+  ]
+}

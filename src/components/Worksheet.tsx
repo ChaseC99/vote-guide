@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import type { Ballot } from '../data/schema';
-import { contestPath, numberLabel, sectionNames } from '../lib/navigation';
+import { numberLabel, sectionNames } from '../lib/navigation';
+import { useBallotPaths } from '../lib/routeContext';
+import { districtSummary } from '../lib/districts';
 import { selectionCount, selectionSummary, type WorksheetState } from '../lib/selections';
 import { SourceLinks } from './SourceLinks';
 
@@ -14,6 +16,7 @@ interface Props {
 }
 
 export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, onPrint }: Props) {
+  const { homePath, contestPath } = useBallotPaths();
   const compact = !!currentId;
   const [collapsedSections, setCollapsedSections] = useState<string[]>([]);
   const last = ballot.contests.find(({ id }) => id === lastVisited);
@@ -52,7 +55,7 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
             {compact && (
               <a
                 className="button expand-button"
-                href="/"
+                href={homePath}
                 data-route
                 title="Expand worksheet (Esc)"
               >
@@ -73,6 +76,16 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
           </div>
         </header>
         <div className="worksheet-body">
+          {!compact && (
+            <div className="ballot-identity">
+              <span>
+                {ballot.ballotCode
+                  ? `Ballot type${ballot.ballotCode.includes(',') ? 's' : ''} ${ballot.ballotCode}`
+                  : 'Personal district worksheet'}
+              </span>
+              <a href={ballot.countyId ? `/?county=${ballot.countyId}` : '/'}>Change ballot</a>
+            </div>
+          )}
           {!compact && ballot.isMock && (
             <p className="sample-notice">
               <span className="sample-label">SAMPLE BALLOT</span> Fictional contests for
@@ -82,14 +95,9 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
           {!compact && ballot.provenance && (
             <details className="ballot-provenance resource-group">
               <summary>
-                Your districts & official sources <span aria-hidden="true">+</span>
+                Contests & official sources <span aria-hidden="true">+</span>
               </summary>
-              <p>
-                Congressional District {ballot.provenance.districts.congressional} · Assembly{' '}
-                {ballot.provenance.districts.assembly} · Supervisor{' '}
-                {ballot.provenance.districts.supervisorial} · BART{' '}
-                {ballot.provenance.districts.bart}
-              </p>
+              <p>{districtSummary(ballot.provenance.districts)}</p>
               <p>{ballot.provenance.note}</p>
               <SourceLinks links={ballot.provenance.sources} />
               <p className="source-note">
@@ -214,6 +222,9 @@ export function Worksheet({ ballot, currentId, lastVisited, state, onPrivacy, on
             <div className="footer-details">
               <p className="footer-caption">A personal worksheet · Not an official ballot</p>
               <nav className="footer-links" aria-label="Worksheet information">
+                {compact && (
+                  <a href={ballot.countyId ? `/?county=${ballot.countyId}` : '/'}>Change ballot</a>
+                )}
                 <button className="text-button" onClick={onPrivacy} aria-haspopup="dialog">
                   About saving & privacy
                 </button>

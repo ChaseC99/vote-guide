@@ -1,0 +1,1427 @@
+[
+  {
+    "code": "BT1",
+    "pages": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "localContests": [
+      "alameda-castro-valley-unified-school-district-governing-board-member-area-3",
+      "alameda-ac-transit-district-director-ward-5",
+      "alameda-members-board-of-directors-castro-valley-sanitary-district",
+      "alameda-east-bay-regional-park-district-director-ward-3",
+      "alameda-eden-township-healthcare-district-director-zone-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT10",
+    "pages": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "localContests": [
+      "alameda-castro-valley-unified-school-district-governing-board-member-area-4",
+      "alameda-ac-transit-district-director-ward-5",
+      "alameda-eden-township-healthcare-district-director-zone-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT11",
+    "pages": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-2",
+      "alameda-san-leandro-for-mayor",
+      "alameda-san-leandro-for-member-of-city-council-district-1",
+      "alameda-san-leandro-for-member-of-city-council-district-2-short-term",
+      "alameda-san-leandro-for-member-of-city-council-district-3",
+      "alameda-san-leandro-for-member-of-city-council-district-5",
+      "alameda-ac-transit-district-director-ward-5",
+      "alameda-bart-director-district-4",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-director-district-1-oro-loma-sanitary-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "J"
+    ],
+    "contestCount": 50
+  },
+  {
+    "code": "BT19",
+    "pages": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-6",
+      "alameda-ac-transit-district-director-ward-5",
+      "alameda-bart-director-district-4",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-director-district-3-oro-loma-sanitary-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "J"
+    ],
+    "contestCount": 45
+  },
+  {
+    "code": "BT20",
+    "pages": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "localContests": [
+      "alameda-castro-valley-unified-school-district-governing-board-member-area-2-short-term",
+      "alameda-ac-transit-district-director-ward-5",
+      "alameda-bart-director-district-4",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-director-district-5-oro-loma-sanitary-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT41",
+    "pages": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "localContests": [],
+    "rankedContests": [
+      "alameda-albany-for-members-of-city-council",
+      "alameda-albany-for-members-of-the-board-of-education"
+    ],
+    "measures": [
+      "RTM",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT42",
+    "pages": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "localContests": [
+      "alameda-berkeley-for-rent-stabilization-board-commissioners",
+      "alameda-berkeley-for-school-directors"
+    ],
+    "rankedContests": [
+      "alameda-berkeley-for-member-of-city-council-district-1",
+      "alameda-berkeley-for-city-auditor"
+    ],
+    "measures": [
+      "RTM",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "AA"
+    ],
+    "contestCount": 50
+  },
+  {
+    "code": "BT43",
+    "pages": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "localContests": [
+      "alameda-berkeley-for-rent-stabilization-board-commissioners",
+      "alameda-berkeley-for-school-directors"
+    ],
+    "rankedContests": [
+      "alameda-berkeley-for-member-of-city-council-district-4",
+      "alameda-berkeley-for-city-auditor"
+    ],
+    "measures": [
+      "RTM",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "AA"
+    ],
+    "contestCount": 50
+  },
+  {
+    "code": "BT44",
+    "pages": [
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163
+    ],
+    "localContests": [
+      "alameda-berkeley-for-rent-stabilization-board-commissioners",
+      "alameda-berkeley-for-school-directors"
+    ],
+    "rankedContests": [
+      "alameda-berkeley-for-member-of-city-council-district-7",
+      "alameda-berkeley-for-city-auditor"
+    ],
+    "measures": [
+      "RTM",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "AA"
+    ],
+    "contestCount": 50
+  },
+  {
+    "code": "BT45",
+    "pages": [
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179
+    ],
+    "localContests": [
+      "alameda-berkeley-for-rent-stabilization-board-commissioners",
+      "alameda-berkeley-for-school-directors",
+      "alameda-ac-transit-district-director-ward-3"
+    ],
+    "rankedContests": [
+      "alameda-berkeley-for-member-of-city-council-district-8",
+      "alameda-berkeley-for-city-auditor"
+    ],
+    "measures": [
+      "RTM",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "AA"
+    ],
+    "contestCount": 51
+  },
+  {
+    "code": "BT48",
+    "pages": [
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195
+    ],
+    "localContests": [
+      "alameda-ac-transit-district-director-ward-3",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-3"
+    ],
+    "rankedContests": [
+      "alameda-oakland-for-mayor",
+      "alameda-oakland-for-member-of-city-council-district-4",
+      "alameda-oakland-for-city-auditor",
+      "alameda-oakland-for-school-director-district-4"
+    ],
+    "measures": [
+      "RTM",
+      "EE",
+      "FF"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT50",
+    "pages": [
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211
+    ],
+    "localContests": [
+      "alameda-peralta-community-college-district-trustee-area-5",
+      "alameda-ac-transit-district-director-ward-3",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-3"
+    ],
+    "rankedContests": [
+      "alameda-oakland-for-mayor",
+      "alameda-oakland-for-city-auditor"
+    ],
+    "measures": [
+      "RTM",
+      "EE",
+      "FF"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT54",
+    "pages": [
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223
+    ],
+    "localContests": [
+      "alameda-peralta-community-college-district-trustee-area-5",
+      "alameda-piedmont-for-members-of-city-council",
+      "alameda-ac-transit-district-director-ward-3",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "GG"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT55",
+    "pages": [
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235
+    ],
+    "localContests": [
+      "alameda-alameda-unified-school-district-governing-board-members",
+      "alameda-alameda-for-mayor",
+      "alameda-alameda-for-members-of-city-council",
+      "alameda-ac-transit-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "L",
+      "M",
+      "N"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT56",
+    "pages": [
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247
+    ],
+    "localContests": [
+      "alameda-emery-unified-school-district-governing-board-members",
+      "alameda-emeryville-for-members-of-city-council"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "BB"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT57",
+    "pages": [
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263
+    ],
+    "localContests": [
+      "alameda-peralta-community-college-district-trustee-area-5",
+      "alameda-ac-transit-district-director-ward-3",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-3"
+    ],
+    "rankedContests": [
+      "alameda-oakland-for-mayor",
+      "alameda-oakland-for-member-of-city-council-district-2",
+      "alameda-oakland-for-city-auditor",
+      "alameda-oakland-for-school-director-district-2"
+    ],
+    "measures": [
+      "RTM",
+      "EE",
+      "FF"
+    ],
+    "contestCount": 48
+  },
+  {
+    "code": "BT60",
+    "pages": [
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279
+    ],
+    "localContests": [
+      "alameda-ac-transit-district-director-ward-4",
+      "alameda-bart-director-district-4"
+    ],
+    "rankedContests": [
+      "alameda-oakland-for-mayor",
+      "alameda-oakland-for-member-of-city-council-district-2",
+      "alameda-oakland-for-city-auditor",
+      "alameda-oakland-for-school-director-district-2"
+    ],
+    "measures": [
+      "RTM",
+      "EE",
+      "FF"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT69",
+    "pages": [
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295
+    ],
+    "localContests": [
+      "alameda-peralta-community-college-district-trustee-area-5",
+      "alameda-ac-transit-district-director-ward-4",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-3"
+    ],
+    "rankedContests": [
+      "alameda-oakland-for-mayor",
+      "alameda-oakland-for-member-of-city-council-district-6",
+      "alameda-oakland-for-city-auditor",
+      "alameda-oakland-for-school-director-district-6"
+    ],
+    "measures": [
+      "RTM",
+      "EE",
+      "FF"
+    ],
+    "contestCount": 48
+  },
+  {
+    "code": "BT94",
+    "pages": [
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307
+    ],
+    "localContests": [
+      "alameda-dublin-unified-school-district-governing-board-member-area-3-short-term",
+      "alameda-dublin-for-mayor",
+      "alameda-dublin-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "I"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT96",
+    "pages": [
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319
+    ],
+    "localContests": [
+      "alameda-dublin-unified-school-district-governing-board-member-area-5",
+      "alameda-dublin-for-mayor",
+      "alameda-dublin-for-member-of-city-council-district-4",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "I"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT100",
+    "pages": [
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331
+    ],
+    "localContests": [
+      "alameda-dublin-for-mayor",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "I"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT101",
+    "pages": [
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343
+    ],
+    "localContests": [
+      "alameda-livermore-valley-joint-unified-school-district-governing-board-member-area-2",
+      "alameda-east-bay-regional-park-district-director-ward-5",
+      "alameda-livermore-area-recreation-park-district-directors"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT103",
+    "pages": [
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355
+    ],
+    "localContests": [
+      "alameda-livermore-valley-joint-unified-school-district-governing-board-member-area-2",
+      "alameda-livermore-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-5",
+      "alameda-livermore-area-recreation-park-district-directors"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 43
+  },
+  {
+    "code": "BT104",
+    "pages": [
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367
+    ],
+    "localContests": [
+      "alameda-livermore-valley-joint-unified-school-district-governing-board-member-area-3",
+      "alameda-livermore-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-5",
+      "alameda-livermore-area-recreation-park-district-directors"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 43
+  },
+  {
+    "code": "BT106",
+    "pages": [
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379
+    ],
+    "localContests": [
+      "alameda-livermore-valley-joint-unified-school-district-governing-board-member-area-5",
+      "alameda-east-bay-regional-park-district-director-ward-5",
+      "alameda-livermore-area-recreation-park-district-directors"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT108",
+    "pages": [
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391
+    ],
+    "localContests": [
+      "alameda-pleasanton-for-mayor",
+      "alameda-pleasanton-for-member-of-city-council-district-1",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "HH"
+    ],
+    "contestCount": 43
+  },
+  {
+    "code": "BT109",
+    "pages": [
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403
+    ],
+    "localContests": [
+      "alameda-pleasanton-unified-school-district-governing-board-member-area-5",
+      "alameda-pleasanton-for-mayor",
+      "alameda-pleasanton-for-member-of-city-council-district-3",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "HH"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT120",
+    "pages": [
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "localContests": [
+      "alameda-sunol-glen-unified-school-district-governing-board-members",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "K"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT123",
+    "pages": [
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427
+    ],
+    "localContests": [
+      "alameda-castro-valley-unified-school-district-governing-board-member-area-3",
+      "alameda-hayward-for-mayor",
+      "alameda-hayward-for-member-of-city-council-district-1",
+      "alameda-east-bay-regional-park-district-director-ward-3",
+      "alameda-member-board-of-directors-district-4-hayward-area-recreation-and-park-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT124",
+    "pages": [
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439
+    ],
+    "localContests": [
+      "alameda-hayward-for-mayor",
+      "alameda-hayward-for-member-of-city-council-district-1",
+      "alameda-members-board-of-directors-castro-valley-sanitary-district",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-east-bay-regional-park-district-director-ward-3",
+      "alameda-member-board-of-directors-district-2-hayward-area-recreation-and-park-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT125",
+    "pages": [
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451
+    ],
+    "localContests": [
+      "alameda-hayward-for-mayor",
+      "alameda-hayward-for-member-of-city-council-district-1",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-east-bay-regional-park-district-director-ward-3",
+      "alameda-member-board-of-directors-district-2-hayward-area-recreation-and-park-district",
+      "alameda-director-district-5-oro-loma-sanitary-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT135",
+    "pages": [
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-hayward-unified-school-district-governing-board-member-area-2",
+      "alameda-hayward-for-mayor",
+      "alameda-hayward-for-member-of-city-council-district-6",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT136",
+    "pages": [
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-hayward-unified-school-district-governing-board-member-area-4",
+      "alameda-hayward-for-mayor",
+      "alameda-hayward-for-member-of-city-council-district-6",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT141",
+    "pages": [
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-hayward-unified-school-district-governing-board-member-area-2",
+      "alameda-hayward-for-mayor",
+      "alameda-alameda-county-water-district-director-ward-2",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT144",
+    "pages": [
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-new-haven-unified-school-district-governing-board-member-area-5",
+      "alameda-hayward-for-mayor",
+      "alameda-alameda-county-water-district-director-ward-2",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 46
+  },
+  {
+    "code": "BT145",
+    "pages": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-6",
+      "alameda-hayward-unified-school-district-governing-board-member-area-2",
+      "alameda-hayward-for-mayor",
+      "alameda-alameda-county-water-district-director-ward-2",
+      "alameda-bart-director-district-4",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "CC"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT168",
+    "pages": [
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-union-city-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "II"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT171",
+    "pages": [
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-new-haven-unified-school-district-governing-board-member-area-4",
+      "alameda-union-city-for-member-of-city-council-district-3",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "II"
+    ],
+    "contestCount": 45
+  },
+  {
+    "code": "BT175",
+    "pages": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547
+    ],
+    "localContests": [
+      "alameda-chabot-las-positas-community-college-district-trustee-area-3",
+      "alameda-new-haven-unified-school-district-governing-board-member-area-4",
+      "alameda-union-city-for-member-of-city-council-district-4",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "II"
+    ],
+    "contestCount": 45
+  },
+  {
+    "code": "BT180",
+    "pages": [
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559
+    ],
+    "localContests": [
+      "alameda-castro-valley-unified-school-district-governing-board-member-area-3",
+      "alameda-east-bay-municipal-utility-district-director-ward-no-7",
+      "alameda-east-bay-regional-park-district-director-ward-3",
+      "alameda-eden-township-healthcare-district-director-zone-3",
+      "alameda-fairview-fire-protection-district-directors",
+      "alameda-member-board-of-directors-district-4-hayward-area-recreation-and-park-district",
+      "alameda-director-district-5-oro-loma-sanitary-district"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 47
+  },
+  {
+    "code": "BT194",
+    "pages": [
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571
+    ],
+    "localContests": [
+      "alameda-dublin-for-mayor",
+      "alameda-dublin-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "I"
+    ],
+    "contestCount": 43
+  },
+  {
+    "code": "BT241",
+    "pages": [
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583
+    ],
+    "localContests": [
+      "alameda-new-haven-unified-school-district-governing-board-member-area-5",
+      "alameda-union-city-for-member-of-city-council-district-4",
+      "alameda-alameda-county-water-district-director-ward-2",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "II"
+    ],
+    "contestCount": 45
+  },
+  {
+    "code": "BT242",
+    "pages": [
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595
+    ],
+    "localContests": [
+      "alameda-fremont-for-member-of-city-council-district-2",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT243",
+    "pages": [
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607
+    ],
+    "localContests": [
+      "alameda-fremont-for-member-of-city-council-district-3",
+      "alameda-east-bay-regional-park-district-director-ward-3"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 42
+  },
+  {
+    "code": "BT245",
+    "pages": [
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619
+    ],
+    "localContests": [
+      "alameda-ohlone-community-college-district-trustee-area-6",
+      "alameda-fremont-for-member-of-city-council-district-4",
+      "alameda-alameda-county-water-district-director-ward-3",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM"
+    ],
+    "contestCount": 44
+  },
+  {
+    "code": "BT263",
+    "pages": [
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631
+    ],
+    "localContests": [
+      "alameda-newark-for-mayor",
+      "alameda-newark-for-members-of-city-council",
+      "alameda-alameda-county-water-district-director-ward-2",
+      "alameda-east-bay-regional-park-district-director-ward-5"
+    ],
+    "rankedContests": [],
+    "measures": [
+      "RTM",
+      "DD"
+    ],
+    "contestCount": 45
+  }
+]

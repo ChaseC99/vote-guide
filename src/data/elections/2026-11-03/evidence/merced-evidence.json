@@ -1,0 +1,1891 @@
+{
+  "verifiedOn": "2026-11-02",
+  "gisRecordCount": 770,
+  "exceededTransferLimit": false,
+  "cvigCodes": 123,
+  "files": [
+    {
+      "code": "BT001",
+      "file": "merced-BT001.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT001.pdf",
+      "sha256": "51f540fff8b3afc85b9ec9448afc5b385410a6410d6505015469d35d38adf20b",
+      "contestCount": 44,
+      "gisBallotTypeReferences": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "code": "BT002",
+      "file": "merced-BT002.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT002.pdf",
+      "sha256": "15f2168fd44c4ee9938e1f3b300bbe57f18d8747768e72a87e483388e93bbe0c",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        4,
+        7,
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "code": "BT003",
+      "file": "merced-BT003.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT003.pdf",
+      "sha256": "b5dd36740a116a8b0ed9a5446b526d9ce6eb21b4ffe9215d29d4dd628187ec9a",
+      "contestCount": 44,
+      "gisBallotTypeReferences": [
+        9,
+        12
+      ]
+    },
+    {
+      "code": "BT004",
+      "file": "merced-BT004.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT004.pdf",
+      "sha256": "2eb98bb29c542a151e2e5074f78ef6e6f613aee14c3b23b3394dbb22f3bc995e",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        14,
+        16
+      ]
+    },
+    {
+      "code": "BT005",
+      "file": "merced-BT005.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT005.pdf",
+      "sha256": "7a0cb58914cf7a3387d82bb4bfdde11de88216a5b87669404ebd311ba693d668",
+      "contestCount": 44,
+      "gisBallotTypeReferences": [
+        15
+      ]
+    },
+    {
+      "code": "BT006",
+      "file": "merced-BT006.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT006.pdf",
+      "sha256": "4a538f1f0f8461199991b2c0cc03fa766de69a99c78e41e1f1aa639e6fb7f0b2",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        17
+      ]
+    },
+    {
+      "code": "BT007",
+      "file": "merced-BT007.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT007.pdf",
+      "sha256": "1ddc49da450ff573c358c67f2b8ea81ad4bc4424c4e9803773deb723e4e479b4",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        18,
+        20,
+        309
+      ]
+    },
+    {
+      "code": "BT008",
+      "file": "merced-BT008.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT008.pdf",
+      "sha256": "96cd2473cc71a2e9a0179b981659dc1dde0a95103411a552f77649a81bb80b66",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        19
+      ]
+    },
+    {
+      "code": "BT009",
+      "file": "merced-BT009.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT009.pdf",
+      "sha256": "131779c71c047c32023e89849065e950d043916d4221af6404708089aa743e80",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        21,
+        31
+      ]
+    },
+    {
+      "code": "BT010",
+      "file": "merced-BT010.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT010.pdf",
+      "sha256": "c79ae3bea67c7658471f6fa964e9c2d7b22f98cbf77bb0d91cfb46db29c87d73",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        22,
+        26,
+        27,
+        32,
+        36,
+        37,
+        46
+      ]
+    },
+    {
+      "code": "BT011",
+      "file": "merced-BT011.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT011.pdf",
+      "sha256": "f8099c58efbf58c082a6b39770ddbff899e80ec3c32991baaf91eb52387a0962",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        23,
+        24,
+        25,
+        28,
+        33,
+        35,
+        38,
+        39,
+        42,
+        45
+      ]
+    },
+    {
+      "code": "BT012",
+      "file": "merced-BT012.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT012.pdf",
+      "sha256": "a73734f0129779db072527d02b454d4b6d5c4a7b7ce8985ec0e2a9acbadca7be",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        29,
+        30,
+        34
+      ]
+    },
+    {
+      "code": "BT013",
+      "file": "merced-BT013.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT013.pdf",
+      "sha256": "73315b8cc04fc1b5f208bb71a5206f23f132764a39bfcb6d6260030792182d5a",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        40,
+        41
+      ]
+    },
+    {
+      "code": "BT014",
+      "file": "merced-BT014.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT014.pdf",
+      "sha256": "f27442e914b8180018c37a239c463c32c6444871262dc834e54d733a811d5db6",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        43,
+        44
+      ]
+    },
+    {
+      "code": "BT015",
+      "file": "merced-BT015.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT015.pdf",
+      "sha256": "2d142ed1ff1d92c93af5b1c2cd0e3791ad2e259db341235fb9709ccb23e2d430",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        47,
+        48,
+        77,
+        78,
+        79,
+        80,
+        83
+      ]
+    },
+    {
+      "code": "BT016",
+      "file": "merced-BT016.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT016.pdf",
+      "sha256": "cc78afdcef5daa2ffdb47df37cd8a616e6504bc289fa7f0aaf7b8a604ff8136d",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        49,
+        81,
+        82,
+        87,
+        88,
+        89,
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "code": "BT017",
+      "file": "merced-BT017.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT017.pdf",
+      "sha256": "036a20cf91f186698b9820d2be716865636f6546612e91ef1e4caeb4cbdcd10d",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        50
+      ]
+    },
+    {
+      "code": "BT018",
+      "file": "merced-BT018.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT018.pdf",
+      "sha256": "a3be0b4b2974063f80cb675a64c3225c89567ecf10febd32fe99c5e96bc24a4a",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        75,
+        84,
+        85,
+        86,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        669,
+        670,
+        671,
+        672,
+        674,
+        675,
+        676,
+        677,
+        679,
+        695,
+        696,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        714,
+        715,
+        716,
+        720,
+        721
+      ]
+    },
+    {
+      "code": "BT019",
+      "file": "merced-BT019.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT019.pdf",
+      "sha256": "f895ca35db97871ff2740628b37843af85d3e724d395b578baaec91600de1790",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        57,
+        64,
+        105,
+        125,
+        126,
+        722,
+        734
+      ]
+    },
+    {
+      "code": "BT020",
+      "file": "merced-BT020.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT020.pdf",
+      "sha256": "4d8f3356364a74112921b2f06273933327c14ea64528aa10eb3f0c8e2ae92635",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        58,
+        90,
+        95,
+        96
+      ]
+    },
+    {
+      "code": "BT021",
+      "file": "merced-BT021.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT021.pdf",
+      "sha256": "63e34fd93cbcf7588f7fc2c8e679c61c057ca68b0d739c9d53d90ee1e0204e1b",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        59,
+        108
+      ]
+    },
+    {
+      "code": "BT022",
+      "file": "merced-BT022.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT022.pdf",
+      "sha256": "f8b436e533031f9d2ca986c88baa177c5ceaa8fd291ad9ec07dde32ebc9997cb",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        60,
+        61,
+        62,
+        122,
+        123,
+        323,
+        326,
+        327,
+        328,
+        331,
+        348,
+        349,
+        354,
+        357,
+        361,
+        362,
+        365,
+        366,
+        367,
+        368,
+        369
+      ]
+    },
+    {
+      "code": "BT023",
+      "file": "merced-BT023.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT023.pdf",
+      "sha256": "ef63ce22ffdaec8a07a2f5fc238f501cd88544d22c1d7c468df162ce0891285e",
+      "contestCount": 35,
+      "gisBallotTypeReferences": [
+        63,
+        735,
+        736
+      ]
+    },
+    {
+      "code": "BT024",
+      "file": "merced-BT024.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT024.pdf",
+      "sha256": "d82aaaae720bbf9a97293ff6469aa33dff08468d587f96b35be047f9a918f97d",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        65,
+        66,
+        106,
+        124,
+        127,
+        128,
+        129,
+        131,
+        132,
+        134,
+        135,
+        343,
+        346,
+        347,
+        355,
+        356,
+        358,
+        359,
+        360,
+        363,
+        364
+      ]
+    },
+    {
+      "code": "BT025",
+      "file": "merced-BT025.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT025.pdf",
+      "sha256": "728cf7dbd3c0fa353082e040c9a895ae706fa67a7d0d4d51a5bfa66de57378e0",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        67,
+        130,
+        133
+      ]
+    },
+    {
+      "code": "BT026",
+      "file": "merced-BT026.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT026.pdf",
+      "sha256": "d12e55a60b7a42d0b0a0c96420f43ef9d2f3010fa84ad7129e83f59cf3f32a6e",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        68,
+        70,
+        71,
+        146,
+        149,
+        150,
+        151,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        161,
+        162,
+        165,
+        166,
+        168,
+        345
+      ]
+    },
+    {
+      "code": "BT027",
+      "file": "merced-BT027.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT027.pdf",
+      "sha256": "76292ed27f9af58e6cd6c743ef1d044ae9e6a04e503888d04649cac181127a43",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        69,
+        160
+      ]
+    },
+    {
+      "code": "BT028",
+      "file": "merced-BT028.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT028.pdf",
+      "sha256": "dd3a78cf7cb5a5fde25054b78238061a58c33b13ee37bef47c374a1d107ba2fc",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        72,
+        171,
+        174,
+        200
+      ]
+    },
+    {
+      "code": "BT029",
+      "file": "merced-BT029.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT029.pdf",
+      "sha256": "2ffefcb72da14fa712533798f160f00c969278c7d03bc4a5c72cb4db4a526b30",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        73,
+        170,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        201
+      ]
+    },
+    {
+      "code": "BT030",
+      "file": "merced-BT030.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT030.pdf",
+      "sha256": "a092e6c83da18f6dca37f81ef3eb4fe92165ca556d0b34c7371e3c5e039a02a8",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        74
+      ]
+    },
+    {
+      "code": "BT031",
+      "file": "merced-BT031.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT031.pdf",
+      "sha256": "2ce4a82a1566bd0156ee426f771a86061bd9fd130fb85d909b96d7f62fb52f80",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        76,
+        678,
+        699,
+        717,
+        718,
+        719,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732
+      ]
+    },
+    {
+      "code": "BT032",
+      "file": "merced-BT032.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT032.pdf",
+      "sha256": "7adc46e7eb00e28ffde42e5e810bf54fea3eb7605108cadd4cd708438ce13b00",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        107
+      ]
+    },
+    {
+      "code": "BT033",
+      "file": "merced-BT033.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT033.pdf",
+      "sha256": "06b342865603aa173bbdb2a2ff9e7d4de40012e7a2592c31e7bd74d013c0e8a2",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        109,
+        110,
+        111,
+        113,
+        115
+      ]
+    },
+    {
+      "code": "BT034",
+      "file": "merced-BT034.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT034.pdf",
+      "sha256": "4072a3f913806075fb2af96d733e98a6837f70459c381e16cf3e9f83f453813f",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        112,
+        114,
+        116
+      ]
+    },
+    {
+      "code": "BT035",
+      "file": "merced-BT035.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT035.pdf",
+      "sha256": "b8d74ee84bb8bc3441db5983886cfb4907c557d8a0ed7174e28911a88fe1fbac",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        117,
+        120
+      ]
+    },
+    {
+      "code": "BT036",
+      "file": "merced-BT036.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT036.pdf",
+      "sha256": "d1f50e6be79203246fa308716c822787cfc86e69936a06175716fe68d9bd1ebd",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        118
+      ]
+    },
+    {
+      "code": "BT037",
+      "file": "merced-BT037.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT037.pdf",
+      "sha256": "d71480271be36136ac2664671f1d9ec3fadfc00ad6f717daecc8b2d322516a7e",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        119,
+        121
+      ]
+    },
+    {
+      "code": "BT038",
+      "file": "merced-BT038.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT038.pdf",
+      "sha256": "bd8cacc1aefb2fb9943ab88eda16668e07e9427014c7b0d2aa5c8c33e1692608",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        136,
+        140
+      ]
+    },
+    {
+      "code": "BT039",
+      "file": "merced-BT039.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT039.pdf",
+      "sha256": "f61bfa321d0bf0fc125cb4c5c148ca301acc2ac7cfa9f89cff02ff22c7265964",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        137
+      ]
+    },
+    {
+      "code": "BT040",
+      "file": "merced-BT040.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT040.pdf",
+      "sha256": "79dbaa92404076a2fc9e95665e597aad4b493d9d2843ed5be7e2ee5d9b4c3d85",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        138,
+        139,
+        141,
+        142
+      ]
+    },
+    {
+      "code": "BT041",
+      "file": "merced-BT041.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT041.pdf",
+      "sha256": "769405c9721eeaa5dbeb0e84d73b30c04def59dd49319a2251380cb52639d165",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        143
+      ]
+    },
+    {
+      "code": "BT042",
+      "file": "merced-BT042.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT042.pdf",
+      "sha256": "a485fb613ead443fc33a0f2c512f7a66ca64c97bc38522854df51c039583193a",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        144
+      ]
+    },
+    {
+      "code": "BT043",
+      "file": "merced-BT043.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT043.pdf",
+      "sha256": "66c0b9e6a5bf054016c4151eac8031bf5e193f92d070a8c4a71cb1d8cd3ea5c0",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        145,
+        152,
+        330
+      ]
+    },
+    {
+      "code": "BT044",
+      "file": "merced-BT044.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT044.pdf",
+      "sha256": "4e955a3373785235854afc4db48b8ab61df14a8a05b06cc9e54282527021e48b",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        147,
+        148,
+        163,
+        164,
+        167,
+        169
+      ]
+    },
+    {
+      "code": "BT045",
+      "file": "merced-BT045.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT045.pdf",
+      "sha256": "4a359a69514cc25e2788f2236219c5fd442eebe525edc89941defaaefe9f4fa1",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        172,
+        173
+      ]
+    },
+    {
+      "code": "BT046",
+      "file": "merced-BT046.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT046.pdf",
+      "sha256": "71def17e2a160abb80abab4a6d30792a200e744592cf85e39f91ba5bf913b8ea",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        186,
+        187,
+        189,
+        190
+      ]
+    },
+    {
+      "code": "BT047",
+      "file": "merced-BT047.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT047.pdf",
+      "sha256": "5c60987c38ca5d6005c165eefb8fd888712cb31506b5596424b9fcd852c54a7d",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        188
+      ]
+    },
+    {
+      "code": "BT048",
+      "file": "merced-BT048.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT048.pdf",
+      "sha256": "4c955cb0749e7d8196b4db1af19561f2b2c9ffdb5af13f86d5ad912511d6b356",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        202,
+        203,
+        204,
+        205,
+        207,
+        208,
+        209,
+        210,
+        211
+      ]
+    },
+    {
+      "code": "BT049",
+      "file": "merced-BT049.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT049.pdf",
+      "sha256": "28fec9e9b4a2d9efce018792f987177089ebba3b9c3d025eedacc3254d91f625",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        206,
+        254
+      ]
+    },
+    {
+      "code": "BT050",
+      "file": "merced-BT050.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT050.pdf",
+      "sha256": "6b8d55fe3d72874d06b18df069c04ff9d1a04deeb18ea61f76b8fe2545f6256c",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        228,
+        229,
+        230,
+        245,
+        247,
+        248,
+        249,
+        250,
+        253
+      ]
+    },
+    {
+      "code": "BT051",
+      "file": "merced-BT051.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT051.pdf",
+      "sha256": "591e5d28553f4b4d6edbec214f77ba498d5a1a67c77bfa67abfaea734ece26e4",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        218,
+        219,
+        220,
+        221,
+        222,
+        226,
+        227,
+        231,
+        232,
+        233,
+        234,
+        235
+      ]
+    },
+    {
+      "code": "BT052",
+      "file": "merced-BT052.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT052.pdf",
+      "sha256": "2bcfbd609a95230a4225d733e24a1a5c244eeaf454b4f11d8f672877e6ee2a09",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        223,
+        225
+      ]
+    },
+    {
+      "code": "BT053",
+      "file": "merced-BT053.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT053.pdf",
+      "sha256": "e95b0bff4647c1a49fb4414db1cbd63ad4b8b932724c889cd942334226f0532a",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        224,
+        236,
+        237,
+        393,
+        394,
+        395
+      ]
+    },
+    {
+      "code": "BT054",
+      "file": "merced-BT054.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT054.pdf",
+      "sha256": "8055b0a7a2c80da824e601b04f3a5cd6ae3d199a6f65153c13da24a3ef990389",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        238,
+        240
+      ]
+    },
+    {
+      "code": "BT055",
+      "file": "merced-BT055.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT055.pdf",
+      "sha256": "d5e734ce54ce279c36f9d87a93171ce987fd20df199dd6918cbc43104c6c5665",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        239,
+        241,
+        242,
+        243,
+        244,
+        251,
+        252,
+        255,
+        256,
+        257,
+        259
+      ]
+    },
+    {
+      "code": "BT056",
+      "file": "merced-BT056.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT056.pdf",
+      "sha256": "2f73453c62bc7254f8a34653e79280cc6a5fe7a3b9afcbd67e68a82e6092409c",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        246,
+        258,
+        260
+      ]
+    },
+    {
+      "code": "BT057",
+      "file": "merced-BT057.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT057.pdf",
+      "sha256": "c52930ba47c32ce7662565de8d6b57ba7705bfd7c4dca7130470e04ca671c3e8",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        261,
+        262
+      ]
+    },
+    {
+      "code": "BT058",
+      "file": "merced-BT058.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT058.pdf",
+      "sha256": "4f2c0dcd2d99c7beb4ca70e3696a64f31a2a31268aefdeb45c4e9e2eecae88ef",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        263,
+        264,
+        267,
+        402,
+        443,
+        444,
+        445
+      ]
+    },
+    {
+      "code": "BT059",
+      "file": "merced-BT059.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT059.pdf",
+      "sha256": "1e22fbe8a0cdde967e730103a363165d287d9cfc3df8ee9d66a7884805cec094",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        265,
+        266,
+        272,
+        273
+      ]
+    },
+    {
+      "code": "BT060",
+      "file": "merced-BT060.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT060.pdf",
+      "sha256": "ff16a68db883158005d396bc4ca01a1631e719f49d99dcb464d2f793c0dfb283",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        268,
+        269,
+        270,
+        271,
+        279
+      ]
+    },
+    {
+      "code": "BT061",
+      "file": "merced-BT061.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT061.pdf",
+      "sha256": "5e082111ad96c732ec8d24fd3eba0d00ceabc277a31f8e4b69d37e634688aa4d",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        274,
+        275,
+        276,
+        277,
+        278,
+        280
+      ]
+    },
+    {
+      "code": "BT062",
+      "file": "merced-BT062.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT062.pdf",
+      "sha256": "7d83667a221ae802ed6a6f8ecf16c73731e931ab5e950d31618ce91920934776",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        281,
+        282
+      ]
+    },
+    {
+      "code": "BT063",
+      "file": "merced-BT063.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT063.pdf",
+      "sha256": "c78cc900f201193475546cf935580630f5b5b694f479418a81761b8b5540f1a5",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        283,
+        285,
+        290,
+        291
+      ]
+    },
+    {
+      "code": "BT064",
+      "file": "merced-BT064.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT064.pdf",
+      "sha256": "eb42e7445acc7b6e94e31ae231c80c5d21e5489bdc0a0bfbd7c245186f54c2a3",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        284,
+        286,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307
+      ]
+    },
+    {
+      "code": "BT065",
+      "file": "merced-BT065.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT065.pdf",
+      "sha256": "f6776040d0c16b9226cd6604fdac8e0f129b60df15530102bd4c36ca92a2a553",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        287,
+        288,
+        289,
+        292,
+        293,
+        294
+      ]
+    },
+    {
+      "code": "BT066",
+      "file": "merced-BT066.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT066.pdf",
+      "sha256": "c9cd70cdfd0dd457f8ced39bc5dd9f49684667cff858fc0cfb1b0dc1d6e7b0b2",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ]
+    },
+    {
+      "code": "BT067",
+      "file": "merced-BT067.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT067.pdf",
+      "sha256": "33008fcc49c68b879bdd2b1acfd76c21385daca0925a5d20df0fe765f1e7a8fd",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        308,
+        312,
+        313,
+        314,
+        315,
+        316
+      ]
+    },
+    {
+      "code": "BT068",
+      "file": "merced-BT068.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT068.pdf",
+      "sha256": "6b0cb5b7cffa3366aa217be06a0cc89def7ca6ff64c50d3cfbf8e0810645fa0a",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        310,
+        311,
+        317
+      ]
+    },
+    {
+      "code": "BT069",
+      "file": "merced-BT069.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT069.pdf",
+      "sha256": "3aff9cafe50ba72222b7048666589d30b351cce66e3220db2564df59a2c51d57",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        318,
+        320,
+        322,
+        329,
+        332,
+        335
+      ]
+    },
+    {
+      "code": "BT070",
+      "file": "merced-BT070.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT070.pdf",
+      "sha256": "786fd6f1516ec01b2c7e9e32c5e6ef31783a34d9ef97f717d32eca32e4351f78",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        319,
+        321,
+        333,
+        334,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ]
+    },
+    {
+      "code": "BT071",
+      "file": "merced-BT071.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT071.pdf",
+      "sha256": "4773695edcabe9a04b0edd1756a05ad0af32ddf131fd3426f606eec2a35005a1",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        324,
+        325,
+        350,
+        351,
+        352,
+        353
+      ]
+    },
+    {
+      "code": "BT072",
+      "file": "merced-BT072.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT072.pdf",
+      "sha256": "2edc384cf8d58d9a8358760d80cdc372725b864a226e09d677e6ffae1d30fbe4",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        344
+      ]
+    },
+    {
+      "code": "BT073",
+      "file": "merced-BT073.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT073.pdf",
+      "sha256": "809b4195e19b59a29511f194272dc3bd40d8334dc54f7c1f65f77220b252ba72",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        370
+      ]
+    },
+    {
+      "code": "BT074",
+      "file": "merced-BT074.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT074.pdf",
+      "sha256": "3dbe96223391dec90f39689291d1ff0c13b2bab7e81205cb02cb8abfef10a062",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        371,
+        372,
+        375,
+        376,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ]
+    },
+    {
+      "code": "BT075",
+      "file": "merced-BT075.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT075.pdf",
+      "sha256": "f7f1906c277f78d1c70ccbcb8bc0038eae6ef90e9b70a0e2b07d4f090a9721f8",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        373,
+        374,
+        377
+      ]
+    },
+    {
+      "code": "BT076",
+      "file": "merced-BT076.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT076.pdf",
+      "sha256": "f36eb85fa7ef0ae052f1263560943979558246ed17dcd84ed8a07336eb711812",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        391,
+        392
+      ]
+    },
+    {
+      "code": "BT077",
+      "file": "merced-BT077.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT077.pdf",
+      "sha256": "1c462f27494c6700f5399dfbe0efa23206b113f7db0b7b42e2c64e4077dc3aaf",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        397,
+        398,
+        401,
+        424,
+        427,
+        428
+      ]
+    },
+    {
+      "code": "BT078",
+      "file": "merced-BT078.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT078.pdf",
+      "sha256": "8cf0e94321a689b8a97a12a703be3d3618e61192dada74ce25400da72cd55a12",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        396,
+        425,
+        426,
+        456,
+        457,
+        459,
+        500,
+        503
+      ]
+    },
+    {
+      "code": "BT079",
+      "file": "merced-BT079.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT079.pdf",
+      "sha256": "cf69c635cf6514e22b18e3b04b4d3284da6d9df84c33fc48c2d29ad1499f6063",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        399,
+        520,
+        521,
+        559
+      ]
+    },
+    {
+      "code": "BT080",
+      "file": "merced-BT080.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT080.pdf",
+      "sha256": "183842a368818d042c06e368fe571a68efe1a27f88c1b39b303629febe1edabe",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        400,
+        409,
+        410,
+        435,
+        436,
+        437,
+        438,
+        439,
+        442,
+        458,
+        504,
+        505,
+        514
+      ]
+    },
+    {
+      "code": "BT081",
+      "file": "merced-BT081.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT081.pdf",
+      "sha256": "48e72f9f7911ea7f2faa762c7878050518d146eeabc037f71f2befd683c4ce5d",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        403,
+        450,
+        451,
+        452,
+        454
+      ]
+    },
+    {
+      "code": "BT082",
+      "file": "merced-BT082.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT082.pdf",
+      "sha256": "be12e2309dcce6108fc2556c697118a74360382c636ee0bbb7af614375f8c507",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        404,
+        447,
+        455,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        480,
+        481,
+        484,
+        488,
+        493,
+        494
+      ]
+    },
+    {
+      "code": "BT083",
+      "file": "merced-BT083.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT083.pdf",
+      "sha256": "ca8f276b03f1140195e367ebe67e1c0b31b54981018b074b57d614151082f59c",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        405,
+        406,
+        475,
+        476,
+        477,
+        478,
+        479
+      ]
+    },
+    {
+      "code": "BT084",
+      "file": "merced-BT084.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT084.pdf",
+      "sha256": "c22ecb69fe860c49245eb64f2f37cac025e9b0db8cf0d386c316164a95c1adc4",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        407,
+        490,
+        492,
+        496,
+        497,
+        498,
+        501,
+        506,
+        507,
+        508,
+        509,
+        512,
+        513,
+        593
+      ]
+    },
+    {
+      "code": "BT085",
+      "file": "merced-BT085.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT085.pdf",
+      "sha256": "6039cb2379944acac9dd1214daa5d628c6e7095788a0d2a5a4d9eb9a184e16ad",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        408,
+        499,
+        510,
+        511
+      ]
+    },
+    {
+      "code": "BT086",
+      "file": "merced-BT086.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT086.pdf",
+      "sha256": "d962d236bafe38eab7a0c2e694332c1b3aee147f49fc3b1b416ecc34813984de",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        411,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        532,
+        533,
+        534,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542
+      ]
+    },
+    {
+      "code": "BT087",
+      "file": "merced-BT087.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT087.pdf",
+      "sha256": "6e5322be2c714c1be744eb8ab4da2569906193488f8d8f92c869e61c5f23c210",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        412,
+        423,
+        543,
+        544,
+        545,
+        546,
+        555
+      ]
+    },
+    {
+      "code": "BT088",
+      "file": "merced-BT088.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT088.pdf",
+      "sha256": "38f20e56db175a5f180c1dd2da21588c9de6f739c31e0e8ca9e1c8702e640d1d",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        413,
+        422,
+        548,
+        586,
+        592
+      ]
+    },
+    {
+      "code": "BT089",
+      "file": "merced-BT089.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT089.pdf",
+      "sha256": "3d9159af32ed7075d9dc94b7e233e41c7aed425414457b65914ebf343471c447",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        414,
+        516,
+        518,
+        535,
+        536,
+        556,
+        557
+      ]
+    },
+    {
+      "code": "BT090",
+      "file": "merced-BT090.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT090.pdf",
+      "sha256": "76c6e9fbcbe075ba81f9140a03ad6aedfb4b637ff184d7a538cf2325d561dd0c",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        415,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568
+      ]
+    },
+    {
+      "code": "BT091",
+      "file": "merced-BT091.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT091.pdf",
+      "sha256": "861ead66dbab757c1aa100bb0bf1485a095f5388c937c52a62cb97227f4fd7d5",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        416,
+        420,
+        421,
+        581,
+        582,
+        584,
+        585,
+        587,
+        588
+      ]
+    },
+    {
+      "code": "BT092",
+      "file": "merced-BT092.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT092.pdf",
+      "sha256": "0d687e3e49214ec9204ad26d6e0efbed204c4d47f48f7abd3b448fe00b0de7a2",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        417,
+        418,
+        419,
+        578,
+        579,
+        580
+      ]
+    },
+    {
+      "code": "BT093",
+      "file": "merced-BT093.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT093.pdf",
+      "sha256": "fc2f77055c5984850823dbe05ef18626df9a5d2bc21687ba5c1c149e8c0e4ae2",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        429,
+        431,
+        434
+      ]
+    },
+    {
+      "code": "BT094",
+      "file": "merced-BT094.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT094.pdf",
+      "sha256": "f152e238587413e8063df707c3291d9e43a785f3ff3fd34d540ce52d70bf2e98",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        430,
+        433
+      ]
+    },
+    {
+      "code": "BT095",
+      "file": "merced-BT095.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT095.pdf",
+      "sha256": "d76e3d8b4411dc022bea8a92e60eb381ce49263b78b8a5ebd1263e7f197724c2",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        432
+      ]
+    },
+    {
+      "code": "BT096",
+      "file": "merced-BT096.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT096.pdf",
+      "sha256": "b144c15639327b17c8831b1d08befa1d9b01fd9375734349e0d29e73ad4f90dc",
+      "contestCount": 35,
+      "gisBallotTypeReferences": [
+        440,
+        441,
+        515,
+        519,
+        522,
+        558,
+        594
+      ]
+    },
+    {
+      "code": "BT097",
+      "file": "merced-BT097.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT097.pdf",
+      "sha256": "dd6ceba1643d2a32b6033249427e0085d92e79210296738036ef7950c3739404",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        446,
+        448,
+        449
+      ]
+    },
+    {
+      "code": "BT098",
+      "file": "merced-BT098.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT098.pdf",
+      "sha256": "b0f16988ff7ddc5ebfb73dc0e465ad155938928a2ec2eaa3f85782398b45184c",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        453
+      ]
+    },
+    {
+      "code": "BT099",
+      "file": "merced-BT099.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT099.pdf",
+      "sha256": "dc89241b6ad412855b99ca565afa427f6cd4dd88adf783d8cdf8ab184b6226be",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        482,
+        483,
+        485,
+        486,
+        487,
+        489
+      ]
+    },
+    {
+      "code": "BT100",
+      "file": "merced-BT100.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT100.pdf",
+      "sha256": "c1fe84ba8387b4927f286429bb8feed821d43fdc33630b33e08ce51e47e92b9e",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        491,
+        495,
+        502
+      ]
+    },
+    {
+      "code": "BT101",
+      "file": "merced-BT101.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT101.pdf",
+      "sha256": "696227e5e485ec42267156dcf4b089494cc016772b8e077830acf83cebf7758c",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        517
+      ]
+    },
+    {
+      "code": "BT102",
+      "file": "merced-BT102.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT102.pdf",
+      "sha256": "638bf49c6a418e050f9db18ca276f276f00ee002defd1d749bde46240373b5c9",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        531
+      ]
+    },
+    {
+      "code": "BT103",
+      "file": "merced-BT103.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT103.pdf",
+      "sha256": "9ee361948f962f4d78c80fa4ea202457bb1eeaadbc003acf6e652365540c65cf",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        547,
+        549,
+        550,
+        551
+      ]
+    },
+    {
+      "code": "BT104",
+      "file": "merced-BT104.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT104.pdf",
+      "sha256": "025762295557c7b8eb5784e74990dcf56b27fcc2d5ec4468b4c2ebbbf6ad20d4",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        552,
+        570,
+        571,
+        572,
+        573,
+        574
+      ]
+    },
+    {
+      "code": "BT105",
+      "file": "merced-BT105.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT105.pdf",
+      "sha256": "99b72899e67ac589e81de48f9715b8e4a3fca443a7151ae4fd9ed46094672bc8",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        553,
+        554
+      ]
+    },
+    {
+      "code": "BT106",
+      "file": "merced-BT106.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT106.pdf",
+      "sha256": "1a6d0a85b86b639533aee3b19293447d1e3057dd099ca8de84e4ad8b1bffc759",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        569,
+        575
+      ]
+    },
+    {
+      "code": "BT107",
+      "file": "merced-BT107.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT107.pdf",
+      "sha256": "f8437f4437a3b03df5281d70f4d3d5637bb8ef14446ffa99b878d0a1c80321dd",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        576,
+        577,
+        583
+      ]
+    },
+    {
+      "code": "BT108",
+      "file": "merced-BT108.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT108.pdf",
+      "sha256": "d9d5fb57d1bbb245f7e55ea6d5af7ba20051fb6f9237213ce8ed89f5419a4d82",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        589,
+        590,
+        591
+      ]
+    },
+    {
+      "code": "BT109",
+      "file": "merced-BT109.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT109.pdf",
+      "sha256": "b4cd774208388036ea8a0c36e3809012518b8afb2963fa0732faa9781eb16951",
+      "contestCount": 40,
+      "gisBallotTypeReferences": [
+        595,
+        601
+      ]
+    },
+    {
+      "code": "BT110",
+      "file": "merced-BT110.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT110.pdf",
+      "sha256": "add2dfafb60f2368c138e9ee7ea9ffb4df21a17fc27ace18cf78ce0dfd0eb587",
+      "contestCount": 41,
+      "gisBallotTypeReferences": [
+        596,
+        602
+      ]
+    },
+    {
+      "code": "BT111",
+      "file": "merced-BT111.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT111.pdf",
+      "sha256": "9997d05c17fe978acae2d6f890f753b9b7a5c7b3308ef63584b27e89e255057f",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        597,
+        633,
+        634
+      ]
+    },
+    {
+      "code": "BT112",
+      "file": "merced-BT112.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT112.pdf",
+      "sha256": "50b640d86b4e173aa1126974ab0cf0f708ea534cc45514ed40d8b72d643fa32f",
+      "contestCount": 41,
+      "gisBallotTypeReferences": [
+        598,
+        608,
+        611
+      ]
+    },
+    {
+      "code": "BT113",
+      "file": "merced-BT113.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT113.pdf",
+      "sha256": "47f5bde8fe62b438adab86d7e001b0a3d7b9d03de151722c6ee052f528187cb6",
+      "contestCount": 42,
+      "gisBallotTypeReferences": [
+        599,
+        603,
+        605,
+        607,
+        609,
+        610,
+        612,
+        613,
+        614,
+        615,
+        621,
+        635,
+        636,
+        644,
+        645
+      ]
+    },
+    {
+      "code": "BT114",
+      "file": "merced-BT114.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT114.pdf",
+      "sha256": "454d21b7f626378421dd755a64d99633bf9a8937a0bfe9df23eb4c03f05029d7",
+      "contestCount": 44,
+      "gisBallotTypeReferences": [
+        600,
+        630,
+        631,
+        642,
+        643
+      ]
+    },
+    {
+      "code": "BT115",
+      "file": "merced-BT115.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT115.pdf",
+      "sha256": "6630f73a8672e10e74453aa6cb684d8cd6382b282d5b6c72e9c51fc83b70f070",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        604,
+        606,
+        627,
+        640,
+        641
+      ]
+    },
+    {
+      "code": "BT116",
+      "file": "merced-BT116.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT116.pdf",
+      "sha256": "f16f8e580b64d29669ef93368c9b7f69d8bfb2a2c321a74d47b8c50c50d01ec2",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        616,
+        617,
+        618,
+        619,
+        622,
+        623,
+        624,
+        625,
+        626,
+        632,
+        637,
+        638,
+        639
+      ]
+    },
+    {
+      "code": "BT117",
+      "file": "merced-BT117.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT117.pdf",
+      "sha256": "e63080d4ce6a28f7c7b3d4fe8ec03108e79c163cb8c9e5f44897d8f0fdbffd5e",
+      "contestCount": 42,
+      "gisBallotTypeReferences": [
+        620,
+        628
+      ]
+    },
+    {
+      "code": "BT118",
+      "file": "merced-BT118.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT118.pdf",
+      "sha256": "d62d4e7d1bd15bae4b7dc950d4f902c6859a21edfd2f24ac386803bc042ff1f0",
+      "contestCount": 43,
+      "gisBallotTypeReferences": [
+        629
+      ]
+    },
+    {
+      "code": "BT119",
+      "file": "merced-BT119.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT119.pdf",
+      "sha256": "b67f8935b2b5b1553cb7fcbdf85f5f703bb216d9f45f97d85be70f91bae1c074",
+      "contestCount": 36,
+      "gisBallotTypeReferences": [
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        697,
+        698,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765
+      ]
+    },
+    {
+      "code": "BT120",
+      "file": "merced-BT120.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT120.pdf",
+      "sha256": "44c547b883675ec98911746a4d348a6cf1bed51bbaaa7b30a4e73b9c3cbca61f",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        659,
+        694,
+        766,
+        767,
+        768,
+        769,
+        770
+      ]
+    },
+    {
+      "code": "BT121",
+      "file": "merced-BT121.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT121.pdf",
+      "sha256": "7b090961aa9e230f1f07c2ef9eb3f0a3de591609caab8cebc915177efcfabf5c",
+      "contestCount": 39,
+      "gisBallotTypeReferences": [
+        673,
+        680,
+        681,
+        682,
+        700,
+        712,
+        713,
+        733
+      ]
+    },
+    {
+      "code": "BT122",
+      "file": "merced-BT122.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT122.pdf",
+      "sha256": "c2448bc094f5451fda5a2be7f9b9e0b320b4c4753f1009080d5a0a216c6edd6e",
+      "contestCount": 37,
+      "gisBallotTypeReferences": [
+        683
+      ]
+    },
+    {
+      "code": "BT123",
+      "file": "merced-BT123.pdf",
+      "url": "https://gis.countyofmerced.com/Webfiles/Elections/VIG_November_2026/Merced-BT123.pdf",
+      "sha256": "3db908fe8a2336f55e1e9c4641f199ca3b9c8e8f15f226c3358ee1105ec54c4c",
+      "contestCount": 38,
+      "gisBallotTypeReferences": [
+        723
+      ]
+    }
+  ],
+  "notes": [
+    "Each downloaded guide prints its CVIG BT code on the cover and sample ballot. Fine GIS ballot_type references are retained as evidence only, not accepted as aliases.",
+    "PDF sample cards span paired cropped pages. The embedded full-card text repeats across each pair; extraction selects each full card once and stops at the printing Count marker.",
+    "Candidate sets, party preferences, designations, vote limits, six Fifth District judicial names, 14 statewide propositions, and local measure text are checked across every style.",
+    "Livingston City Clerk and City Treasurer short-term contests have only a write-in line; no candidate names are invented."
+  ]
+}

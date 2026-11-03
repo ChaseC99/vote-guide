@@ -1,0 +1,4648 @@
+{
+  "styles": [
+    {
+      "code": "1",
+      "styleId": 294259,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294259.json",
+      "sha256": "e6aa37d432a5b7444108bbc447eb090a035420f71e5c19f3bc4234e8e31cda33",
+      "contests": 37,
+      "candidateCount": 35,
+      "precinctIds": [
+        447241,
+        447242,
+        447243,
+        447244,
+        447247,
+        447249,
+        447250,
+        447251,
+        447252,
+        447253,
+        447254,
+        447255,
+        447256,
+        447257,
+        447258,
+        447259
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "2",
+      "styleId": 294260,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294260.json",
+      "sha256": "9792b5afcccc01aef7cb164d582d4ef89b41f0a1e2fb411b87e878c7b061df74",
+      "contests": 39,
+      "candidateCount": 39,
+      "precinctIds": [
+        447245
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "3",
+      "styleId": 294261,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294261.json",
+      "sha256": "5ee07285a92b076d9a39449377fdf55309a0419cbb709d5d4a68fa3adf602b6b",
+      "contests": 38,
+      "candidateCount": 36,
+      "precinctIds": [
+        447246
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "4",
+      "styleId": 294262,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294262.json",
+      "sha256": "fd31e94feef9513c2ec8630e108b8a58f1d7349894215ff4e5b3ff2c2d4b5eb7",
+      "contests": 37,
+      "candidateCount": 36,
+      "precinctIds": [
+        447248
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "5",
+      "styleId": 294263,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294263.json",
+      "sha256": "1d1903ba3b83f5aa9d6a8e2a0e465f20601ad67550c09103744321eb32d93023",
+      "contests": 37,
+      "candidateCount": 36,
+      "precinctIds": [
+        447260
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "6",
+      "styleId": 294264,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294264.json",
+      "sha256": "9ab459b6eae411e6ad7972518eab766ff54cf7766fada593add306906202fdd3",
+      "contests": 38,
+      "candidateCount": 36,
+      "precinctIds": [
+        447261
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "7",
+      "styleId": 294265,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294265.json",
+      "sha256": "ae500d809f3920f73802cb19bfb982ca5ab68e98f8ae91e187ad5b9b56f35ad1",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447262
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "8",
+      "styleId": 294266,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294266.json",
+      "sha256": "9f8b45c10038f7cd93477b0e34832e01a0cd6e7b3fd62e3a44f10830cdffbe7e",
+      "contests": 36,
+      "candidateCount": 31,
+      "precinctIds": [
+        447263
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "9",
+      "styleId": 294267,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294267.json",
+      "sha256": "e1c0051931dec59bd010ce6367593c66bd7afb3d86f6714954574792596e375c",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447264,
+        447268
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "10",
+      "styleId": 294268,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294268.json",
+      "sha256": "5e7468914ddd20aced5e335e3cf9b0e58bbec3618a476c7fc65f518ea1d3b03e",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447265,
+        447267
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "11",
+      "styleId": 294269,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294269.json",
+      "sha256": "f084ed6e79c4433beebd4945d3d5f0b11c9a4a63a10faa783d76bff702304e11",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447266
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "12",
+      "styleId": 294270,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294270.json",
+      "sha256": "0d90044ff3820775794add2719f6da8e128366788d309b074fbcc910cb6437a1",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447269,
+        447272,
+        447273,
+        447276,
+        447277
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "13",
+      "styleId": 294271,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294271.json",
+      "sha256": "d07392784bcb332e2aecadbecf088942e8206118359788a6faf5b1ba6511b391",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447270,
+        447271,
+        447275
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "14",
+      "styleId": 294272,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294272.json",
+      "sha256": "a0e0c132c723a9817574ca34299cf1ab1f3e56238f85036e6868fbaf6890e438",
+      "contests": 38,
+      "candidateCount": 28,
+      "precinctIds": [
+        447274
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "15",
+      "styleId": 294273,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294273.json",
+      "sha256": "94a05130a3e480783134edf974c8a2d740a4212870bf8a1dc6c23f8dd0a2409e",
+      "contests": 38,
+      "candidateCount": 30,
+      "precinctIds": [
+        447278
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "16",
+      "styleId": 294274,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294274.json",
+      "sha256": "c5ad82c7cfceb669270ee1a42d76f6dd24a5c2f6aa4d97709b121fa22f2ce282",
+      "contests": 37,
+      "candidateCount": 26,
+      "precinctIds": [
+        447279,
+        447281
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "17",
+      "styleId": 294275,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294275.json",
+      "sha256": "e7f41673e7bb130b527bfddea25b7eec9f39561285229a80eec4dd8e31581bdd",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447280
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "18",
+      "styleId": 294276,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294276.json",
+      "sha256": "f863c32a521e4d72840df9a02b5db01ee394effc281c85fb8afe9d005ad7bbb2",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447282
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "19",
+      "styleId": 294277,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294277.json",
+      "sha256": "2a7681efd5155afdd920f8a0e7ed50a6d2381a6310d106ffacc2c7a620626489",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447283,
+        447899,
+        447900,
+        447901,
+        447902,
+        447903
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "20",
+      "styleId": 294278,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294278.json",
+      "sha256": "83cba0e2f64997cc718a2a44afc657d9f19f7bb3338a94a8129e4105a333f157",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447284,
+        447285,
+        447286
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "21",
+      "styleId": 294279,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294279.json",
+      "sha256": "9df8c2cf826d24bdbc7e205af2ef994aaf7747716d1e5d95e310accfc72e4e8d",
+      "contests": 38,
+      "candidateCount": 34,
+      "precinctIds": [
+        447287,
+        447291,
+        447295,
+        447297,
+        447300,
+        447301
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "22",
+      "styleId": 294280,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294280.json",
+      "sha256": "e2d569a4d27208339598cb96f2a800207f9900d2da287901c9012b85319ee027",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447288,
+        447299
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "23",
+      "styleId": 294281,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294281.json",
+      "sha256": "ad7e8fa467015d97e9cb1c569a2d64db8b3802bfb88700f4e14f5d21aca6d973",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447289
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "24",
+      "styleId": 294282,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294282.json",
+      "sha256": "94a895c861c2dfb4ecd52c8999eb17a49e6c7a5062d9b2dd76baf19b9d074a51",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447290
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "25",
+      "styleId": 294283,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294283.json",
+      "sha256": "c7409b3cdd8afd43ba27d7cf170040813968b8741d78e9c30bcdea59a33f6a7d",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447292
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "26",
+      "styleId": 294284,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294284.json",
+      "sha256": "4157a0bb7525dace177fa25dab306d0e0af54e9c46ff9b0f54baf602a412a102",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447293,
+        447294
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "27",
+      "styleId": 294285,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294285.json",
+      "sha256": "0a7ff30905d26bb7f475a2d84ee74bb339b1e66f40bb86d29d007f55213d744f",
+      "contests": 39,
+      "candidateCount": 38,
+      "precinctIds": [
+        447296
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "28",
+      "styleId": 294286,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294286.json",
+      "sha256": "62a43bc4d465e7b71300dd54d7ce50d2d8a1888ca8dce4f1161692eadc00b6f7",
+      "contests": 39,
+      "candidateCount": 39,
+      "precinctIds": [
+        447298
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "29",
+      "styleId": 294287,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294287.json",
+      "sha256": "64f4a52cbddaa8cc4bd5eb80c7de5366f19aa8f8e3e9bd15dd39e4d24b0146d0",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447302
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "30",
+      "styleId": 294288,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294288.json",
+      "sha256": "9ccd158ce68ea272cfc4e4a601e141cf33822726cb426adc8dc6835c0963a0f0",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447303
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "31",
+      "styleId": 294289,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294289.json",
+      "sha256": "1a4875245dd189047a99f1df49517e47ee9fb7e946b971b23befce5e3cd59d7c",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447304
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "32",
+      "styleId": 294290,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294290.json",
+      "sha256": "cabcc379a4533e66cb7a262960d130e65dcccf93b75fa8900341c644eda32f81",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447305
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "33",
+      "styleId": 294291,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294291.json",
+      "sha256": "714c277d77013e3d2bd44455cef346aebcdee59473c3feda854cd938e38f4a65",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447306
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "34",
+      "styleId": 294292,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294292.json",
+      "sha256": "9c19f46feca776dc3c95a6b572720696a0db34216237ac57d028f72473da69de",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447307
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "35",
+      "styleId": 294293,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294293.json",
+      "sha256": "163022731ab295fed6194a11dedd2d2eda3a445dc71f5ab34df5270af473f7bb",
+      "contests": 35,
+      "candidateCount": 24,
+      "precinctIds": [
+        447308
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "36",
+      "styleId": 294294,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294294.json",
+      "sha256": "869aed273fe6027931030d12190926a1e9c9b8b296bd2990847ca39c32358ce0",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447309
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "37",
+      "styleId": 294295,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294295.json",
+      "sha256": "4abf2ea9754e293783e16e96008adea09cd786970845356c44054062875320fe",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447310
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "38",
+      "styleId": 294296,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294296.json",
+      "sha256": "537703de012b5c25c5bb31ae1a1989812e02f1232945f1bf6a478048e224ad72",
+      "contests": 37,
+      "candidateCount": 24,
+      "precinctIds": [
+        447311,
+        447313,
+        447314,
+        447334,
+        447336,
+        447340,
+        447352
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "39",
+      "styleId": 294297,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294297.json",
+      "sha256": "9d80d3a452d72d225724f0c43866dfd8ee5ed8ccb08afcf17fa9efb55bca7c8c",
+      "contests": 39,
+      "candidateCount": 25,
+      "precinctIds": [
+        447312,
+        447317,
+        447319,
+        447338
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "40",
+      "styleId": 294298,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294298.json",
+      "sha256": "fc212e3eb3ddb63b625453501310a0a076d18e481f3dfdea9eec4c238e5b6805",
+      "contests": 38,
+      "candidateCount": 24,
+      "precinctIds": [
+        447315,
+        447316,
+        447342,
+        447349,
+        447351
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "41",
+      "styleId": 294299,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294299.json",
+      "sha256": "d59851f2d7730f33bdc4aac4473eff44a1d5e66c110cdc510cdf347dcac93c01",
+      "contests": 38,
+      "candidateCount": 25,
+      "precinctIds": [
+        447318
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "42",
+      "styleId": 294300,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294300.json",
+      "sha256": "d1e1da155f75d74f5dd38aac2ef6775328619c52a7e315815bd3d2f27f06f4d4",
+      "contests": 40,
+      "candidateCount": 27,
+      "precinctIds": [
+        447320
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "43",
+      "styleId": 294301,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294301.json",
+      "sha256": "1b9c2ee383e44b67d6392d4b1ed998035098aec8f88c529a10f62f392c5b719f",
+      "contests": 39,
+      "candidateCount": 28,
+      "precinctIds": [
+        447321,
+        447347
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "44",
+      "styleId": 294302,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294302.json",
+      "sha256": "228a55920d33495382c1e46df21c158ce5662334d9a89b0206d5fefce8c1a265",
+      "contests": 40,
+      "candidateCount": 29,
+      "precinctIds": [
+        447322
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "45",
+      "styleId": 294303,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294303.json",
+      "sha256": "0a2a6fe3ecc2bb6c3c9a1867d75196b75dd47be6ea359c6d6e2a059a140ade2e",
+      "contests": 39,
+      "candidateCount": 26,
+      "precinctIds": [
+        447323,
+        447350
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "46",
+      "styleId": 294304,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294304.json",
+      "sha256": "aa5d6e66398185b5aa46c732ec2549322c3aec85f8cd50d99e2ad9da41188cbb",
+      "contests": 40,
+      "candidateCount": 28,
+      "precinctIds": [
+        447324
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "47",
+      "styleId": 294305,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294305.json",
+      "sha256": "143878dd62a47a95f5b2accc81e7bb7d1cd93ea3242b467e3836391d164d8137",
+      "contests": 39,
+      "candidateCount": 26,
+      "precinctIds": [
+        447325,
+        447326,
+        447330,
+        447331
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "48",
+      "styleId": 294306,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294306.json",
+      "sha256": "347aac572de61864f6714db8278528f7f2a221011bb950ecc4d6d3374f53065f",
+      "contests": 41,
+      "candidateCount": 29,
+      "precinctIds": [
+        447327
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "49",
+      "styleId": 294307,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294307.json",
+      "sha256": "3408d1f4efa9a5c7ad0666ad995a420de5162f6ec7678e1f4217468dc5e6c3e5",
+      "contests": 40,
+      "candidateCount": 29,
+      "precinctIds": [
+        447328
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "50",
+      "styleId": 294308,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294308.json",
+      "sha256": "0ea76eee2e03e339fe7c32108a73cd8f115cf5bbd5fcb1755677317680cb8529",
+      "contests": 40,
+      "candidateCount": 27,
+      "precinctIds": [
+        447329,
+        447332
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "51",
+      "styleId": 294309,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294309.json",
+      "sha256": "9643e35978d41043f95e9942e2dbc9bfa3930eca9fad7a0446e26f8ef50a8116",
+      "contests": 40,
+      "candidateCount": 29,
+      "precinctIds": [
+        447333
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "52",
+      "styleId": 294310,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294310.json",
+      "sha256": "4e5b6665b4f39d228bdfe25aa18b978846a9536f8d072df33977ebc6bfdb3b49",
+      "contests": 40,
+      "candidateCount": 27,
+      "precinctIds": [
+        447335,
+        447341
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "53",
+      "styleId": 294311,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294311.json",
+      "sha256": "0cbf4e236d28e6ed238b0fe718319aa38b43f7c1af9f6c1b8f743e040acb0e37",
+      "contests": 39,
+      "candidateCount": 27,
+      "precinctIds": [
+        447337
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "54",
+      "styleId": 294312,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294312.json",
+      "sha256": "7be7052367a081a965ca75f195d9db3cf3da85fa078474cc535e265c5f8e5f80",
+      "contests": 38,
+      "candidateCount": 25,
+      "precinctIds": [
+        447339,
+        447346
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "55",
+      "styleId": 294313,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294313.json",
+      "sha256": "fc0235c188002f46b6b7e7a92252931c0304488b1508323b20cec225f405a079",
+      "contests": 39,
+      "candidateCount": 27,
+      "precinctIds": [
+        447343
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "56",
+      "styleId": 294314,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294314.json",
+      "sha256": "2381be71c88583010b596890825a0ef740492483079dc91a8002a21291863507",
+      "contests": 39,
+      "candidateCount": 25,
+      "precinctIds": [
+        447344,
+        447354
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "57",
+      "styleId": 294315,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294315.json",
+      "sha256": "a7458cc287c9eabb056464c3ad4bec66c69f207bcdff2350c914f1bc4436536a",
+      "contests": 41,
+      "candidateCount": 30,
+      "precinctIds": [
+        447345
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "58",
+      "styleId": 294316,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294316.json",
+      "sha256": "19257d32733ed6b632851fd5b9b5a3341b1e05a9356d12c0a32366fd022fac0a",
+      "contests": 39,
+      "candidateCount": 28,
+      "precinctIds": [
+        447348
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "59",
+      "styleId": 294317,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294317.json",
+      "sha256": "2a1f0200df03da819b8334198344e6dfdb69549919694015d5b64e0c73fe1b02",
+      "contests": 39,
+      "candidateCount": 27,
+      "precinctIds": [
+        447353
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "60",
+      "styleId": 294318,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294318.json",
+      "sha256": "754028d935394c1761af79fb439c0ba2a9a033307d77b15388c621d896c965d7",
+      "contests": 38,
+      "candidateCount": 28,
+      "precinctIds": [
+        447355
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "61",
+      "styleId": 294319,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294319.json",
+      "sha256": "e6efc3b1810924a5b94a265d5ddd4977af76a9ec1ea2292666bb8af7eea41fb6",
+      "contests": 39,
+      "candidateCount": 28,
+      "precinctIds": [
+        447356
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "62",
+      "styleId": 294320,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294320.json",
+      "sha256": "6072ed936f88dd04a227ac877131a6c53ca766af1f93df3f501cb92dc10a024f",
+      "contests": 40,
+      "candidateCount": 27,
+      "precinctIds": [
+        447357
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "63",
+      "styleId": 294321,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294321.json",
+      "sha256": "f361ceaaaf4b65d30a80bbc168bf6c9e048e62295fe843deae0eb1958cd4c2d0",
+      "contests": 39,
+      "candidateCount": 27,
+      "precinctIds": [
+        447358
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "64",
+      "styleId": 294322,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294322.json",
+      "sha256": "60eb2cb5a2d5feb624cc1e8c659f0a631c56830444eb30c7f267e09a0f859165",
+      "contests": 39,
+      "candidateCount": 26,
+      "precinctIds": [
+        447359
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "65",
+      "styleId": 294323,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294323.json",
+      "sha256": "73381e559b59a13dc9c7b11169eb378cdb0b6ef04fbf2f0ab8296548e06d0047",
+      "contests": 40,
+      "candidateCount": 39,
+      "precinctIds": [
+        447360,
+        447366,
+        447371,
+        447372
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "66",
+      "styleId": 294324,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294324.json",
+      "sha256": "818f580a920ad349c707ba1ebc4c29d2bfd16164672f18dc996099bf9d37875e",
+      "contests": 39,
+      "candidateCount": 36,
+      "precinctIds": [
+        447361,
+        447362,
+        447363,
+        447364,
+        447365,
+        447367,
+        447368,
+        447373
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "67",
+      "styleId": 294325,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294325.json",
+      "sha256": "8a37821af9c574c0642cf9d773d02284bfe21135b7edff880e5a9d1defbeba51",
+      "contests": 39,
+      "candidateCount": 36,
+      "precinctIds": [
+        447369,
+        447370,
+        447374
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "68",
+      "styleId": 294326,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294326.json",
+      "sha256": "a34968e383badb82196669f9547787de5c71b55bbea4b6081a35cb7693229f1a",
+      "contests": 39,
+      "candidateCount": 34,
+      "precinctIds": [
+        447375
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "69",
+      "styleId": 294327,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294327.json",
+      "sha256": "a8ee735dc4bad368a051e0d4dbbe26d501e04c57eb1872c1cea8a8ecad3a5e13",
+      "contests": 38,
+      "candidateCount": 36,
+      "precinctIds": [
+        447376
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "70",
+      "styleId": 294328,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294328.json",
+      "sha256": "54022decd8cb30eeffc58e8a0327fc4cfb420c18228862aec62685eb78eb906f",
+      "contests": 38,
+      "candidateCount": 35,
+      "precinctIds": [
+        447377
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "71",
+      "styleId": 294329,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294329.json",
+      "sha256": "dd20c6a339cc6cea80e8fc1011ecc2d8a52260aa967e77bf9b4a05fbe39f7ce8",
+      "contests": 38,
+      "candidateCount": 37,
+      "precinctIds": [
+        447378,
+        447380,
+        447382,
+        447386
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "72",
+      "styleId": 294330,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294330.json",
+      "sha256": "918a04d7af0e556076f3a3e28b9ff64496b27c38573a278e8f5f620e009150ed",
+      "contests": 37,
+      "candidateCount": 35,
+      "precinctIds": [
+        447379,
+        447389
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "73",
+      "styleId": 294331,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294331.json",
+      "sha256": "ef1ec163574c03a51d2bffa24e49af96768d28eaae4aea87f703ce6d1cf8c62c",
+      "contests": 38,
+      "candidateCount": 37,
+      "precinctIds": [
+        447381,
+        447388,
+        447390
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "74",
+      "styleId": 294332,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294332.json",
+      "sha256": "7a716e5f13af65e3b9717fec693f7aab36a126647b783622d7b85ced779a0891",
+      "contests": 39,
+      "candidateCount": 39,
+      "precinctIds": [
+        447383,
+        447385,
+        447391
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "75",
+      "styleId": 294333,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294333.json",
+      "sha256": "8e7570cad0dc479bf471b8ff6c02eb3e658b347f74781ade6447f22e5fd606fb",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447384,
+        447392
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "76",
+      "styleId": 294334,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294334.json",
+      "sha256": "1586433be89bf5ca64c7769e1f8422e0db5969a1936d978f0ce18002899344fe",
+      "contests": 36,
+      "candidateCount": 33,
+      "precinctIds": [
+        447387
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "77",
+      "styleId": 294335,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294335.json",
+      "sha256": "3b07ed70dc4503ae93dc598275cb90a7b2acf79d27e7c757a101f7919ddaaec8",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447393
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "78",
+      "styleId": 294336,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294336.json",
+      "sha256": "3764495e57d856e29c2e1d3dcceb28ee4fd301efaa16ff47ef5ffb088daa93e7",
+      "contests": 38,
+      "candidateCount": 36,
+      "precinctIds": [
+        447394
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "79",
+      "styleId": 294337,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294337.json",
+      "sha256": "7043209ee9cf4790644a3c8904d3a430e796a7243e00d6d76cb29c3ea3706490",
+      "contests": 37,
+      "candidateCount": 35,
+      "precinctIds": [
+        447395
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "80",
+      "styleId": 294338,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294338.json",
+      "sha256": "ddeaeca07900dc1108c79090ffcefcdbb1d31219078d96425f25cf2f13dbcd95",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447396
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "81",
+      "styleId": 294339,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294339.json",
+      "sha256": "fa91473927829476fcdf9da43ec51299a9601ce56cafce5ed57f5c38fc0a550b",
+      "contests": 39,
+      "candidateCount": 39,
+      "precinctIds": [
+        447397
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "82",
+      "styleId": 294340,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294340.json",
+      "sha256": "34523e5b8271ed55c7d0d700eb475b0bd6a3a495331379944f5918ed0dc03a49",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447398
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "83",
+      "styleId": 294341,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294341.json",
+      "sha256": "a75b0a43c5836efc37e5918666984937ad224106cd5adc321de6a34311cbbb8c",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447399
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "84",
+      "styleId": 294342,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294342.json",
+      "sha256": "8f9a450b6ad81a50af0014865baa3a1f207e5c4f45ee229a28ec8dab4a4955c9",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447400
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "85",
+      "styleId": 294343,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294343.json",
+      "sha256": "af7680a6b0b5279527c005d599e8e1a8643e193c590b4e5dff66ce7a618e56f6",
+      "contests": 38,
+      "candidateCount": 33,
+      "precinctIds": [
+        447401,
+        447403,
+        447520,
+        447521
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "86",
+      "styleId": 294344,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294344.json",
+      "sha256": "ba2000ec9935e0df7e133a5a86b9d1eb2111a3dafcbc350cab557c562436c183",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447402,
+        447518
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "87",
+      "styleId": 294345,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294345.json",
+      "sha256": "0b0ea30376dff1a196f80b24665a7fc8ef9d6c29cb04ed89c0d6a2e00d4e395a",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447404
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "88",
+      "styleId": 294346,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294346.json",
+      "sha256": "8a51a3a27cbcf51ebbb794a661919c76351bbf1bc91b970463b13939bf289df7",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447405,
+        447516,
+        447523,
+        447524,
+        447526
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "89",
+      "styleId": 294347,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294347.json",
+      "sha256": "35ddeb3592e82bd0085d33922781f927cc8bde57d97d6b3c18c7f99970df583f",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447406,
+        447514,
+        447515
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "90",
+      "styleId": 294348,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294348.json",
+      "sha256": "cb99d62f05fc24c8077d43ebb3509f49b4a84e33d94644fc110108743ad13edc",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447407,
+        447418,
+        447424,
+        447605,
+        447606,
+        447607,
+        447608,
+        447611
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "91",
+      "styleId": 294349,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294349.json",
+      "sha256": "f29f34e937d2a8b10df99225ef16279af1ff8064cb5dd08d4245a067a4ab103b",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447408,
+        447410
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "92",
+      "styleId": 294350,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294350.json",
+      "sha256": "08dc1a3b597ed4fda159b78c8700b29a600a1b3cfa8857b56bb3d09330a201cd",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447409
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "93",
+      "styleId": 294351,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294351.json",
+      "sha256": "6ad56ed64fc99f908714a660132ff1a0001f245c1e0249e9ef7ef39937192ef8",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447411,
+        447422
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "94",
+      "styleId": 294352,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294352.json",
+      "sha256": "704dbf86da6a97b42435771ac4fd51303434eccc0f5f75989c49e967718f3294",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447412,
+        447610,
+        447613
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "95",
+      "styleId": 294353,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294353.json",
+      "sha256": "ceea4bb35b36f5f9f6f984ad39e54c70d581fd76f30147d2e6d98d8fd3fe710c",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447413
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "96",
+      "styleId": 294354,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294354.json",
+      "sha256": "9ec101906d43080e288acfdeb13f062dbfcb74edbf2b432be57d96aaf5428592",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447414
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "97",
+      "styleId": 294355,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294355.json",
+      "sha256": "176370b51470a80287840484464a5465e46aa283cc0b04c4c326e1f35dcacbd7",
+      "contests": 35,
+      "candidateCount": 25,
+      "precinctIds": [
+        447415,
+        447420
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "98",
+      "styleId": 294356,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294356.json",
+      "sha256": "d9a5cc44b625c0ff08af5e132489aa4d991d4312cb3d0d7a00f07b0c8097d3fa",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447416
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "99",
+      "styleId": 294357,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294357.json",
+      "sha256": "94d4f7ab5dc0e86d983ec384be9d1ea677121bbd373b8478dd527f9b65d7015c",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447417
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "100",
+      "styleId": 294358,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294358.json",
+      "sha256": "8196d0f93e61632069a2cf7b7569d4ee0c3a167d35190e73a2f463a5d072211f",
+      "contests": 35,
+      "candidateCount": 25,
+      "precinctIds": [
+        447419,
+        447421
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "101",
+      "styleId": 294359,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294359.json",
+      "sha256": "6d80ff93f76eb126bc242b0961e668e77443dcae5eec87daa4688dfd9fb09a01",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447423
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "102",
+      "styleId": 294360,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294360.json",
+      "sha256": "052a7d956f0c5be6ad7d4ef0a2c1e62a26f4a3488e9ae958586a0e95331298bc",
+      "contests": 38,
+      "candidateCount": 37,
+      "precinctIds": [
+        447425,
+        447426,
+        447428,
+        447429,
+        447430,
+        447431,
+        447432,
+        447433,
+        447434,
+        447435,
+        447436,
+        447437,
+        447438
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "103",
+      "styleId": 294361,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294361.json",
+      "sha256": "29cbc66829f35e69ba76a58f1cc8ba0d74db1fc0d599b09d7ba05ce1d87fe743",
+      "contests": 39,
+      "candidateCount": 40,
+      "precinctIds": [
+        447427
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "104",
+      "styleId": 294362,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294362.json",
+      "sha256": "acbb8e53f8093498375c75d4e58fc5c558b4924b2ae236dccdb1ffc58e2e3d68",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447439
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "105",
+      "styleId": 294363,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294363.json",
+      "sha256": "970c1fbfce291866345d4bd4138f471da59adee5bf5e63edb7d139b07c40be44",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447440,
+        447441,
+        447451
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "106",
+      "styleId": 294364,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294364.json",
+      "sha256": "23bfebbdec325c57e5f0e7d39638b6796c07dd0690b0b05e063c9dc089fe02fe",
+      "contests": 38,
+      "candidateCount": 35,
+      "precinctIds": [
+        447442,
+        447446
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "107",
+      "styleId": 294365,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294365.json",
+      "sha256": "c8f7de55ad8e50ea29a9e348b1f292c2f9bdb3ea706d90da06c949371d0837e9",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447443,
+        447445,
+        447452
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "108",
+      "styleId": 294366,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294366.json",
+      "sha256": "1269dd7e5501b0be6638c612ff26d25ffb40dcb640c2f9c8f0e15acb5092cd8b",
+      "contests": 38,
+      "candidateCount": 36,
+      "precinctIds": [
+        447444
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "109",
+      "styleId": 294367,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294367.json",
+      "sha256": "0a02c9add0787f4db9635030d9f5b2818a40b845aabdf009b1fd458b8e7ca124",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447447,
+        447449
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "110",
+      "styleId": 294368,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294368.json",
+      "sha256": "79a8dbb6a7e9882743f3dea8424bca6423c251fa6b3d8ab61d83db90b2088ab1",
+      "contests": 39,
+      "candidateCount": 38,
+      "precinctIds": [
+        447448,
+        447453
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "111",
+      "styleId": 294369,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294369.json",
+      "sha256": "7d666c8c7c9f6f5b493365994df73a92af7c94648ee67f9bab7a9ae6a19c5942",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447450,
+        447454
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "112",
+      "styleId": 294370,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294370.json",
+      "sha256": "4ff627abed2f5cd470cbb2f46a6291d41afa54a9b9354f1f1999c24abc575de5",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447455
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "113",
+      "styleId": 294371,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294371.json",
+      "sha256": "a7d7face08047bfa78636267cc1d5ec3e00e8341ff1a1d96ee1d35a6ed208c78",
+      "contests": 37,
+      "candidateCount": 29,
+      "precinctIds": [
+        447456,
+        447467
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "114",
+      "styleId": 294372,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294372.json",
+      "sha256": "898adedc997296963869368682c5c8fd15002c7afe3a5d8626846eb3e888db5b",
+      "contests": 38,
+      "candidateCount": 32,
+      "precinctIds": [
+        447457,
+        447468,
+        447469
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "115",
+      "styleId": 294373,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294373.json",
+      "sha256": "3c24cd7b1ec9c7c87fa10e8368e19b08b37c2b2482778dea194a07d89e3f2e26",
+      "contests": 38,
+      "candidateCount": 31,
+      "precinctIds": [
+        447458
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "116",
+      "styleId": 294374,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294374.json",
+      "sha256": "91f8ba87c59c74058a16e02dd017a7849fc6854e2c0e1f11de995a2d8df6b226",
+      "contests": 39,
+      "candidateCount": 33,
+      "precinctIds": [
+        447459
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "117",
+      "styleId": 294375,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294375.json",
+      "sha256": "d92ac304d4eadd832b09e98900b1586b2b955db8635debee479e71a6da4bae2c",
+      "contests": 38,
+      "candidateCount": 31,
+      "precinctIds": [
+        447460
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "118",
+      "styleId": 294376,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294376.json",
+      "sha256": "11cf29aa07f4fbeb9ce2a1758f0eb540a79b6c56afaf21b71113ba96e0d51b28",
+      "contests": 38,
+      "candidateCount": 31,
+      "precinctIds": [
+        447461,
+        447462,
+        447464
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "119",
+      "styleId": 294377,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294377.json",
+      "sha256": "18f8c91f3da5a84111c33083d8f96500b858b2378a04d9bf6c2f474026d3839b",
+      "contests": 39,
+      "candidateCount": 33,
+      "precinctIds": [
+        447463
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "120",
+      "styleId": 294378,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294378.json",
+      "sha256": "725a52c87527cb91af99a0375e8afa8f6ed51d99d9edc364cf3b346493b57a60",
+      "contests": 38,
+      "candidateCount": 31,
+      "precinctIds": [
+        447465
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "121",
+      "styleId": 294379,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294379.json",
+      "sha256": "26f275d0e830624b1e2d2c36d3a10eac59778673a8839c0066177c4f1caac820",
+      "contests": 39,
+      "candidateCount": 33,
+      "precinctIds": [
+        447466
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "122",
+      "styleId": 294380,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294380.json",
+      "sha256": "422f349653f46b8434d7975a46a44ea0991b3c36c6590831de550cbfae99a23a",
+      "contests": 39,
+      "candidateCount": 33,
+      "precinctIds": [
+        447470
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "123",
+      "styleId": 294381,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294381.json",
+      "sha256": "51b699e4fb4786ee2d8b9ae72c3286296d8bd90dc69e6d45da76705574fc1ad6",
+      "contests": 39,
+      "candidateCount": 33,
+      "precinctIds": [
+        447471,
+        447472
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "124",
+      "styleId": 294382,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294382.json",
+      "sha256": "7b64abc8aafb4b3be606becd84db64a1ec740a357f39404899390ef4a09307ab",
+      "contests": 38,
+      "candidateCount": 28,
+      "precinctIds": [
+        447473
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "125",
+      "styleId": 294383,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294383.json",
+      "sha256": "7658597b5f63d4c7a5ce075af00300be71660a67eb763938db57454700b1d08f",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447474,
+        447481
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "126",
+      "styleId": 294384,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294384.json",
+      "sha256": "cf13f0d46286913cb7ee5ceafd2871341f85c126015bca958a34ed43fac20e9b",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447475,
+        447476,
+        447487
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "127",
+      "styleId": 294385,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294385.json",
+      "sha256": "a93c00437d319ff051d2f5d26c69d0d9d5cdd4e864cd519c89c55e6d3087f679",
+      "contests": 38,
+      "candidateCount": 28,
+      "precinctIds": [
+        447477,
+        447485
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "128",
+      "styleId": 294386,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294386.json",
+      "sha256": "b2fce028f5dde7115c3fb5377e6cdd77b595ea653872ca5c884b37e6dd2bd611",
+      "contests": 38,
+      "candidateCount": 28,
+      "precinctIds": [
+        447478,
+        447479,
+        447480,
+        447482
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "129",
+      "styleId": 294387,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294387.json",
+      "sha256": "faf88ded975373f8a8a7acd93d38db0b8cfd2f70891f04faf09609e7a5f74b25",
+      "contests": 39,
+      "candidateCount": 30,
+      "precinctIds": [
+        447483,
+        447484,
+        447490
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "130",
+      "styleId": 294388,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294388.json",
+      "sha256": "3363cb640bbf04da0b1f476942ac242260e4329259854b8db96df202c310445d",
+      "contests": 37,
+      "candidateCount": 26,
+      "precinctIds": [
+        447486,
+        447488
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "131",
+      "styleId": 294389,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294389.json",
+      "sha256": "1698002c8f8273bfdb20c98e4b56ccdc717bb2b3f965f9ab0d1cd619df4dc75d",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447489
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "132",
+      "styleId": 294390,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294390.json",
+      "sha256": "3c266ba146da55ec5ff0b442fe967217ad4437777d49652e004f98844b86131f",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447491,
+        447497
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "133",
+      "styleId": 294391,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294391.json",
+      "sha256": "1f36b0c12ca07fa192c79ca858c0f2f70945ce1044684e82efaf0de6e94016f5",
+      "contests": 36,
+      "candidateCount": 29,
+      "precinctIds": [
+        447492,
+        447532,
+        447619,
+        447629,
+        447630
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "134",
+      "styleId": 294392,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294392.json",
+      "sha256": "85b272eaa5eb8ab1fb6b1ff62ab58de3db454b317b907cbf67f517504a6c7b93",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447493
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "135",
+      "styleId": 294393,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294393.json",
+      "sha256": "bf5fd58abfd2ed43c012ec22d7a18bcdaf58a2bd0d532aeef18ee773c68b8953",
+      "contests": 36,
+      "candidateCount": 31,
+      "precinctIds": [
+        447494
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "136",
+      "styleId": 294394,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294394.json",
+      "sha256": "34da19c159df168c5217534379f367496c887f45733d24d121509ea3811cac5b",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447495,
+        447615
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "137",
+      "styleId": 294395,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294395.json",
+      "sha256": "a27031a340d6a96ad9922340ce7ed774a35e69456865dd32d16150e23a40b2f7",
+      "contests": 36,
+      "candidateCount": 29,
+      "precinctIds": [
+        447496,
+        447507,
+        447904
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "138",
+      "styleId": 294396,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294396.json",
+      "sha256": "0f545a6fdbee07962869da64dda3d4806a200db16f03eb88c136a81503ce55a4",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447498
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "139",
+      "styleId": 294397,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294397.json",
+      "sha256": "88d0fc0181b1827248ea9038aaebcfd063b3e21a42afd1ac0408a6aaf221c1c4",
+      "contests": 38,
+      "candidateCount": 33,
+      "precinctIds": [
+        447499,
+        447519
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "140",
+      "styleId": 294398,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294398.json",
+      "sha256": "2acb3cd7051a7868426e486b2979b31f73be537731f746d0394a63d7b0a724b0",
+      "contests": 36,
+      "candidateCount": 29,
+      "precinctIds": [
+        447500
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "141",
+      "styleId": 294399,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294399.json",
+      "sha256": "4353d8779eef0cbea1ca89c9bc46c17449ca6e4e156b77fcf9bdaf55f3e1a63d",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447501,
+        447505,
+        447645,
+        447828,
+        447829,
+        447830,
+        447831,
+        447833,
+        447834,
+        447835,
+        447837,
+        447838,
+        447839,
+        447841,
+        447842,
+        447843,
+        447844,
+        447845
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "142",
+      "styleId": 294400,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294400.json",
+      "sha256": "60b2be681e5204f15de01f15e347885ad1d6ad891b7911ef7076f966856eee11",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447502,
+        447858
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "143",
+      "styleId": 294401,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294401.json",
+      "sha256": "a8d276426f3042f25f593d3295980d928a4a11e52893cd3379e72ada06914f45",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447503,
+        447743,
+        447748
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "144",
+      "styleId": 294402,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294402.json",
+      "sha256": "06d7cc20cf9e4fec47b7efd0ac12a6d225fcf772e9b1aefd2676dddd32143788",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447504
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "145",
+      "styleId": 294403,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294403.json",
+      "sha256": "6b1f76951d679831b1a03286d8480b133713cd91fbc8790fe2e35c0191a6e338",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447506
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "146",
+      "styleId": 294404,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294404.json",
+      "sha256": "f74125ea3405dcd71f92e7796ecdd6b6d45ed216fc8b2750cf0e2ea0becddeca",
+      "contests": 36,
+      "candidateCount": 29,
+      "precinctIds": [
+        447508
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "147",
+      "styleId": 294405,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294405.json",
+      "sha256": "e65a6d7fd056473197acd81fda4d478571cea3af6c66eed3873cf3a664b9e31d",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447509,
+        447825
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "148",
+      "styleId": 294406,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294406.json",
+      "sha256": "5104ddfedf6f06b1f4398cd6bb09a4dce3c4ec3c774266e162da9a87531e953c",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447510,
+        447824,
+        447826
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "149",
+      "styleId": 294407,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294407.json",
+      "sha256": "ef1b3d619e803380403e1ed4ae89d22652f0d8c88cbbc5b8e0ad1292fe05acfd",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447511,
+        447512,
+        447589,
+        447590,
+        447757,
+        447765
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "150",
+      "styleId": 294408,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294408.json",
+      "sha256": "5d8d60a2905f089650338e5b910b1a16597ed53f106b3624903ccdd88876ca09",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447513,
+        447593,
+        447764,
+        447793
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "151",
+      "styleId": 294409,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294409.json",
+      "sha256": "df56933b5d5e85065be917b36ef9e897e736295ceee7bbf7b3435aae1fc4a5c1",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447517
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "152",
+      "styleId": 294410,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294410.json",
+      "sha256": "52bc22a113edc7f2e4401930fd7a7ddd9af8bf6024a64d78fa5dc1fa412757e4",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447522
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "153",
+      "styleId": 294411,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294411.json",
+      "sha256": "0e910e7bc992b879cd045c951babf1a7d497bd0c580402ac1e990102a184be2d",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447525,
+        447897
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "154",
+      "styleId": 294412,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294412.json",
+      "sha256": "68b6f304867fdd18f1186056cbdd7206f212c801b27a7f40c6c2ecba93042999",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447527,
+        447895
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "155",
+      "styleId": 294413,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294413.json",
+      "sha256": "5035b0e091bf4a2b2a15fbb9c35acbb6c1f563faa54ff466a2b6a75b33a59db2",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447528
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "156",
+      "styleId": 294414,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294414.json",
+      "sha256": "5b52203aa7a30808046ff70ce91e7f74c4a7b1fb129607e31e35193d12db0c44",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447529,
+        447780,
+        447782,
+        447783,
+        447786,
+        447887,
+        447893
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "157",
+      "styleId": 294415,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294415.json",
+      "sha256": "cb7c08287548d90efc106c84e23b2ddb62025b8b2e422886694f296c7969e675",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447530,
+        447785
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "158",
+      "styleId": 294416,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294416.json",
+      "sha256": "c9526ac223f966eb18509628c035c72e176ce5de97a8acb893c3eae702cd1a02",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447531,
+        447877,
+        447908
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "159",
+      "styleId": 294417,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294417.json",
+      "sha256": "59f07304d418334eeb0a7a09c0f12e62b6d432500554ca706e686b3fdcd83de1",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447533,
+        447631,
+        447632,
+        447633,
+        447635,
+        447636,
+        447637,
+        447885,
+        447888,
+        447889,
+        447892,
+        447894,
+        447896,
+        447898
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "160",
+      "styleId": 294418,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294418.json",
+      "sha256": "d918fd92f084981a4e0b268e6ac89fbf8512febcb952be5b8675f9b8a3827c26",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447534
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "161",
+      "styleId": 294419,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294419.json",
+      "sha256": "89508811141a9b0d518bf9e99187e909983b75bc74e8d2b204f5fb4c32ddbf05",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447535
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "162",
+      "styleId": 294420,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294420.json",
+      "sha256": "0ecb33f8a684129b80249c684dca41c1512edcd023a095a822d262c83d7d3f2f",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447536,
+        447564
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "163",
+      "styleId": 294421,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294421.json",
+      "sha256": "45d7a18dfdeea479fab6c307e3d8f3cbf6f93ef12fb08c6252b902135e2e9792",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447537,
+        447538,
+        447642,
+        447643,
+        447644
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "164",
+      "styleId": 294422,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294422.json",
+      "sha256": "b0e810e0402de8003982867bb833c905da470a27cc837e2e5e007c16551555ac",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447539
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "165",
+      "styleId": 294423,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294423.json",
+      "sha256": "b8025cf4cc75600f9a4f2788a418663f13d81e9fd057c13c56a2e6da0f1e1819",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447540
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "166",
+      "styleId": 294424,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294424.json",
+      "sha256": "797693975cd04e3fdefa121e562ff5e11508609e94b90e991a3218a539250e3b",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447541,
+        447553,
+        447905
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "167",
+      "styleId": 294425,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294425.json",
+      "sha256": "8a05fe959b1188883949b25c6de33102dc81249bb529a4ad838d1a1dc400a802",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447542
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "168",
+      "styleId": 294426,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294426.json",
+      "sha256": "996a135a3c15b805945185ec1ae54aba2bd3c95553deec65cb0c4219352a44a4",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447543
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "169",
+      "styleId": 294427,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294427.json",
+      "sha256": "c0a9cfdcaa09732831236c5503da03804cba410a9b72d3754da9e12055050021",
+      "contests": 38,
+      "candidateCount": 30,
+      "precinctIds": [
+        447544
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "170",
+      "styleId": 294428,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294428.json",
+      "sha256": "82a8bc4e5c74729ee3eb6c533c5aef8d63643fb8f8a5f2d1b5a515211082b94b",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447545,
+        447547
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "171",
+      "styleId": 294429,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294429.json",
+      "sha256": "79e8c6a4da116f8970a16c4bd795286d15b294a906889bd1c609221f41db3bbd",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447546
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "172",
+      "styleId": 294430,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294430.json",
+      "sha256": "3db70ce6e4fbf35007d7456c3060a287f97f87aef91ad43fa7b24fc2c79d79ae",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447548
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "173",
+      "styleId": 294431,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294431.json",
+      "sha256": "bb9a413723c31eedadb7a532b905244d5293b66d4025d6be4bf38bccca52d758",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447549
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "174",
+      "styleId": 294432,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294432.json",
+      "sha256": "8d638574d268dac3ff2e7faa5863d720329a320fa34af5b516769e61bfbe0f04",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447550
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "175",
+      "styleId": 294433,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294433.json",
+      "sha256": "6eead65a8a6cb07d5709ac5124d4f59fe7d864a113f2c3a7aeede70cc48788fa",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447551
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "176",
+      "styleId": 294434,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294434.json",
+      "sha256": "b9480d6796c19f4dc4a7efe2553aba26f67773c3d4b13e7456325b451230c19c",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447552
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "177",
+      "styleId": 294435,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294435.json",
+      "sha256": "84a4d24b9e35870ef5c0abf0a08dd18ec2190f9054734729c9e8fd8a174a43ef",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447554
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "178",
+      "styleId": 294436,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294436.json",
+      "sha256": "a585eef3fe8b0e8df4febe4eac21abf6629b5ff5c063bc7c411e0367b8a0ea1c",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447555
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "179",
+      "styleId": 294437,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294437.json",
+      "sha256": "637513389eb93f3d98abf479399d42ad8f9a11696d26e8eecdac6186be36d12d",
+      "contests": 37,
+      "candidateCount": 28,
+      "precinctIds": [
+        447556
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "180",
+      "styleId": 294438,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294438.json",
+      "sha256": "e5fa253379266a760bffa45bbcbc306a19550bdfd7d165e7eca80102298da3d6",
+      "contests": 36,
+      "candidateCount": 26,
+      "precinctIds": [
+        447557
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "181",
+      "styleId": 294439,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294439.json",
+      "sha256": "a030e2168f2c6fe65eefbf1575c37fa71e276e4a9fc4ac3d49b68ab929afc705",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447558,
+        447909
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "182",
+      "styleId": 294440,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294440.json",
+      "sha256": "bbdb638840df0c9fb3d633eb45c1dea31aa45687fe328edf7d85c0fcae731214",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447559
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "183",
+      "styleId": 294441,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294441.json",
+      "sha256": "8279087659ed5d31b7c8047f9461af561f434171b5ad52007091cfcc8c6af0de",
+      "contests": 40,
+      "candidateCount": 34,
+      "precinctIds": [
+        447560
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "184",
+      "styleId": 294442,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294442.json",
+      "sha256": "7f8eb6c42ef532f319bb04167eb9bdbcbdd25c653276aa5e28b237d30f77e711",
+      "contests": 37,
+      "candidateCount": 27,
+      "precinctIds": [
+        447561,
+        447574
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "185",
+      "styleId": 294443,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294443.json",
+      "sha256": "4e7dc2cdc9acd8e3a538c7d9541348f6fdbb71426629d687cd4393b62cb9ed43",
+      "contests": 37,
+      "candidateCount": 27,
+      "precinctIds": [
+        447562
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "186",
+      "styleId": 294444,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294444.json",
+      "sha256": "42ae8dc5826a7f32b85c0b84c7a40b5114744bb8562c50cf7ccf8a36f9dd54ac",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447563
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "187",
+      "styleId": 294445,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294445.json",
+      "sha256": "e115575ec23cce2c622d71d463249d1aee109e228218befecb1932bf34d70b2a",
+      "contests": 36,
+      "candidateCount": 31,
+      "precinctIds": [
+        447565,
+        447682,
+        447690,
+        447691,
+        447692,
+        447693,
+        447694,
+        447695,
+        447696,
+        447697,
+        447698,
+        447699,
+        447700,
+        447701,
+        447705
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "188",
+      "styleId": 294446,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294446.json",
+      "sha256": "7072bd9a55e9f780df199b3c25988a1ae4ef0b48d1a7d139f6e0c29cf2d94692",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447566,
+        447709
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "189",
+      "styleId": 294447,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294447.json",
+      "sha256": "2bd7c033e90531f41f665483cf8fdb846651f2ceb5dad199f7841d941271bb4e",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447567
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "190",
+      "styleId": 294448,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294448.json",
+      "sha256": "5979fe251edb221f1f35819ccb78677951a92fb0bc6f9b8956e739fee364ca39",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447568
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "191",
+      "styleId": 294449,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294449.json",
+      "sha256": "20f78476906d4c584cd85f378710cc251b9f0142a473e750548e83651894191a",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447569
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "192",
+      "styleId": 294450,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294450.json",
+      "sha256": "f65a3a5295fc300a9acd89fdcc0bdb3f36780a2b60e364599e238c8a0258a5df",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447570,
+        447708
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "193",
+      "styleId": 294451,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294451.json",
+      "sha256": "b175b7d309ed49a1ec075311199a5e4579068eb347f27d1626d9d09f854e1af9",
+      "contests": 39,
+      "candidateCount": 32,
+      "precinctIds": [
+        447571,
+        447573
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "194",
+      "styleId": 294452,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294452.json",
+      "sha256": "500b57d49bb1d8b8fccb074e72d5a2ce3dd588fcba404f01180f7db69e4326d2",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447572
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "195",
+      "styleId": 294453,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294453.json",
+      "sha256": "556613c66874d3840c6bb26668df5fbc5dc4e0f35b13d279e711840f39893676",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447575,
+        447576
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "196",
+      "styleId": 294454,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294454.json",
+      "sha256": "64100376b4df121e959c863a5f6e7d033607f78714ac1f52970d9c106204d55b",
+      "contests": 40,
+      "candidateCount": 34,
+      "precinctIds": [
+        447577
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "197",
+      "styleId": 294455,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294455.json",
+      "sha256": "9e6379ffc21c023c68eea5f6cf6cfb9bd360e8388003a032658d192bdbd74173",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447578,
+        447715
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "198",
+      "styleId": 294456,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294456.json",
+      "sha256": "bc543e93d51ab09b1aaf286a1dfac534f7a6a6b14d4167609714c5f5389cbee0",
+      "contests": 35,
+      "candidateCount": 28,
+      "precinctIds": [
+        447579,
+        447742
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "199",
+      "styleId": 294457,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294457.json",
+      "sha256": "b187606c925228f5b89d826904c7e4eb2ce48c32a5a81bdc2ad9359110c95c6d",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447580
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "200",
+      "styleId": 294458,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294458.json",
+      "sha256": "54ffe4128181eef0d38e87aae95832cb0c62f025283f66c8bc1544736f8dd051",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447581
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "201",
+      "styleId": 294459,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294459.json",
+      "sha256": "a29d8eed998b4c6ba492987d50be2dcd16a75d1b715b5c6dc7775a76476d1c5f",
+      "contests": 38,
+      "candidateCount": 33,
+      "precinctIds": [
+        447582
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "202",
+      "styleId": 294460,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294460.json",
+      "sha256": "ff8d8475bc2ef84877687e625b09bc545950269f53ba7b44a378579281131b7e",
+      "contests": 39,
+      "candidateCount": 36,
+      "precinctIds": [
+        447583
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "203",
+      "styleId": 294461,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294461.json",
+      "sha256": "6847fec0d0d145d3fed12fb4e3e1565849897b936ac6914045601be5c5aa5da0",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447584,
+        447710
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "204",
+      "styleId": 294462,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294462.json",
+      "sha256": "3c37cfad868093e3a73dffeac671c99cd2cf1fe7dc7194678869a5d59119a53e",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447585
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "205",
+      "styleId": 294463,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294463.json",
+      "sha256": "92faafb864063c04c019e569c00e75b10bb8ffa996b6ab40250979e98465b3cc",
+      "contests": 35,
+      "candidateCount": 24,
+      "precinctIds": [
+        447586
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "206",
+      "styleId": 294464,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294464.json",
+      "sha256": "3585ec2a096d2d532dbabf92d0cce0cb5efe4606102d594b14d76ba2d2cce0cb",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447587,
+        447588
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "207",
+      "styleId": 294465,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294465.json",
+      "sha256": "e7736d23f38078832fe54c11e3d337783fb8afc63959baa9ac5d8d48130f6213",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447591,
+        447592,
+        447601,
+        447763,
+        447766
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "208",
+      "styleId": 294466,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294466.json",
+      "sha256": "fd1aed6c4ef803ad38b9ba3fe19f5593b9eae0be3138cdce5564bb4dafcc52ef",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447594,
+        447770,
+        447771,
+        447774,
+        447775
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "209",
+      "styleId": 294467,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294467.json",
+      "sha256": "e20b1664d5599d474a8e71b7fffbf000d2c9e033dd31274965a9eb1d20e8f216",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447595
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "210",
+      "styleId": 294468,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294468.json",
+      "sha256": "aadef0e3b0a8edda9acae971738dc01635c1ccd98d8682a8952391e8cebe1d19",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447596,
+        447597,
+        447598
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "211",
+      "styleId": 294469,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294469.json",
+      "sha256": "7e3abd635c5e4117a90b9c0b8f970033421b3ecf5db88354dbee12c187136c25",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447599,
+        447600
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "212",
+      "styleId": 294470,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294470.json",
+      "sha256": "637a43456f02d3a77157cf102d7dab5be2172e151154034d0f93e7d073ebd7d4",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447602
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "213",
+      "styleId": 294471,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294471.json",
+      "sha256": "99882846100528a10011d3206d382334b6674ad9d7133f9c0e7716e9e083690c",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447603,
+        447604
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "214",
+      "styleId": 294472,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294472.json",
+      "sha256": "01ee826489e8c0114e841b05c9ff2b16349710bc66ba36f93d94ecbdf99e7014",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447609
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "215",
+      "styleId": 294473,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294473.json",
+      "sha256": "ab1140a08381264d91dd3c6bc74a4110d6251d67854eb805ec219db8c95403a4",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447612
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "216",
+      "styleId": 294474,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294474.json",
+      "sha256": "7c25415e5db5c710457c1322b336cd3a9c9d0672c52e46c1590cecad5e8d3ba3",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447614
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "217",
+      "styleId": 294475,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294475.json",
+      "sha256": "0fb4056d13b431468b0e1ccb4efea01d6eeec961e9f3c830d1845adb8978975a",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447616,
+        447617,
+        447618,
+        447622,
+        447623
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "218",
+      "styleId": 294476,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294476.json",
+      "sha256": "9fdde7726f4dbb89194a2e647f878193b64ffc898eabd6c5e8394e8353a51877",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447620,
+        447625
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "219",
+      "styleId": 294477,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294477.json",
+      "sha256": "2843ce62034f3350c6d155b075894fc5385dd7f57fa505f9f17c5a822d412adb",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447621
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "220",
+      "styleId": 294478,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294478.json",
+      "sha256": "284b0725b1dc3c58d4cdad3c2743ac1046204cf0759881e9853d45659a471945",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447624,
+        447626,
+        447627,
+        447646
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "221",
+      "styleId": 294479,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294479.json",
+      "sha256": "cfb0660b49b56296461b4caeea49e2a6a1170c1af33563286aafbffc6583090d",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447628
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "222",
+      "styleId": 294480,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294480.json",
+      "sha256": "6a100e778299e7123577ae23de0f28278f76947f474d85df4f3b6d319f68c1b7",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447634,
+        447832
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "223",
+      "styleId": 294481,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294481.json",
+      "sha256": "eeca274286217473500e9e203d9c801e98afcee5f12f885af7794ab40cf3e16c",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447638
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "224",
+      "styleId": 294482,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294482.json",
+      "sha256": "72924bba0e325650e1794198a1556db5970f81145ff5674cb4b8843a0c3997a6",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447639
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "225",
+      "styleId": 294483,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294483.json",
+      "sha256": "a1cd6a806a1fcab2fe582f9c6c56b5de7378b580f0f8ea0338289b4b6ca1245d",
+      "contests": 36,
+      "candidateCount": 29,
+      "precinctIds": [
+        447640,
+        447641
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "226",
+      "styleId": 294484,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294484.json",
+      "sha256": "6b5b7b32838b121d26b069eb15e25ba14c825375cd0f6888881e3a2bea668477",
+      "contests": 34,
+      "candidateCount": 25,
+      "precinctIds": [
+        447647,
+        447650,
+        447659,
+        447663
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "227",
+      "styleId": 294485,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294485.json",
+      "sha256": "07b85a6efefe04e7b19782aecddccb74481f28e8be3f9e35c521476e96357898",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447648,
+        447651,
+        447660,
+        447664,
+        447665,
+        447670,
+        447671,
+        447672
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "228",
+      "styleId": 294486,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294486.json",
+      "sha256": "6b8440a6f2d77ebbf38cbf29f8ac85c2bb345f3e0bb84a70f15450cb321d0be2",
+      "contests": 34,
+      "candidateCount": 25,
+      "precinctIds": [
+        447649,
+        447656,
+        447658,
+        447669,
+        447753,
+        447754,
+        447759
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "229",
+      "styleId": 294487,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294487.json",
+      "sha256": "2b6fcef8aa09d6b2e428107ecc4ee4b72a02c5722bda1688d3182c7f28813f29",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447652,
+        447655,
+        447689
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "230",
+      "styleId": 294488,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294488.json",
+      "sha256": "e7c65b27f480311176d9833cbb71df60637c1b41094f412034e7eb41d3a9e596",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447653,
+        447678
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "231",
+      "styleId": 294489,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294489.json",
+      "sha256": "2cd25a0fc786bb7c424a393126d88f5bd7e6cfbd227881b2824a2158370993d7",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447654
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "232",
+      "styleId": 294490,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294490.json",
+      "sha256": "54c59750eef56b651775c60cc4f377f280bc5b232559c4b9efb601c3cc53198a",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447657
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "233",
+      "styleId": 294491,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294491.json",
+      "sha256": "8f86c4f30373b07070854960fef8778de87a255c5e4d8f73576040629654b820",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447661
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "234",
+      "styleId": 294492,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294492.json",
+      "sha256": "7b5b96e13d620c6b02e4bef6ea07c2f84511f4d505954f98b2340ff773126122",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447662,
+        447675,
+        447677
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "235",
+      "styleId": 294493,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294493.json",
+      "sha256": "a1f06a7756b9e777a32ec9c01d4b1fb1ff76d3a54d46eb726edce0c5d3c4b991",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447666
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "236",
+      "styleId": 294494,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294494.json",
+      "sha256": "e29a1abe075a3dc2f170ebb2bfc9ca77d168e972baf0c10e4671787b5ed0c96c",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447667
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "237",
+      "styleId": 294495,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294495.json",
+      "sha256": "f6fade85df75fcf15402a5d31a37286fff1a431ba06fd1599b97b3f14edee2d6",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447668
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "238",
+      "styleId": 294496,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294496.json",
+      "sha256": "23e84fea60fdab60d3b366296b46edbfc09055c9ea324998f474afa542b7e3e5",
+      "contests": 34,
+      "candidateCount": 26,
+      "precinctIds": [
+        447673
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "239",
+      "styleId": 294497,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294497.json",
+      "sha256": "3712d64faeb87c5b6124749c487d04b737d194b122f9755fd425f34d6b6e2020",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447674,
+        447676
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "240",
+      "styleId": 294498,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294498.json",
+      "sha256": "1766db0b45d6e9f3b70c6c7c307cead3c91dcf7e01374d45f14dd9eaf03bdcb9",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447679
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "241",
+      "styleId": 294499,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294499.json",
+      "sha256": "44a4e2d1a339319ae5f595277bd8928fb80efa40b01fe67dd98b7d0136e312aa",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447680,
+        447768
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "242",
+      "styleId": 294500,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294500.json",
+      "sha256": "ad64939c47702506c5e49b45eba9b6a9569588198291fb85823c05eadec4ef34",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447681,
+        447686,
+        447704
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "243",
+      "styleId": 294501,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294501.json",
+      "sha256": "f95c3e8c9a0faeb7c9263fc036d5c4105409deb29a2492c15b6883b3ffa23616",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447683
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "244",
+      "styleId": 294502,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294502.json",
+      "sha256": "1d7d40b1cd9056edbb9388ad866850746ccc7bac6d1f3118b1a5a55b49381ddb",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447684,
+        447685,
+        447688
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "245",
+      "styleId": 294503,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294503.json",
+      "sha256": "a758a0e93d42b0469d83d5ec2d2d97863667c3047a725eb11280c672440a9cf3",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447687
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "246",
+      "styleId": 294504,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294504.json",
+      "sha256": "d7e9a259a4ce281893f402a3c7ff0ef5c5460bf188b9b6d3a9cf12aadc45718e",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447702
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "247",
+      "styleId": 294505,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294505.json",
+      "sha256": "5a216bbe97ac9ccd21c008ab2b2e7f3b143ce8903db5d68b8dab8967413139a3",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447703
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "248",
+      "styleId": 294506,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294506.json",
+      "sha256": "786059d6d004e51989b1dd7c514c215d4f71eb8a15fe26a6c98250adee0e3438",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447706
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "249",
+      "styleId": 294507,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294507.json",
+      "sha256": "5c8d2e1672aaee73b778419a8265c5909b22329b7bf1ca45a092f03ebb53ce71",
+      "contests": 38,
+      "candidateCount": 35,
+      "precinctIds": [
+        447707,
+        447716
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "250",
+      "styleId": 294508,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294508.json",
+      "sha256": "0d9da95819073fab24e4b8e926fa2e493f07960556f373fd652ddf19b022d576",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447711,
+        447712,
+        447724,
+        447725,
+        447726,
+        447732,
+        447734,
+        447739
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "251",
+      "styleId": 294509,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294509.json",
+      "sha256": "89df511952ed6fb54960dfee2a2a744127086ebe3031a55c8c193e2c7eb1d037",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447713,
+        447773,
+        447777,
+        447778,
+        447779
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "252",
+      "styleId": 294510,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294510.json",
+      "sha256": "465ebfebc5b82341f365e41244fdce1a56507a792965cf6c0fbb7bfb98acda75",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447714,
+        447794,
+        447799,
+        447800,
+        447802,
+        447803,
+        447804,
+        447805,
+        447807,
+        447808,
+        447809,
+        447810,
+        447812
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "253",
+      "styleId": 294511,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294511.json",
+      "sha256": "be6427390c7c3242bc968a0e17e98714857c2d86577117e4e802b1001592742d",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447717
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "254",
+      "styleId": 294512,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294512.json",
+      "sha256": "19ed0adc1a8fa54b522a6889165e58c5cefec6e49f700a1750e777cd0a1efa87",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447718
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "255",
+      "styleId": 294513,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294513.json",
+      "sha256": "2f0fba1fddcd5921fe2a144164b017a445aabf60aaa7682cea2406f26886f0b8",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447719,
+        447749
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "256",
+      "styleId": 294514,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294514.json",
+      "sha256": "8800f4f4b5cd61ba90e067f6850c3d40bb2aaf7df79f54c1ba9f9fb4986a1ef9",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447720
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "257",
+      "styleId": 294515,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294515.json",
+      "sha256": "6251540375da7c8249d6f1667b02b669e78d6a3b1e9036552d340c1ed991ff5a",
+      "contests": 39,
+      "candidateCount": 30,
+      "precinctIds": [
+        447721
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "258",
+      "styleId": 294516,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294516.json",
+      "sha256": "df405cef3776edc3351a1f2005e6cf83a0a1e79b7dd6c3e4b212b310d72f1732",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447722
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "259",
+      "styleId": 294517,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294517.json",
+      "sha256": "a96471178e8e6da45e161246f0c7ce57408e947c198825e4bd4f86d098cd57d6",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447723
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "260",
+      "styleId": 294518,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294518.json",
+      "sha256": "503055f7bdaaf51e242f3df340b9d46fc5e182c4544d23160463e199086ab5c7",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447727
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "261",
+      "styleId": 294519,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294519.json",
+      "sha256": "2beff650b305d8049719a34bab260ec248d7fff50ae8be817ad5d39ac8f92ac6",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447728,
+        447731
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "262",
+      "styleId": 294520,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294520.json",
+      "sha256": "882429cf19de0a8247e511c9fb15ec30a5796748e1e88d7603788dff4057ae5a",
+      "contests": 40,
+      "candidateCount": 34,
+      "precinctIds": [
+        447729
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "263",
+      "styleId": 294521,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294521.json",
+      "sha256": "6ed87e91253ba9edcb8213393b2119ef1db962b95d42a2d6e497d59aae53f3e9",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447730
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "264",
+      "styleId": 294522,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294522.json",
+      "sha256": "f92f2e0dd68794bf3e6dfdbe1a92afb3443b6930637e20eb1d5ad31f147b211b",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447733
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "265",
+      "styleId": 294523,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294523.json",
+      "sha256": "c8b6acac9abd39b4a191064811d931204bfe64256f2b27e31cff8ba8e3000b63",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447735
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "266",
+      "styleId": 294524,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294524.json",
+      "sha256": "a50369e24fbdd15029b2f7b79dc5e8ed8f6e645eb5c4e33662737da12df026d1",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447736
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "267",
+      "styleId": 294525,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294525.json",
+      "sha256": "9d2d9d90ccae702ce834296bb550835ab8f993c783dbcad2b3f9bb3bfa8634a0",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447737,
+        447738
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "268",
+      "styleId": 294526,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294526.json",
+      "sha256": "99c51df0cecc9a8f13c5eb384343ea2fabd0326161c1a19b37ee355c951a1246",
+      "contests": 37,
+      "candidateCount": 31,
+      "precinctIds": [
+        447740,
+        447741
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "269",
+      "styleId": 294527,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294527.json",
+      "sha256": "d656f6d3d4bc601bca604fc40bdd86f8c1e4ee2b29f49b192c72b566894d788f",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447744
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "270",
+      "styleId": 294528,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294528.json",
+      "sha256": "0c2687d139ff62fbda484889d649d429a50f3d1f72b9900e5e474db63d9b9adc",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447745
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "271",
+      "styleId": 294529,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294529.json",
+      "sha256": "656d0f88104f95f060b24d08421b3b90f75d974c1f9ff336fe651b9bac01a846",
+      "contests": 38,
+      "candidateCount": 29,
+      "precinctIds": [
+        447746,
+        447910
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "272",
+      "styleId": 294530,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294530.json",
+      "sha256": "6440f8289173c89cbb3ab4dc8d64d634a77c55edba89590fb8de8ab2a3a7902c",
+      "contests": 41,
+      "candidateCount": 36,
+      "precinctIds": [
+        447747
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "273",
+      "styleId": 294531,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294531.json",
+      "sha256": "0b11e38e3eca37bb977114fa5f043058b9df3d9769e92303538cad290fe2e4e4",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447750
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "274",
+      "styleId": 294532,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294532.json",
+      "sha256": "60330b0d785cc9be48fd22625be2c3794cee19c03adf9196e49b9f6d02d73714",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447751
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "275",
+      "styleId": 294533,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294533.json",
+      "sha256": "dffe8f16755edc77d82fef81cba05775af5b24a20e16b16a020b9d2b42a5634d",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447752
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "276",
+      "styleId": 294534,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294534.json",
+      "sha256": "ee7057f5e637ed14622d8223112ebfe7232d3b2596a84ef48f99ed2d19787b2f",
+      "contests": 34,
+      "candidateCount": 25,
+      "precinctIds": [
+        447755,
+        447758,
+        447760,
+        447761,
+        447762,
+        447767
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "277",
+      "styleId": 294535,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294535.json",
+      "sha256": "f7381350046d0c86d35ce9e992a58cc914968d7cb91ea2cfd7c6cfe1810c00c9",
+      "contests": 35,
+      "candidateCount": 27,
+      "precinctIds": [
+        447756
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "278",
+      "styleId": 294536,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294536.json",
+      "sha256": "e5ee669fe0120f668e6d89bc1e7ff73c5ad9e5078ac57a8e7bb8f57f424ff642",
+      "contests": 34,
+      "candidateCount": 25,
+      "precinctIds": [
+        447769
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "279",
+      "styleId": 294537,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294537.json",
+      "sha256": "5b6c00aadfd747009e6e59e57892372b7ab6471ee152505241cf7639b0a7ea37",
+      "contests": 33,
+      "candidateCount": 22,
+      "precinctIds": [
+        447772,
+        447776
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "280",
+      "styleId": 294538,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294538.json",
+      "sha256": "acc6f09117fa1c0936428b4abc13763ad32c9c3dc9562c0cf96441ebd3275067",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447781,
+        447784,
+        447787
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "281",
+      "styleId": 294539,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294539.json",
+      "sha256": "886cfdebe878870b1d5ad6053dacc68dc0f61011589692f3762d428a312f7bb5",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447788
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "282",
+      "styleId": 294540,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294540.json",
+      "sha256": "4e18d8f284242a221b19c391f7e9b5c12a0e5a45d2784c6dc144afac41593164",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447789,
+        447853,
+        447856,
+        447859,
+        447860,
+        447869,
+        447874
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "283",
+      "styleId": 294541,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294541.json",
+      "sha256": "d71d4bea7a512e23e0b713782e57c3f47d141bcbbd6028662c7f32e1f9efaf1b",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447790,
+        447854
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "284",
+      "styleId": 294542,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294542.json",
+      "sha256": "8f91e9adf2417378311fedc93ab071b7ae5232ab641aa189c46ea9842b735941",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447791
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "285",
+      "styleId": 294543,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294543.json",
+      "sha256": "7fd683b7fc3a7ee9ed809875f964eb7a1a9defca4d73bc2215bcc6152b694ee4",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447792,
+        447847,
+        447848,
+        447849,
+        447855,
+        447862
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "286",
+      "styleId": 294544,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294544.json",
+      "sha256": "01f15676326828d02ff9d0f29eac1ed2873a691e16066350d2f1f1b48b642146",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447795
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "287",
+      "styleId": 294545,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294545.json",
+      "sha256": "3e2d774b3b751256924dbf7c7d0c3ea738f168c5b5916b99480cbb0566275049",
+      "contests": 40,
+      "candidateCount": 33,
+      "precinctIds": [
+        447796,
+        447797
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "288",
+      "styleId": 294546,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294546.json",
+      "sha256": "27c8466d2ec01efbb34386c96a8d09610bbd0707e22de1af48322c8481a1a4df",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447798
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "289",
+      "styleId": 294547,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294547.json",
+      "sha256": "2f8e1eb56b724f59908e82147a3b272e10df1879ece8d84d9af4a5de96c92c2a",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447801
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "290",
+      "styleId": 294548,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294548.json",
+      "sha256": "8b1eb396dcc86b86084ba7acd1a61344103558448a4917acf6bf8d3ad6edeb76",
+      "contests": 37,
+      "candidateCount": 34,
+      "precinctIds": [
+        447806,
+        447811
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "291",
+      "styleId": 294549,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294549.json",
+      "sha256": "d189f3f36999734ff257e8f67acd1c64e5993e5027f2e84fcd89871bdb1fefb1",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447813,
+        447817,
+        447827
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "292",
+      "styleId": 294550,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294550.json",
+      "sha256": "407f1ce424093195e58d6f7f76cf488ae5d70a2627f4c251714e7109dd7a247f",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447814
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "293",
+      "styleId": 294551,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294551.json",
+      "sha256": "ded30db5b4260ce222fe5bf3e35b75baa59d81ee9d72563b6f2228bc1b739657",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447815
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "294",
+      "styleId": 294552,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294552.json",
+      "sha256": "d5f5b60a5bddbf0628f07743638bff598602fdc5abadf4c02d506bfaa6797613",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447816
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "295",
+      "styleId": 294553,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294553.json",
+      "sha256": "25c1533165f4aa414ef4b0ac217b301df60a75f50dac9b651387ee78f32500e5",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447818
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "296",
+      "styleId": 294554,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294554.json",
+      "sha256": "ff6052aebb87efe0d157f234742ab8dde76c4e4b5e8b05a0a19a70e55050d2d3",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447819
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "297",
+      "styleId": 294555,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294555.json",
+      "sha256": "cf4b9672af8b11cf61c098cd8163a2f0b058a54aed76b123b875c36e1d28cfb3",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447820
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "298",
+      "styleId": 294556,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294556.json",
+      "sha256": "48e9a615d1a0b2e0ff61a0b35752874b42381567e935a80287f571db5a3e2088",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447821
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "299",
+      "styleId": 294557,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294557.json",
+      "sha256": "75b8a603ccc794ab64af70b82cea8aadd97243388944905b72abddb29c3dc2f6",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447822
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "300",
+      "styleId": 294558,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294558.json",
+      "sha256": "d7dbbf00196125e64828415ffb111ae62d7e51ff0dd0c63b25fa08b42d7daa06",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447823
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "301",
+      "styleId": 294559,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294559.json",
+      "sha256": "662b4e574ed12d85656fd99253b3091b3d199f06fa5fbdaed8e2ec912da2afe8",
+      "contests": 36,
+      "candidateCount": 32,
+      "precinctIds": [
+        447836,
+        447840
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "302",
+      "styleId": 294560,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294560.json",
+      "sha256": "da1614898fc6c17ab9c233d6d2a8fbef3cba938e62c172b271fba13386b673c2",
+      "contests": 35,
+      "candidateCount": 30,
+      "precinctIds": [
+        447846
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "303",
+      "styleId": 294561,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294561.json",
+      "sha256": "a7447d99f5d65cecf18b4d98257986949e62f0d49cbca3b69be5c9ac00f3bccb",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447850,
+        447851,
+        447852,
+        447863,
+        447866
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "304",
+      "styleId": 294562,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294562.json",
+      "sha256": "5af9cfbe6bf641a8aa230c049623f2a37dc416fff3f319c07c68c647e7053999",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447857
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "305",
+      "styleId": 294563,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294563.json",
+      "sha256": "d19b5912181607b35d88ad47ad28e718546738694f27689016e16a8f75498844",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447861,
+        447870
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "306",
+      "styleId": 294564,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294564.json",
+      "sha256": "5fe7ae60d05d8e6d8a50cb9bf9da7ddb6f6dbda92cf1732a2e2eb125f0f63308",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447864
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "307",
+      "styleId": 294565,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294565.json",
+      "sha256": "6035726950461fe3bc1893aa61ce7e06b9188c6a09ed1ed16d3df5207afcc8cb",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447865,
+        447867,
+        447868,
+        447872,
+        447873,
+        447876
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "308",
+      "styleId": 294566,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294566.json",
+      "sha256": "39118c27d5cf2370bebce1f09fd71ecd0e3f3a00897102fa290162fb25889532",
+      "contests": 36,
+      "candidateCount": 28,
+      "precinctIds": [
+        447871
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "309",
+      "styleId": 294567,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294567.json",
+      "sha256": "72c8b2995075a86e6e2ccb4a72807b4ab1599d8987e58e940fdc6506596f3462",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447875
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "310",
+      "styleId": 294568,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294568.json",
+      "sha256": "63caac9761f538f0c8436e01a9d2e726b52f1c7b52e269696f4243a0df6272aa",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447878,
+        447881
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "311",
+      "styleId": 294569,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294569.json",
+      "sha256": "3ab108d1e24260d68515312f4976228c8334cf6551d4f41e623afbe542ca0b60",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447879,
+        447883
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "312",
+      "styleId": 294570,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294570.json",
+      "sha256": "011dca89a1dd2ed22fe76a04977b8509fbb556d3a52a3ba6ff47fcc995b5f9fb",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447880,
+        447884,
+        447886,
+        447890
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "313",
+      "styleId": 294571,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294571.json",
+      "sha256": "577440aa065a77abeb23950a734b064fedeef99c75e4c63bb70adce2a7330f45",
+      "contests": 35,
+      "candidateCount": 26,
+      "precinctIds": [
+        447882
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "314",
+      "styleId": 294572,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294572.json",
+      "sha256": "2a43ce07c3e437a08314d63a954f13ea8475eebaff1a97a1b3edbd8167d7fd2a",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447891,
+        447907
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "315",
+      "styleId": 294573,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294573.json",
+      "sha256": "3bd0f416256b116bc0916728a05a23c04d62d0feedd42e8a183b4db82bf35326",
+      "contests": 34,
+      "candidateCount": 24,
+      "precinctIds": [
+        447906
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "316",
+      "styleId": 294574,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294574.json",
+      "sha256": "2999f1da80f3b48f4c11048f2dceea6cb29b8b2154e8f1089d2a85d1b3508a2f",
+      "contests": 39,
+      "candidateCount": 31,
+      "precinctIds": [
+        447911
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "317",
+      "styleId": 294575,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294575.json",
+      "sha256": "a71b34d42db3c802b829e4a651b69a7d6ae01e0fd250dcb2e16276b31990dceb",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447912
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "318",
+      "styleId": 294576,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294576.json",
+      "sha256": "2c330f4696fcf090c950abcc6c5b210e624646bc9a699b1278db319adeae73c5",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447913,
+        447914,
+        447915,
+        447916,
+        447930,
+        447931,
+        447932,
+        447933,
+        447934,
+        447935,
+        447936,
+        447946
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "319",
+      "styleId": 294577,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294577.json",
+      "sha256": "c98b6863c69a0d4146dbb7de1c40e068c0351cd2dec0c5b37290a5e909768d13",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447917,
+        447919
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "320",
+      "styleId": 294578,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294578.json",
+      "sha256": "aa3cd30a7cd1fc8f2638f147b3a1fe1bc6f80eb35c14d96d80943fc519475dd4",
+      "contests": 37,
+      "candidateCount": 30,
+      "precinctIds": [
+        447918
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "321",
+      "styleId": 294579,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294579.json",
+      "sha256": "1ca2bd31058eff46e73b18a5d2f6657bc5701c89edc4f4af3d8f23ca100f1d59",
+      "contests": 38,
+      "candidateCount": 34,
+      "precinctIds": [
+        447920,
+        447921,
+        447922,
+        447923
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "322",
+      "styleId": 294580,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294580.json",
+      "sha256": "7d088ec819c680c5cf4cd2881c93ae8450b1ca48ed95aba99dae6e6d2e949d4a",
+      "contests": 36,
+      "candidateCount": 30,
+      "precinctIds": [
+        447924
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "323",
+      "styleId": 294581,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294581.json",
+      "sha256": "d8f3f913011913670a7d48e55824caa8276804e802ebe5a644f0968042f6793c",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447925,
+        447927,
+        447928,
+        447929
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "324",
+      "styleId": 294582,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294582.json",
+      "sha256": "c41c47aa627194ab09275c8402d32cad671fb7cbb1a64e8c6aba60b9f5599380",
+      "contests": 38,
+      "candidateCount": 32,
+      "precinctIds": [
+        447926
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "325",
+      "styleId": 294583,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294583.json",
+      "sha256": "23e1f532d4e8a291de2400610fa7b2f5cfd15eb03be8ffb9ed71a83284f404af",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447937,
+        447938,
+        447939,
+        447940,
+        447942,
+        447943,
+        447944,
+        447945
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "326",
+      "styleId": 294584,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294584.json",
+      "sha256": "0662d5fa60ab760f251b3543e6a7c2a7c41fc117edf79d9b9cd69271be3467bb",
+      "contests": 37,
+      "candidateCount": 33,
+      "precinctIds": [
+        447941
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    },
+    {
+      "code": "327",
+      "styleId": 294585,
+      "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/294585.json",
+      "sha256": "f3dd139f021f605b8073aa4a15de8468f6e54c59715cc62f994c5ea63cf527d4",
+      "contests": 37,
+      "candidateCount": 32,
+      "precinctIds": [
+        447947,
+        447948
+      ],
+      "electionTitle": "November 3, 2026 General Election",
+      "status": "approved"
+    }
+  ],
+  "indexCount": 328,
+  "voterStyleCount": 327,
+  "precinctCount": 708,
+  "excludedCompositeStyleId": 294586,
+  "sharedCandidateNamesAndPartiesChecked": true,
+  "fullBoxIndexChecked": true,
+  "allRawContestContentStableAcrossStyles": true,
+  "allPrecinctMappingsChecked": true,
+  "uniqueContests": 134,
+  "newContests": 109,
+  "sharedContests": 25,
+  "sourceUrl": "https://ca.omniballot.us/published/06085/1968/styles/lookups.json"
+}
